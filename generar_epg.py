@@ -10,7 +10,12 @@ M3U_FILE = "Zico Iptv.m3u"
 OUTPUT_FILE = "guide.xml"
 EPGSHARE_BASE = "https://epgshare01.online/epgshare01/epg_ripper_{code}1.xml.gz"
 PAISES_EPGSHARE = ["AR", "BR", "CR", "ES", "FR", "MX", "PT", "UK", "US"]
-OPEN_EPG_URLS = []
+OPEN_EPG_URLS = [
+    "https://www.open-epg.com/files/unitedkingdom.xml.gz",
+    "https://www.open-epg.com/files/unitedstates1.xml.gz",
+    "https://www.open-epg.com/files/unitedstates10.xml.gz",
+    "https://www.open-epg.com/files/unitedstates11.xml.gz"
+]
 
 def parse_m3u(path):
     canales = {}
