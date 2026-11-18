@@ -42,7 +42,7 @@ http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318617
 #EXTINF:-1 tvg-id="Canal.History.2.(Costa.Rica).cr" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/pvwr6D6C/H2more2history.webp" group-title="Culturales" tvg-group="Culturales",HISTORY 2
 http://redworld.pro:8880/marcos6@72639/81266785849/318619
 
-#EXTINF:-1 tvg-id="Telemundo Houston" tvg-name="TELEMUNDO HOUSTON" tvg-logo="https://i.ibb.co/8gqrJVGB/KTMD-2012.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",TELEMUNDO HOUSTON
+#EXTINF:-1 tvg-id="Telemundo (KTMD) Houston, TX HD.us" tvg-name="TELEMUNDO HOUSTON" tvg-logo="https://i.ibb.co/8gqrJVGB/KTMD-2012.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",TELEMUNDO HOUSTON
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1035972.m3u8
 
 #EXTINF:-1 tvg-id="Univisión Houston" tvg-name="UNIVISIÓN HOUSTON" tvg-logo="https://i.ibb.co/1fhyg7hm/KXLN-Univision-45-Houston.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",UNIVISIÓN HOUSTON
@@ -159,10 +159,10 @@ http://redworld.pro:8880/marcos6@72639/81266785849/414483
 #EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="https://i.ibb.co/SXzpc8s1/Dark-2016.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DARK
 http://my.atrupo4k.com:80/702ad5a1d155./uu1waTCUgJPsooH/180022
 
-#EXTINF:-1 tvg-id="CNN Internacional" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.ibb.co/5WCtSrh3/CNN-2014.jpg" group-title="Noticias" tvg-group="Noticias",CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="CNN HD.us" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.ibb.co/5WCtSrh3/CNN-2014.jpg" group-title="Noticias" tvg-group="Noticias",CNN INTERNACIONAL
 http://playtvch.lat:2082/Frankyvarela/91682929262/4889
 
-#EXTINF:-1 tvg-id="Fox News" tvg-name="FOX NEWS" tvg-logo="https://i.ibb.co/cXRfHMDN/Fox-News-Channel-2017.jpg" group-title="Noticias" tvg-group="Noticias",FOX NEWS
+#EXTINF:-1 tvg-id="Fox News HD.us" tvg-name="FOX NEWS" tvg-logo="https://i.ibb.co/cXRfHMDN/Fox-News-Channel-2017.jpg" group-title="Noticias" tvg-group="Noticias",FOX NEWS
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1036106.m3u8
 
 #EXTINF:-1 tvg-id="MovistarLaLigaTV.es" tvg-name="M+ La Liga TV" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png" group-title="Deportes" tvg-group="Deportes",LA LIGA TV M+
