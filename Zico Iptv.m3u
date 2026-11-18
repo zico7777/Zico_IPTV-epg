@@ -135,13 +135,13 @@ http://redworld.pro:8880/marcos6@72639/81266785849/414500
 #EXTINF:-1 tvg-id="Sony" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/7JYwxpgZ/Sony-Channel-2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",SONY CHANNEL
 http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCGcsb6nwIUz5mbCzd9qmPK8/ts
 
-#EXTINF:-1 tvg-id="Warner" tvg-name="WARNER" tvg-logo="https://i.ibb.co/6cWZqQ8h/Warner-Bros-Pictures-2023-Print-color.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",WARNER
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Costa.Rica).cr" tvg-name="WARNER" tvg-logo="https://i.ibb.co/6cWZqQ8h/Warner-Bros-Pictures-2023-Print-color.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",WARNER
 http://redworld.pro:8880/marcos6@72639/81266785849/414485
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/TBBrSWyY/amc-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AMC
 http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCEO_M3wUuBbnUNbgW4eZZIv/ts
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",FX
+#EXTINF:-1 tvg-id="Canal.FX.(Costa.Rica).cr" tvg-name="FX" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",FX
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769434.m3u8
 
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",FXX
@@ -150,13 +150,13 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1036108.m3u8
 #EXTINF:-1 tvg-id="AMC SERIES" tvg-name="AMC SERIES" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AMC SERIES
 http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/106
 
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/GQYN38Dx/TNT-Series-2025.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT SERIES
+#EXTINF:-1 tvg-id="Canal.TNT.Series.(Costa.Rica).cr" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/GQYN38Dx/TNT-Series-2025.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT SERIES
 http://redworld.pro:8880/marcos6@72639/81266785849/414476
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/nMTd6v93/AXN-HD-2015.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AXN
+#EXTINF:-1 tvg-id="Canal.AXN.(Costa.Rica).cr" tvg-name="AXN" tvg-logo="https://i.ibb.co/nMTd6v93/AXN-HD-2015.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AXN
 http://redworld.pro:8880/marcos6@72639/81266785849/414483
 
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="https://i.ibb.co/SXzpc8s1/Dark-2016.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DARK
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="DARK" tvg-logo="https://i.ibb.co/SXzpc8s1/Dark-2016.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DARK
 http://my.atrupo4k.com:80/702ad5a1d155./uu1waTCUgJPsooH/180022
 
 #EXTINF:-1 tvg-id="CNN HD.us" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.ibb.co/5WCtSrh3/CNN-2014.jpg" group-title="Noticias" tvg-group="Noticias",CNN INTERNACIONAL
