@@ -1,0 +1,2350 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="Zico IPTV EPG" generator-info-url="https://github.com/">
+  <channel id="Canal.Animal.Planet.(Costa.Rica).cr">
+    <display-name>ANIMAL PLANET</display-name>
+    <icon src="https://i.ibb.co/RkHJ4K8B/Animal-Planet-logo-PNG-14.png" />
+  </channel>
+  <channel id="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <display-name>DISCOVERY CHANNEL</display-name>
+    <icon src="https://i.ibb.co/bRRTP5ZW/Discovery-Channel-Logo-2016-700x394.png" />
+  </channel>
+  <channel id="DiscoveryWorld.ar">
+    <display-name>DISCOVERY WORLD</display-name>
+    <icon src="https://i.ibb.co/Qvdy027f/Discovery-World-HD.jpg" />
+  </channel>
+  <channel id="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <display-name>DISCOVERY THEATER</display-name>
+    <icon src="https://i.ibb.co/zv29PmY/theater-discovery-hd-seeklogo.png" />
+  </channel>
+  <channel id="Canal.Discovery.Home.&amp;amp;.Health.(México).mx">
+    <display-name>DISCOVERY H&amp;H</display-name>
+    <icon src="https://i.ibb.co/2YhSmrNx/Discovery-H-H-2026-stacked.jpg" />
+  </channel>
+  <channel id="Canal.Discovery.Science.(Latinoamérica).cr">
+    <display-name>DISCOVERY SCIENCE</display-name>
+    <icon src="https://i.ibb.co/Q7GrSqHB/discovery-science-seeklogo.png" />
+  </channel>
+  <channel id="Canal.TLC.(Costa.Rica).cr">
+    <display-name>TLC</display-name>
+    <icon src="https://i.ibb.co/hRNf1Qj9/tlc-seeklogo.png" />
+  </channel>
+  <channel id="DiscoveryID.mx">
+    <display-name>DISCOVERY ID</display-name>
+    <icon src="https://i.ibb.co/Dg7Hnvfr/investigation-discovery-seeklogo.png" />
+  </channel>
+  <channel id="HGTV">
+    <display-name>HGTV</display-name>
+    <icon src="https://i.ibb.co/ccyy7W3H/hgtv-seeklogo.png" />
+  </channel>
+  <channel id="Canal.National.Geographic.(Costa.Rica).cr">
+    <display-name>NAT GEO</display-name>
+    <icon src="https://i.ibb.co/7tw0XrS5/national-geographic-1024.png" />
+  </channel>
+  <channel id="NatGeoWild.us">
+    <display-name>NAT GEO WILD</display-name>
+    <icon src="https://i.ibb.co/My4tQXPX/Nat-Geo-Wild.jpg" />
+  </channel>
+  <channel id="Love Nature">
+    <display-name>LOVE NATURE</display-name>
+  </channel>
+  <channel id="Canal.History.(Costa.Rica).cr">
+    <display-name>HISTORY CHANNEL</display-name>
+    <icon src="https://i.ibb.co/fYvphYRW/History-2021.webp" />
+  </channel>
+  <channel id="Canal.History.2.(Costa.Rica).cr">
+    <display-name>HISTORY 2</display-name>
+    <icon src="https://i.ibb.co/pvwr6D6C/H2more2history.webp" />
+  </channel>
+  <channel id="Telemundo Houston">
+    <display-name>TELEMUNDO HOUSTON</display-name>
+    <icon src="https://i.ibb.co/8gqrJVGB/KTMD-2012.jpg" />
+  </channel>
+  <channel id="Univisión Houston">
+    <display-name>UNIVISIÓN HOUSTON</display-name>
+    <icon src="https://i.ibb.co/1fhyg7hm/KXLN-Univision-45-Houston.jpg" />
+  </channel>
+  <channel id="Canal.A&amp;amp;E.(Costa.Rica).cr">
+    <display-name>A&amp;E</display-name>
+    <icon src="https://i.ibb.co/9kKWYBY7/AE-Logo-500x281.png" />
+  </channel>
+  <channel id="Film&amp;Arts">
+    <display-name>FILM &amp; ARTS</display-name>
+    <icon src="https://i.ibb.co/MDZ40zQz/Film-Arts.jpg" />
+  </channel>
+  <channel id="E!">
+    <display-name>E!</display-name>
+    <icon src="https://i.ibb.co/nMtn6gzv/E-1990.jpg" />
+  </channel>
+  <channel id="Comedy Central">
+    <display-name>COMEDY CENTRAL</display-name>
+    <icon src="https://i.ibb.co/4ng6jMdF/Com-Cen-scribble.jpg" />
+  </channel>
+  <channel id="Food Network">
+    <display-name>FOOD NETWORK</display-name>
+    <icon src="https://i.ibb.co/M5K5qqmc/Food-Net-Logo.jpg" />
+  </channel>
+  <channel id="El Gourmet">
+    <display-name>EL GOURMET</display-name>
+    <icon src="https://i.ibb.co/gF9szFdc/Elgourmet-23.jpg" />
+  </channel>
+  <channel id="Adult Swim">
+    <display-name>ADULT SWIM</display-name>
+    <icon src="https://i.ibb.co/233Dm7Hs/Adult-Swim-2001.jpg" />
+  </channel>
+  <channel id="HBO">
+    <display-name>HBO</display-name>
+    <icon src="https://i.ibb.co/VWVmLY7Z/hbo-768.png" />
+  </channel>
+  <channel id="HBO2">
+    <display-name>HBO 2</display-name>
+    <icon src="https://i.ibb.co/LDRL3cZN/hbo-2-768.png" />
+  </channel>
+  <channel id="HBO +">
+    <display-name>HBO +</display-name>
+    <icon src="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" />
+  </channel>
+  <channel id="HBO POP">
+    <display-name>HBO POP</display-name>
+    <icon src="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" />
+  </channel>
+  <channel id="HBO Family">
+    <display-name>HBO FAMILY</display-name>
+    <icon src="https://i.ibb.co/Fkt1xsZ9/HBO-Family-LATAM-Teal.jpg" />
+  </channel>
+  <channel id="USA SERIES">
+    <display-name>USA SERIES</display-name>
+    <icon src="https://i.ibb.co/M5hycnLT/usa-network-seeklogo.png" />
+  </channel>
+  <channel id="Cinecanal.ar">
+    <display-name>CINECANAL</display-name>
+    <icon src="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" />
+  </channel>
+  <channel id="StarChannel.ar">
+    <display-name>STAR CHANNEL</display-name>
+  </channel>
+  <channel id="Cinemax.ar">
+    <display-name>CINEMAX</display-name>
+    <icon src="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" />
+  </channel>
+  <channel id="TNT">
+    <display-name>TNT</display-name>
+    <icon src="https://i.ibb.co/hxn1HWgt/TNT-Latinoam-rica-2011.jpg" />
+  </channel>
+  <channel id="Golden">
+    <display-name>GOLDEN</display-name>
+    <icon src="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" />
+  </channel>
+  <channel id="Golden +">
+    <display-name>GOLDEN +</display-name>
+    <icon src="https://i.ibb.co/rRyY0kRq/Golden-Plus-LA-2020.jpg" />
+  </channel>
+  <channel id="Golden Premier">
+    <display-name>GOLDEN PREMIER</display-name>
+    <icon src="https://i.ibb.co/DD1B56Lb/Golden-Premier.jpg" />
+  </channel>
+  <channel id="Golden Edge">
+    <display-name>GOLDEN EDGE</display-name>
+    <icon src="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" />
+  </channel>
+  <channel id="Universal Tv">
+    <display-name>UNIVERSAL TV</display-name>
+    <icon src="https://i.ibb.co/rKn3yzw1/Universal-TV-logo.jpg" />
+  </channel>
+  <channel id="Universal Premier">
+    <display-name>UNIVERSAL PREMIER</display-name>
+    <icon src="https://i.ibb.co/S4F6tDcj/universal-premiere-seeklogo.png" />
+  </channel>
+  <channel id="Universal Cinema">
+    <display-name>UNIVERSAL CINEMA</display-name>
+    <icon src="https://i.ibb.co/FLHk8mXz/universal-comedy.png" />
+  </channel>
+  <channel id="Studio Universal">
+    <display-name>STUDIO UNIVERSAL</display-name>
+    <icon src="https://i.ibb.co/pBfZ1jBR/universal-studios-pictures-4518.png" />
+  </channel>
+  <channel id="Lifetime">
+    <display-name>LIFETIME</display-name>
+    <icon src="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" />
+  </channel>
+  <channel id="Multipremier">
+    <display-name>MULTIPREMIER</display-name>
+    <icon src="https://i.ibb.co/Y7KXYcgr/Multipremier-logo-svg.webp" />
+  </channel>
+  <channel id="Panico">
+    <display-name>PANICO</display-name>
+    <icon src="https://i.ibb.co/M5ZLQp3Y/Paniconvv.webp" />
+  </channel>
+  <channel id="Space">
+    <display-name>SPACE</display-name>
+    <icon src="https://i.ibb.co/svH6XHsy/Space-2008.jpg" />
+  </channel>
+  <channel id="Sony">
+    <display-name>SONY CHANNEL</display-name>
+    <icon src="https://i.ibb.co/7JYwxpgZ/Sony-Channel-2019.jpg" />
+  </channel>
+  <channel id="Warner">
+    <display-name>WARNER</display-name>
+    <icon src="https://i.ibb.co/6cWZqQ8h/Warner-Bros-Pictures-2023-Print-color.jpg" />
+  </channel>
+  <channel id="AMC">
+    <display-name>AMC</display-name>
+    <icon src="https://i.ibb.co/TBBrSWyY/amc-seeklogo.png" />
+  </channel>
+  <channel id="FX">
+    <display-name>FX</display-name>
+  </channel>
+  <channel id="FXX.us">
+    <display-name>FXX</display-name>
+  </channel>
+  <channel id="AMC SERIES">
+    <display-name>AMC SERIES</display-name>
+  </channel>
+  <channel id="TNT Series">
+    <display-name>TNT SERIES</display-name>
+    <icon src="https://i.ibb.co/GQYN38Dx/TNT-Series-2025.jpg" />
+  </channel>
+  <channel id="AXN">
+    <display-name>AXN</display-name>
+    <icon src="https://i.ibb.co/nMTd6v93/AXN-HD-2015.jpg" />
+  </channel>
+  <channel id="DARK">
+    <display-name>DARK</display-name>
+    <icon src="https://i.ibb.co/SXzpc8s1/Dark-2016.jpg" />
+  </channel>
+  <channel id="CNN Internacional">
+    <display-name>CNN INTERNACIONAL</display-name>
+    <icon src="https://i.ibb.co/5WCtSrh3/CNN-2014.jpg" />
+  </channel>
+  <channel id="Fox News">
+    <display-name>FOX NEWS</display-name>
+    <icon src="https://i.ibb.co/cXRfHMDN/Fox-News-Channel-2017.jpg" />
+  </channel>
+  <channel id="MovistarLaLigaTV.es">
+    <display-name>M+ La Liga TV</display-name>
+    <icon src="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png" />
+  </channel>
+  <channel id="PremierSports1.uk">
+    <display-name>PREMIER SPORT 1</display-name>
+    <icon src="http://imgfz.com/i/a8J03zf.png" />
+  </channel>
+  <channel id="SKY SPORT LA LIGA">
+    <display-name>SKY SPORT LA LIGA</display-name>
+    <icon src="http://imgfz.com/i/agdLjT4.png" />
+  </channel>
+  <channel id="SKY SPORT LA LIGA BK">
+    <display-name>SKY SPORT LA LIGA BK</display-name>
+    <icon src="http://imgfz.com/i/agdLjT4.png" />
+  </channel>
+  <channel id="DAZNLALIGA.es">
+    <display-name>DAZN LA LIGA</display-name>
+    <icon src="http://imgfz.com/i/Y1ltIru.jpeg" />
+  </channel>
+  <channel id="DAZN1.es">
+    <display-name>DAZN 1</display-name>
+    <icon src="http://imgfz.com/i/Y1ltIru.jpeg" />
+  </channel>
+  <channel id="DAZN2.es">
+    <display-name>DAZN 2</display-name>
+    <icon src="http://imgfz.com/i/Y1ltIru.jpeg" />
+  </channel>
+  <channel id="Espn.ar">
+    <display-name>ESPN 1</display-name>
+    <icon src="http://imgfz.com/i/ucXZUDx.png" />
+  </channel>
+  <channel id="Espn2.ar">
+    <display-name>ESPN 2</display-name>
+    <icon src="http://imgfz.com/i/fwVAjNd.png" />
+  </channel>
+  <channel id="Espn3.ar">
+    <display-name>ESPN 3</display-name>
+    <icon src="http://imgfz.com/i/NQVX6rZ.png" />
+  </channel>
+  <channel id="ESPN Deportes.us">
+    <display-name>ESPN DEPORTES</display-name>
+    <icon src="http://imgfz.com/i/mjDds5l.png" />
+  </channel>
+  <channel id="TUDN.us">
+    <display-name>TUDN</display-name>
+    <icon src="http://imgfz.com/i/9VImknQ.jpeg" />
+  </channel>
+  <channel id="D SPORT 1">
+    <display-name>D SPORT 1</display-name>
+    <icon src="http://imgfz.com/i/jeDZ08o.png" />
+  </channel>
+  <channel id="D SPORT 2">
+    <display-name>D SPORT 2</display-name>
+    <icon src="http://imgfz.com/i/jeDZ08o.png" />
+  </channel>
+  <channel id="TyCSports.ar">
+    <display-name>TyC Sport</display-name>
+    <icon src="http://imgfz.com/i/zQOEGKq.jpeg" />
+  </channel>
+  <channel id="Telemundo.us">
+    <display-name>TELEMUNDO</display-name>
+    <icon src="http://imgfz.com/i/NfWETI6.jpeg" />
+  </channel>
+  <channel id="SPORT TV1 HD.pt">
+    <display-name>SPORT TV 1</display-name>
+    <icon src="http://imgfz.com/i/rOj1ACN.png" />
+  </channel>
+  <channel id="SPORT TV2 HD.pt">
+    <display-name>SPORT TV 2</display-name>
+    <icon src="http://imgfz.com/i/j7A4QEl.png" />
+  </channel>
+  <channel id="SPORTV.br">
+    <display-name>SPORTV 1</display-name>
+    <icon src="http://imgfz.com/i/9SpWDcQ.png" />
+  </channel>
+  <channel id="Fox Sports 1.us">
+    <display-name>FS 1</display-name>
+    <icon src="http://imgfz.com/i/FQrnO9c.png" />
+  </channel>
+  <channel id="Fox Sports 2.us">
+    <display-name>FS 2</display-name>
+    <icon src="https://i.ibb.co/hFRYCFFH/fs2.png" />
+  </channel>
+  <channel id="BEIN SPORT 1">
+    <display-name>BEIN SPORT 1</display-name>
+    <icon src="https://i.ibb.co/VWNsvmBB/bein-sports-1-logo-png-seeklogo-481583.png" />
+  </channel>
+  <channel id="BEIN SPORT 2">
+    <display-name>BEIN SPORT 2</display-name>
+    <icon src="https://i.ibb.co/CsMXPHRg/be-IN-SPORTS2-DIGITAL-Mono.png" />
+  </channel>
+  <channel id="BEIN SPORT 3">
+    <display-name>BEIN SPORT 3</display-name>
+    <icon src="https://i.ibb.co/LDdcbDHG/bein-sports-3-logo-png-seeklogo-481585.png" />
+  </channel>
+  <channel id="beIN Sports (Spanish).us">
+    <display-name>BEIN SPORT ESPAÑOL</display-name>
+    <icon src="https://i.ibb.co/LDQQGk9Y/bein-sport-logo-png-seeklogo-314494.png" />
+  </channel>
+  <channel id="beINSPORTS1.fr">
+    <display-name>BEIN SPORT 1 FR</display-name>
+    <icon src="https://i.ibb.co/SXy9SZWp/bein-sport-logo-png-seeklogo-249497.png" />
+  </channel>
+  <channel id="beINSPORTS2.fr">
+    <display-name>BEIN SPORT FR 2</display-name>
+    <icon src="https://i.ibb.co/SXy9SZWp/bein-sport-logo-png-seeklogo-249497.png" />
+  </channel>
+  <channel id="SkySportsPremierLeague.uk">
+    <display-name>Sky Premiere League UK</display-name>
+    <icon src="http://imgfz.com/i/M0CwqE1.webp" />
+  </channel>
+  <channel id="TNTSports1.uk">
+    <display-name>TNT SPORT UK</display-name>
+    <icon src="https://i.ibb.co/JjP7j4dS/TNT-Sports-Logo-Stacked-300x300.png" />
+  </channel>
+  <channel id="TNTSports2.uk">
+    <display-name>TNT SPORT 2 UK</display-name>
+    <icon src="https://i.ibb.co/JjP7j4dS/TNT-Sports-Logo-Stacked-300x300.png" />
+  </channel>
+  <channel id="TSN 1">
+    <display-name>TSN 1</display-name>
+    <icon src="http://imgfz.com/i/u1bUfk4.png" />
+  </channel>
+  <channel id="MovistarLigaDeCampeones.es">
+    <display-name>LIGA DE CAMPEONES M</display-name>
+    <icon src="http://imgfz.com/i/Y1ltIru.jpeg" />
+  </channel>
+  <channel id="MovistarLigaDeCampeones2.es">
+    <display-name>LIGA DE CAMPEONES 2 M</display-name>
+    <icon src="http://imgfz.com/i/Y1ltIru.jpeg" />
+  </channel>
+  <programme start="20261116002800 -0600" stop="20261116011400 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Hermanas gitanas</title>
+    <sub-title lang="es">Sorpresa en el altar</sub-title>
+  </programme>
+  <programme start="20261116011400 -0600" stop="20261116024500 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Todo en 90 días una última oportunidad</title>
+    <sub-title lang="es">Confesiones, parte 1</sub-title>
+  </programme>
+  <programme start="20261116024500 -0600" stop="20261116033000 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Todo en 90 días diarios en pandemia</title>
+    <sub-title lang="es">Querido diario, besé a mi mejor amigo</sub-title>
+  </programme>
+  <programme start="20261116033000 -0600" stop="20261116041500 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Regreso al mundo Amish</title>
+    <sub-title lang="es">El pasado oscuro de Jeremiah</sub-title>
+  </programme>
+  <programme start="20261116041500 -0600" stop="20261116050000 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Regreso al mundo Amish</title>
+    <sub-title lang="es">Ser inglés</sub-title>
+  </programme>
+  <programme start="20261116050000 -0600" stop="20261116054900 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Mi gran boda gitana</title>
+    <sub-title lang="es">De la cárcel al velo de boda</sub-title>
+  </programme>
+  <programme start="20261116054900 -0600" stop="20261116063700 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Un gran mundo pequeño</title>
+    <sub-title lang="es">La presión de la boda</sub-title>
+  </programme>
+  <programme start="20261116063700 -0600" stop="20261116072600 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Un gran mundo pequeño</title>
+    <sub-title lang="es">Lo que el molino se llevó</sub-title>
+  </programme>
+  <programme start="20261116072600 -0600" stop="20261116081500 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Una Gran Familia</title>
+    <sub-title lang="es">Imagínalos desnudos</sub-title>
+  </programme>
+  <programme start="20261116081500 -0600" stop="20261116090400 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Una Gran Familia</title>
+    <sub-title lang="es">La propuesta de graduación</sub-title>
+  </programme>
+  <programme start="20261116090400 -0600" stop="20261116095300 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">De tal madre, tal astilla</title>
+    <sub-title lang="es">Humor de madre</sub-title>
+  </programme>
+  <programme start="20261116095300 -0600" stop="20261116104200 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">De tal madre, tal astilla</title>
+    <sub-title lang="es">Entretenimento adulto</sub-title>
+  </programme>
+  <programme start="20261116104200 -0600" stop="20261116113000 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">De tal madre, tal astilla</title>
+    <sub-title lang="es">La cruda verdad</sub-title>
+  </programme>
+  <programme start="20261116113000 -0600" stop="20261116121900 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <sub-title lang="es">La peor despedida</sub-title>
+  </programme>
+  <programme start="20261116121900 -0600" stop="20261116130800 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Un gran mundo pequeño</title>
+    <sub-title lang="es">Amy entra en acción</sub-title>
+  </programme>
+  <programme start="20261116130800 -0600" stop="20261116135700 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Un gran mundo pequeño</title>
+    <sub-title lang="es">Día de Acción de Gracias moderno</sub-title>
+  </programme>
+  <programme start="20261116135700 -0600" stop="20261116144500 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Una Gran Familia</title>
+    <sub-title lang="es">Construcción del pabellón</sub-title>
+  </programme>
+  <programme start="20261116144500 -0600" stop="20261116153400 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Una Gran Familia</title>
+    <sub-title lang="es">Un ultimátum en Acción de Gracias</sub-title>
+  </programme>
+  <programme start="20261116153400 -0600" stop="20261116171100 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Todo en 90 días</title>
+    <sub-title lang="es">Las mejores intenciones</sub-title>
+  </programme>
+  <programme start="20261116171100 -0600" stop="20261116184800 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Todo en 90 días</title>
+    <sub-title lang="es">Si tengo que volver, lo hago</sub-title>
+  </programme>
+  <programme start="20261116184800 -0600" stop="20261116193700 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <sub-title lang="es">Ya lo vivimos</sub-title>
+  </programme>
+  <programme start="20261116193700 -0600" stop="20261116202500 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <sub-title lang="es">Reviviendo viejos sentimientos</sub-title>
+  </programme>
+  <programme start="20261116202500 -0600" stop="20261116211400 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <sub-title lang="es">El elefante rosa en la habitación</sub-title>
+  </programme>
+  <programme start="20261116211400 -0600" stop="20261116220300 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Mi mamá, tu papá</title>
+    <sub-title lang="es">Es un sándwich Phill</sub-title>
+  </programme>
+  <programme start="20261116220300 -0600" stop="20261116225300 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Mi mamá, tu papá</title>
+    <sub-title lang="es">Compañeros de litera para toda la vida</sub-title>
+  </programme>
+  <programme start="20261116225300 -0600" stop="20261116234200 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Mi gran boda gitana</title>
+    <sub-title lang="es">Princesas a la caza</sub-title>
+  </programme>
+  <programme start="20261116234200 -0600" stop="20261117002800 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <sub-title lang="es">Ya lo vivimos</sub-title>
+  </programme>
+  <programme start="20261117002800 -0600" stop="20261117011400 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <sub-title lang="es">Reviviendo viejos sentimientos</sub-title>
+  </programme>
+  <programme start="20261117011400 -0600" stop="20261117020000 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <sub-title lang="es">El elefante rosa en la habitación</sub-title>
+  </programme>
+  <programme start="20261117020000 -0600" stop="20261117024500 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Mi mamá, tu papá</title>
+    <sub-title lang="es">Es un sándwich Phill</sub-title>
+  </programme>
+  <programme start="20261117024500 -0600" stop="20261117033000 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Mi mamá, tu papá</title>
+    <sub-title lang="es">Compañeros de litera para toda la vida</sub-title>
+  </programme>
+  <programme start="20261117033000 -0600" stop="20261117050000 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Regreso al mundo Amish</title>
+    <sub-title lang="es">Olvídame, Carmela</sub-title>
+  </programme>
+  <programme start="20261117050000 -0600" stop="20261117054900 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Mi gran boda gitana</title>
+    <sub-title lang="es">Gitanas y travesuras en la boda</sub-title>
+  </programme>
+  <programme start="20261117054900 -0600" stop="20261117072600 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Un gran mundo pequeño</title>
+    <sub-title lang="es">Cuenta regresiva para la boda</sub-title>
+  </programme>
+  <programme start="20261117072600 -0600" stop="20261117090400 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Una Gran Familia</title>
+    <sub-title lang="es">Un beso y un insulto en el baile</sub-title>
+  </programme>
+  <programme start="20261117090400 -0600" stop="20261117095300 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Hermanas gitanas</title>
+    <sub-title lang="es">La reina de los timadores</sub-title>
+  </programme>
+  <programme start="20261117095300 -0600" stop="20261117104200 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Hermanas gitanas</title>
+    <sub-title lang="es">La última aventura</sub-title>
+  </programme>
+  <programme start="20261117104200 -0600" stop="20261117113000 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Hermanas gitanas</title>
+    <sub-title lang="es">Desastre a la vista</sub-title>
+  </programme>
+  <programme start="20261117113000 -0600" stop="20261117121900 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">4 Esposas, 1 marido</title>
+    <sub-title lang="es">La vida después de la poligamia</sub-title>
+  </programme>
+  <programme start="20261117121900 -0600" stop="20261117130800 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Un gran mundo pequeño</title>
+    <sub-title lang="es">Roloff a bailar</sub-title>
+  </programme>
+  <programme start="20261117130800 -0600" stop="20261117135700 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Un gran mundo pequeño</title>
+    <sub-title lang="es">Confesiones y baile</sub-title>
+  </programme>
+  <programme start="20261117135700 -0600" stop="20261117144500 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Una Gran Familia</title>
+    <sub-title lang="es">Resaca navideña</sub-title>
+  </programme>
+  <programme start="20261117144500 -0600" stop="20261117153400 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Una Gran Familia</title>
+    <sub-title lang="es">A cualquier lugar</sub-title>
+  </programme>
+  <programme start="20261117153400 -0600" stop="20261117171100 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Todo en 90 días</title>
+    <sub-title lang="es">El bikini o yo</sub-title>
+  </programme>
+  <programme start="20261117171100 -0600" stop="20261117184800 -0600" channel="Canal.TLC.(Costa.Rica).cr">
+    <title lang="es">Todo en 90 días</title>
+    <sub-title lang="es">No pienses que eres el mejor</sub-title>
+  </programme>
+  <programme start="20261116001000 -0600" stop="20261116010000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Infierno en Honduras</sub-title>
+  </programme>
+  <programme start="20261116010000 -0600" stop="20261116015000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Ed Stafford First Man Out</title>
+    <sub-title lang="es">Ed vs. Matt Wright</sub-title>
+  </programme>
+  <programme start="20261116015000 -0600" stop="20261116023900 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Máxima seguridad cárceles extremas</title>
+    <sub-title lang="es">Mauricio</sub-title>
+  </programme>
+  <programme start="20261116023900 -0600" stop="20261116032600 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Contrabando en la frontera</title>
+    <sub-title lang="es">Contrabando transfronterizo</sub-title>
+  </programme>
+  <programme start="20261116032600 -0600" stop="20261116041300 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Medidas desesperadas</sub-title>
+  </programme>
+  <programme start="20261116041300 -0600" stop="20261116050000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Arriesgándolo todo</sub-title>
+  </programme>
+  <programme start="20261116050000 -0600" stop="20261116052500 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Aeropuerto Brasil</title>
+    <sub-title lang="es">Subestimación de la inspección</sub-title>
+  </programme>
+  <programme start="20261116052500 -0600" stop="20261116061300 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Expedition Unknown</title>
+    <sub-title lang="es">La nave fantasma de los Grandes Lagos</sub-title>
+  </programme>
+  <programme start="20261116061300 -0600" stop="20261116070500 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Islas</title>
+    <sub-title lang="es">Borneo</sub-title>
+  </programme>
+  <programme start="20261116070500 -0600" stop="20261116075000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Contrabando en la frontera</title>
+    <sub-title lang="es">Tío llorando</sub-title>
+  </programme>
+  <programme start="20261116075000 -0600" stop="20261116083800 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Inestable</sub-title>
+  </programme>
+  <programme start="20261116083800 -0600" stop="20261116090300 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">A la pesca</title>
+  </programme>
+  <programme start="20261116090300 -0600" stop="20261116092800 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Aeropuerto de Sao Paulo</title>
+    <sub-title lang="es">Maestros del ocultamiento</sub-title>
+  </programme>
+  <programme start="20261116092800 -0600" stop="20261116101600 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Historias de fantasmas</title>
+    <sub-title lang="es">Triángulo Amoroso</sub-title>
+  </programme>
+  <programme start="20261116101600 -0600" stop="20261116110500 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Ladrones en la noche</sub-title>
+  </programme>
+  <programme start="20261116110500 -0600" stop="20261116115400 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Mexicánicos</title>
+    <sub-title lang="es">Paola Rojas y el carro para Lola &amp; Harley Carroza futurista</sub-title>
+  </programme>
+  <programme start="20261116115400 -0600" stop="20261116124300 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Modo desastres</title>
+    <sub-title lang="es">Huracán Ian</sub-title>
+  </programme>
+  <programme start="20261116124300 -0600" stop="20261116133200 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Modo desastres</title>
+    <sub-title lang="es">Incendios forestales en Maui</sub-title>
+  </programme>
+  <programme start="20261116133200 -0600" stop="20261116142100 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Modo desastres</title>
+    <sub-title lang="es">El tornado de Joplin</sub-title>
+  </programme>
+  <programme start="20261116142100 -0600" stop="20261116151000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Hoy no, Satán</sub-title>
+  </programme>
+  <programme start="20261116151000 -0600" stop="20261116160000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Llora por mí, Argentina</sub-title>
+  </programme>
+  <programme start="20261116160000 -0600" stop="20261116165000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Reto del equipo</sub-title>
+  </programme>
+  <programme start="20261116165000 -0600" stop="20261116183000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo Náufragos</title>
+    <sub-title lang="es">Snake Island Bites Back</sub-title>
+  </programme>
+  <programme start="20261116183000 -0600" stop="20261116201000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo Náufragos</title>
+    <sub-title lang="es">Advertencia de Tifón</sub-title>
+  </programme>
+  <programme start="20261116201000 -0600" stop="20261116210000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Fear Factor la casa del miedo</title>
+    <sub-title lang="es">Camina por la plancha</sub-title>
+  </programme>
+  <programme start="20261116210000 -0600" stop="20261116214900 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Destination X</title>
+    <sub-title lang="es">¿Qué tal tu cara de póquer</sub-title>
+  </programme>
+  <programme start="20261116214900 -0600" stop="20261116232700 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo conquista mundial</title>
+    <sub-title lang="es">Enfócate o vete</sub-title>
+  </programme>
+  <programme start="20261116232700 -0600" stop="20261117001600 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Joyas Sobre Ruedas Francia</title>
+    <sub-title lang="es">Renault Alpine A110</sub-title>
+  </programme>
+  <programme start="20261117001600 -0600" stop="20261117010500 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Amor a prueba</sub-title>
+  </programme>
+  <programme start="20261117010500 -0600" stop="20261117015200 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Todos contra Ed Stafford</title>
+    <sub-title lang="es">Ed vs. Ky Furneaux</sub-title>
+  </programme>
+  <programme start="20261117015200 -0600" stop="20261117023900 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Máxima seguridad cárceles extremas</title>
+    <sub-title lang="es">Cárcel de Picaleña en Colombia</sub-title>
+  </programme>
+  <programme start="20261117023900 -0600" stop="20261117032600 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Contrabando en la frontera</title>
+    <sub-title lang="es">La balanza de la justicia</sub-title>
+  </programme>
+  <programme start="20261117032600 -0600" stop="20261117041300 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Psicópata 1</sub-title>
+  </programme>
+  <programme start="20261117041300 -0600" stop="20261117050000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Llamas e inundaciones</sub-title>
+  </programme>
+  <programme start="20261117050000 -0600" stop="20261117052500 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Aeropuerto Brasil</title>
+    <sub-title lang="es">Sorpresas ocultas</sub-title>
+  </programme>
+  <programme start="20261117052500 -0600" stop="20261117061300 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Expedition Unknown</title>
+    <sub-title lang="es">La heroína perdida de la Segunda Guerra Mundial</sub-title>
+  </programme>
+  <programme start="20261117061300 -0600" stop="20261117070600 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Islas</title>
+    <sub-title lang="es">Hawái</sub-title>
+  </programme>
+  <programme start="20261117070600 -0600" stop="20261117075000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Contrabando en la frontera</title>
+    <sub-title lang="es">Todos en la familia</sub-title>
+  </programme>
+  <programme start="20261117075000 -0600" stop="20261117083800 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Tortura texana</sub-title>
+  </programme>
+  <programme start="20261117083800 -0600" stop="20261117101600 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">La historia de Robin</sub-title>
+  </programme>
+  <programme start="20261117101600 -0600" stop="20261117110500 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo</title>
+    <sub-title lang="es">Bien quemado</sub-title>
+  </programme>
+  <programme start="20261117110500 -0600" stop="20261117115400 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Mexicánicos Watch Party</title>
+    <sub-title lang="es">El Duster de Alberto Guerra &amp; La cuatrimoto para Yael</sub-title>
+  </programme>
+  <programme start="20261117115400 -0600" stop="20261117133200 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Kilos mortales sus vidas hoy</title>
+    <sub-title lang="es">Lupe y Brittani</sub-title>
+  </programme>
+  <programme start="20261117133200 -0600" stop="20261117151000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Kilos mortales sus vidas hoy</title>
+    <sub-title lang="es">Sean y Dottie</sub-title>
+  </programme>
+  <programme start="20261117151000 -0600" stop="20261117165000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Kilos mortales sus vidas hoy</title>
+    <sub-title lang="es">Milla y Charity</sub-title>
+  </programme>
+  <programme start="20261117165000 -0600" stop="20261117174000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Supervivencia al desnudo solo</title>
+    <sub-title lang="es">Sobreviviendo solo</sub-title>
+  </programme>
+  <programme start="20261117174000 -0600" stop="20261117183000 -0600" channel="Canal.Discovery.Channel.(Costa.Rica).cr">
+    <title lang="es">Encierro paranormal</title>
+    <sub-title lang="es">La casa de la calle Monroe</sub-title>
+  </programme>
+  <programme start="20261116001200 -0600" stop="20261116010000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mansiones en los Árboles</title>
+    <sub-title lang="es">Casa del árbol de Utopía</sub-title>
+  </programme>
+  <programme start="20261116010000 -0600" stop="20261116014800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guaridas con estilo</title>
+    <sub-title lang="es">Apto para perros</sub-title>
+  </programme>
+  <programme start="20261116014800 -0600" stop="20261116023600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">El bulldog quejoso</sub-title>
+  </programme>
+  <programme start="20261116023600 -0600" stop="20261116032400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">La cabra de yoga</sub-title>
+  </programme>
+  <programme start="20261116032400 -0600" stop="20261116041200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">Discúlpenme</sub-title>
+  </programme>
+  <programme start="20261116041200 -0600" stop="20261116050000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guardianes de Texas</title>
+    <sub-title lang="es">Hundiendo barcos, robando ciervos</sub-title>
+  </programme>
+  <programme start="20261116050000 -0600" stop="20261116054800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Unión salvaje</title>
+    <sub-title lang="es">Viaje con la cabra</sub-title>
+  </programme>
+  <programme start="20261116054800 -0600" stop="20261116061200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mi manada y yo</title>
+    <sub-title lang="es">Sarge está a cargo</sub-title>
+  </programme>
+  <programme start="20261116061200 -0600" stop="20261116063600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mi manada y yo</title>
+    <sub-title lang="es">Cabritos</sub-title>
+  </programme>
+  <programme start="20261116063600 -0600" stop="20261116072400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Animales en riesgo Houston</title>
+  </programme>
+  <programme start="20261116072400 -0600" stop="20261116081200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">Animales salvajes</sub-title>
+  </programme>
+  <programme start="20261116081200 -0600" stop="20261116090000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">El halcón</sub-title>
+  </programme>
+  <programme start="20261116090000 -0600" stop="20261116094800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mascotas revoltosas</title>
+    <sub-title lang="es">Perros y monos</sub-title>
+  </programme>
+  <programme start="20261116094800 -0600" stop="20261116103600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guardianes de Texas</title>
+    <sub-title lang="es">No te metas con Texas</sub-title>
+  </programme>
+  <programme start="20261116103600 -0600" stop="20261116112400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guardianes de Texas</title>
+    <sub-title lang="es">A través del tiempo</sub-title>
+  </programme>
+  <programme start="20261116112400 -0600" stop="20261116121200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mansiones en los Árboles</title>
+    <sub-title lang="es">Una escapada</sub-title>
+  </programme>
+  <programme start="20261116121200 -0600" stop="20261116130000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mansiones en los Árboles</title>
+    <sub-title lang="es">Casa del árbol de Utopía</sub-title>
+  </programme>
+  <programme start="20261116130000 -0600" stop="20261116134800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guaridas con estilo</title>
+    <sub-title lang="es">Apto para perros</sub-title>
+  </programme>
+  <programme start="20261116134800 -0600" stop="20261116143600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">El bulldog quejoso</sub-title>
+  </programme>
+  <programme start="20261116143600 -0600" stop="20261116152400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">La cabra de yoga</sub-title>
+  </programme>
+  <programme start="20261116152400 -0600" stop="20261116161200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">Discúlpenme</sub-title>
+  </programme>
+  <programme start="20261116161200 -0600" stop="20261116170000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Río sin retorno</title>
+    <sub-title lang="es">De vuelta a la vida</sub-title>
+  </programme>
+  <programme start="20261116170000 -0600" stop="20261116174800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">El tigre siberiano</title>
+  </programme>
+  <programme start="20261116174800 -0600" stop="20261116183600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">El pequeño rescatista</sub-title>
+  </programme>
+  <programme start="20261116183600 -0600" stop="20261116192400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Unión salvaje</title>
+    <sub-title lang="es">Un invitado salvaje</sub-title>
+  </programme>
+  <programme start="20261116192400 -0600" stop="20261116194800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mi manada y yo</title>
+    <sub-title lang="es">¿Dónde está Copper</sub-title>
+  </programme>
+  <programme start="20261116194800 -0600" stop="20261116201200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mi manada y yo</title>
+    <sub-title lang="es">Va a tener un bebé</sub-title>
+  </programme>
+  <programme start="20261116201200 -0600" stop="20261116210000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Animales en riesgo Houston</title>
+  </programme>
+  <programme start="20261116210000 -0600" stop="20261116214800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">El corazón de un pitbull</sub-title>
+  </programme>
+  <programme start="20261116214800 -0600" stop="20261116223600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">Perro hermafrodita</sub-title>
+  </programme>
+  <programme start="20261116223600 -0600" stop="20261116232400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mascotas revoltosas</title>
+    <sub-title lang="es">Mascotas mimadas</sub-title>
+  </programme>
+  <programme start="20261116232400 -0600" stop="20261117001200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Unión salvaje</title>
+    <sub-title lang="es">Un invitado salvaje</sub-title>
+  </programme>
+  <programme start="20261117001200 -0600" stop="20261117003600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mi manada y yo</title>
+    <sub-title lang="es">¿Dónde está Copper</sub-title>
+  </programme>
+  <programme start="20261117003600 -0600" stop="20261117010000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mi manada y yo</title>
+    <sub-title lang="es">Va a tener un bebé</sub-title>
+  </programme>
+  <programme start="20261117010000 -0600" stop="20261117014800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Animales en riesgo Houston</title>
+  </programme>
+  <programme start="20261117014800 -0600" stop="20261117023600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">El corazón de un pitbull</sub-title>
+  </programme>
+  <programme start="20261117023600 -0600" stop="20261117032400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">Perro hermafrodita</sub-title>
+  </programme>
+  <programme start="20261117032400 -0600" stop="20261117041200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mascotas revoltosas</title>
+    <sub-title lang="es">Mascotas mimadas</sub-title>
+  </programme>
+  <programme start="20261117041200 -0600" stop="20261117050000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guardianes de Texas</title>
+    <sub-title lang="es">No te metas con Texas</sub-title>
+  </programme>
+  <programme start="20261117050000 -0600" stop="20261117054800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Unión salvaje</title>
+    <sub-title lang="es">Viaje con la cabra</sub-title>
+  </programme>
+  <programme start="20261117054800 -0600" stop="20261117063600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Carnada de tiburones</title>
+  </programme>
+  <programme start="20261117063600 -0600" stop="20261117072400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Operación Tanzania</title>
+    <sub-title lang="es">Acceso denegado</sub-title>
+  </programme>
+  <programme start="20261117072400 -0600" stop="20261117081200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guaridas con estilo</title>
+    <sub-title lang="es">Apto para perros</sub-title>
+  </programme>
+  <programme start="20261117081200 -0600" stop="20261117090000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">El último de su especie</title>
+    <sub-title lang="es">El carpintero real</sub-title>
+  </programme>
+  <programme start="20261117090000 -0600" stop="20261117094800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">El último de su especie</title>
+    <sub-title lang="es">El hipopótamo enano de Madagascar</sub-title>
+  </programme>
+  <programme start="20261117094800 -0600" stop="20261117103600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guardianes de Texas</title>
+    <sub-title lang="es">Intrusos, tengan cuidado</sub-title>
+  </programme>
+  <programme start="20261117103600 -0600" stop="20261117112400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guardianes de Texas</title>
+    <sub-title lang="es">Persecución en la frontera</sub-title>
+  </programme>
+  <programme start="20261117112400 -0600" stop="20261117121200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Unión salvaje</title>
+    <sub-title lang="es">Un invitado salvaje</sub-title>
+  </programme>
+  <programme start="20261117121200 -0600" stop="20261117123600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mi manada y yo</title>
+    <sub-title lang="es">¿Dónde está Copper</sub-title>
+  </programme>
+  <programme start="20261117123600 -0600" stop="20261117130000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mi manada y yo</title>
+    <sub-title lang="es">Va a tener un bebé</sub-title>
+  </programme>
+  <programme start="20261117130000 -0600" stop="20261117134800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Animales en riesgo Houston</title>
+  </programme>
+  <programme start="20261117134800 -0600" stop="20261117143600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">El corazón de un pitbull</sub-title>
+  </programme>
+  <programme start="20261117143600 -0600" stop="20261117152400 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">Perro hermafrodita</sub-title>
+  </programme>
+  <programme start="20261117152400 -0600" stop="20261117161200 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mascotas revoltosas</title>
+    <sub-title lang="es">Mascotas mimadas</sub-title>
+  </programme>
+  <programme start="20261117161200 -0600" stop="20261117170000 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mansiones en los Árboles</title>
+    <sub-title lang="es">Una escapada</sub-title>
+  </programme>
+  <programme start="20261117170000 -0600" stop="20261117174800 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Mansiones en los Árboles</title>
+    <sub-title lang="es">Casa del árbol de Utopía</sub-title>
+  </programme>
+  <programme start="20261117174800 -0600" stop="20261117183600 -0600" channel="Canal.Animal.Planet.(Costa.Rica).cr">
+    <title lang="es">Guaridas con estilo</title>
+    <sub-title lang="es">Apto para perros</sub-title>
+  </programme>
+  <programme start="20261116002900 -0600" stop="20261116011600 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Secreto en los Océanos</title>
+    <sub-title lang="es">Gigantes perdidos</sub-title>
+  </programme>
+  <programme start="20261116011600 -0600" stop="20261116020000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Solo contra el mundo Hazen Audel</title>
+    <sub-title lang="es">Selva salvaje</sub-title>
+  </programme>
+  <programme start="20261116020000 -0600" stop="20261116024400 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Doble envío</sub-title>
+  </programme>
+  <programme start="20261116024400 -0600" stop="20261116032900 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Parejas sospechosas</sub-title>
+  </programme>
+  <programme start="20261116032900 -0600" stop="20261116040000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Hacia lo Desconocido</title>
+    <sub-title lang="es">El renacer</sub-title>
+  </programme>
+  <programme start="20261116040000 -0600" stop="20261116045200 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+    <sub-title lang="es">Misterio en la tumba de Tutankamón</sub-title>
+  </programme>
+  <programme start="20261116045200 -0600" stop="20261116055000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Secreto en los Océanos</title>
+    <sub-title lang="es">Hitler contra Gran Bretaña</sub-title>
+  </programme>
+  <programme start="20261116055000 -0600" stop="20261116065100 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+    <sub-title lang="es">La fortaleza de los templarios</sub-title>
+  </programme>
+  <programme start="20261116065100 -0600" stop="20261116075100 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Mayday Catastrofes aereas</title>
+    <sub-title lang="es">Despegue mortal</sub-title>
+  </programme>
+  <programme start="20261116075100 -0600" stop="20261116085100 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Friends with Secrets</sub-title>
+  </programme>
+  <programme start="20261116085100 -0600" stop="20261116095200 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Gordon Ramsay sabores extremos</title>
+    <sub-title lang="es">Los secretos del sabor cubano</sub-title>
+  </programme>
+  <programme start="20261116095200 -0600" stop="20261116105200 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Salvajemente famosos el desafío</title>
+    <sub-title lang="es">Florence Pugh en las selvas volcánicas de Costa Rica</sub-title>
+  </programme>
+  <programme start="20261116105200 -0600" stop="20261116115200 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Solo contra el mundo Hazen Audel</title>
+    <sub-title lang="es">Jungla mortal</sub-title>
+  </programme>
+  <programme start="20261116115200 -0600" stop="20261116125400 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Mayday Catastrofes aereas</title>
+    <sub-title lang="es">Despegues trágicos</sub-title>
+  </programme>
+  <programme start="20261116125400 -0600" stop="20261116135700 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Secreto en los Océanos</title>
+    <sub-title lang="es">Campo de batalla nuclear</sub-title>
+  </programme>
+  <programme start="20261116135700 -0600" stop="20261116145700 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+    <sub-title lang="es">Nan Madol la isla perdida del pacífico</sub-title>
+  </programme>
+  <programme start="20261116145700 -0600" stop="20261116155900 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+    <sub-title lang="es">Cleopatra la última faraona</sub-title>
+  </programme>
+  <programme start="20261116155900 -0600" stop="20261116165900 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Papá en tres meses</sub-title>
+  </programme>
+  <programme start="20261116165900 -0600" stop="20261116180000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Doble Riesgo</sub-title>
+  </programme>
+  <programme start="20261116180000 -0600" stop="20261116190400 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Contrabandistas con Mariana Van Zeller</title>
+    <sub-title lang="es">Esteroides</sub-title>
+  </programme>
+  <programme start="20261116190400 -0600" stop="20261116200500 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Correo del Crimen</sub-title>
+  </programme>
+  <programme start="20261116200500 -0600" stop="20261116210600 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Traficantes</title>
+    <sub-title lang="es">Mega cargamento</sub-title>
+  </programme>
+  <programme start="20261116210600 -0600" stop="20261116220600 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Gordon Ramsay sabores extremos</title>
+    <sub-title lang="es">México</sub-title>
+  </programme>
+  <programme start="20261116220600 -0600" stop="20261116230600 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Salvajemente famosos</title>
+    <sub-title lang="es">Anthony Mackie en los Dolomitas italianos</sub-title>
+  </programme>
+  <programme start="20261116230600 -0600" stop="20261116235000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Mayday Catastrofes aereas</title>
+    <sub-title lang="es">Bajo el Pacífico</sub-title>
+  </programme>
+  <programme start="20261116235000 -0600" stop="20261117003700 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Secreto en los Océanos</title>
+    <sub-title lang="es">Táctica en el Pacífico</sub-title>
+  </programme>
+  <programme start="20261117003700 -0600" stop="20261117012200 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Solo contra el mundo Hazen Audel</title>
+    <sub-title lang="es">Frío de muerte</sub-title>
+  </programme>
+  <programme start="20261117012200 -0600" stop="20261117020500 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Cocaine Carrier</sub-title>
+  </programme>
+  <programme start="20261117020500 -0600" stop="20261117025000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Drogas Ocultas</sub-title>
+  </programme>
+  <programme start="20261117025000 -0600" stop="20261117033700 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Secreto en los Océanos</title>
+    <sub-title lang="es">El Día D</sub-title>
+  </programme>
+  <programme start="20261117033700 -0600" stop="20261117040000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Hacia lo Desconocido</title>
+    <sub-title lang="es">Vivir otro día</sub-title>
+  </programme>
+  <programme start="20261117040000 -0600" stop="20261117044600 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+    <sub-title lang="es">Leyenda de los reyes de las Pirámides</sub-title>
+  </programme>
+  <programme start="20261117044600 -0600" stop="20261117055000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Secreto en los Océanos</title>
+    <sub-title lang="es">Secretos del mar Báltico</sub-title>
+  </programme>
+  <programme start="20261117055000 -0600" stop="20261117065000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+    <sub-title lang="es">El Dorado la ciudad de oro</sub-title>
+  </programme>
+  <programme start="20261117065000 -0600" stop="20261117075000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Mayday Catastrofes aereas</title>
+    <sub-title lang="es">Sin advertencia</sub-title>
+  </programme>
+  <programme start="20261117075000 -0600" stop="20261117085100 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Cocaine in the Clothes</sub-title>
+  </programme>
+  <programme start="20261117085100 -0600" stop="20261117095100 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Gordon Ramsay sabores extremos</title>
+    <sub-title lang="es">Descubriendo los Cayos de la Florida</sub-title>
+  </programme>
+  <programme start="20261117095100 -0600" stop="20261117105200 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Salvajemente famosos</title>
+    <sub-title lang="es">Terry Crews en las Tierras Altas de Islandia</sub-title>
+  </programme>
+  <programme start="20261117105200 -0600" stop="20261117115200 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Solo contra el mundo Hazen Audel</title>
+    <sub-title lang="es">Guerrero del desierto</sub-title>
+  </programme>
+  <programme start="20261117115200 -0600" stop="20261117125400 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Mayday Catastrofes aereas</title>
+    <sub-title lang="es">Conectado a Tierra Boeing Max 8</sub-title>
+  </programme>
+  <programme start="20261117125400 -0600" stop="20261117135700 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Secreto en los Océanos</title>
+    <sub-title lang="es">El esplendor de Egipto</sub-title>
+  </programme>
+  <programme start="20261117135700 -0600" stop="20261117145800 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+    <sub-title lang="es">Los secretos de Petra</sub-title>
+  </programme>
+  <programme start="20261117145800 -0600" stop="20261117155900 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+    <sub-title lang="es">Invasores de tumbas</sub-title>
+  </programme>
+  <programme start="20261117155900 -0600" stop="20261117165900 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">No hay dos sin tres</sub-title>
+  </programme>
+  <programme start="20261117165900 -0600" stop="20261117180000 -0600" channel="Canal.National.Geographic.(Costa.Rica).cr">
+    <title lang="es">Alerta Aeropuerto</title>
+    <sub-title lang="es">Falsa Inocencia</sub-title>
+  </programme>
+  <programme start="20261116002600 -0600" stop="20261116011700 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Las misiones secretas de Hitler</title>
+    <sub-title lang="es">Operación Bernhard</sub-title>
+  </programme>
+  <programme start="20261116011700 -0600" stop="20261116020200 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Segunda Guerra Mundial con Tom Hanks</title>
+    <sub-title lang="es">Blitz</sub-title>
+  </programme>
+  <programme start="20261116020200 -0600" stop="20261116022400 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Crónicas de la mafia</title>
+    <sub-title lang="es">Los Bloods</sub-title>
+  </programme>
+  <programme start="20261116022400 -0600" stop="20261116024600 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Crónicas de la mafia</title>
+    <sub-title lang="es">El cartel de Medellín</sub-title>
+  </programme>
+  <programme start="20261116024600 -0600" stop="20261116032900 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
+    <sub-title lang="es">La Masacre de San Valentín</sub-title>
+  </programme>
+  <programme start="20261116032900 -0600" stop="20261116041600 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Desastres en tiempo real</title>
+    <sub-title lang="es">Inundaciones</sub-title>
+  </programme>
+  <programme start="20261116041600 -0600" stop="20261116050000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Cazadores de tesoros</title>
+    <sub-title lang="es">Jolene, Jolene</sub-title>
+  </programme>
+  <programme start="20261116050000 -0600" stop="20261116052500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Precio de la Historia</title>
+    <sub-title lang="es">Samurais</sub-title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261116052500 -0600" stop="20261116061000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Precio de la Historia</title>
+    <sub-title lang="es">Érase una vez en... Hollywood</sub-title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261116061000 -0600" stop="20261116070000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Precio de la Historia</title>
+    <sub-title lang="es">Los barones del empeño</sub-title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261116070000 -0600" stop="20261116080000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Restauraciones Secretas</title>
+    <sub-title lang="es">Bienvenidos al taller</sub-title>
+  </programme>
+  <programme start="20261116080000 -0600" stop="20261116090000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Grandes escapes</title>
+    <sub-title lang="es">De la azotea a la libertad</sub-title>
+  </programme>
+  <programme start="20261116090000 -0600" stop="20261116095000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El efecto Nostradamus</title>
+    <sub-title lang="es">El Juramento Sangriento de Hitler</sub-title>
+  </programme>
+  <programme start="20261116095000 -0600" stop="20261116104000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Proyecto imposible</title>
+    <sub-title lang="es">Demoliciones peligrosas</sub-title>
+  </programme>
+  <programme start="20261116104000 -0600" stop="20261116121500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Experimentos monstruosos</title>
+  </programme>
+  <programme start="20261116121500 -0600" stop="20261116130500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Segunda Guerra Mundial con Tom Hanks</title>
+    <sub-title lang="es">Italia</sub-title>
+  </programme>
+  <programme start="20261116130500 -0600" stop="20261116135500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Maravillas sagradas con Dennis Quaid</title>
+    <sub-title lang="es">Maravillas ocultas</sub-title>
+  </programme>
+  <programme start="20261116135500 -0600" stop="20261116144500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Cosas extrañas de la historia</title>
+    <sub-title lang="es">La moneda vikinga el disco ancestral y la chica muerta que salvo millones</sub-title>
+  </programme>
+  <programme start="20261116144500 -0600" stop="20261116153500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Expedientes desclasificados con david duchovny</title>
+    <sub-title lang="es">Secretos del cielo</sub-title>
+  </programme>
+  <programme start="20261116153500 -0600" stop="20261116162500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
+    <sub-title lang="es">¿Quién mató al Rey Tut</sub-title>
+  </programme>
+  <programme start="20261116162500 -0600" stop="20261116171500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Misterios inexplorados con danny trejo</title>
+    <sub-title lang="es">Cámara de los secretos</sub-title>
+  </programme>
+  <programme start="20261116171500 -0600" stop="20261116181000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+    <sub-title lang="es">Ideas descabelladas</sub-title>
+  </programme>
+  <programme start="20261116181000 -0600" stop="20261116190500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Inexplicable</title>
+    <sub-title lang="es">Científicos locos</sub-title>
+  </programme>
+  <programme start="20261116190500 -0600" stop="20261116200000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
+    <sub-title lang="es">La leyenda del hombre lobo</sub-title>
+  </programme>
+  <programme start="20261116200000 -0600" stop="20261116205500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">La evidencia está entre nosotros</title>
+    <sub-title lang="es">El pez cara de humano y los pájaros suicidas</sub-title>
+  </programme>
+  <programme start="20261116205500 -0600" stop="20261116215000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Inexplicable Misterios del universo con William Shatner</title>
+    <sub-title lang="es">Lunas extranjeras</sub-title>
+  </programme>
+  <programme start="20261116215000 -0600" stop="20261116224000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Misterios inexplorados con danny trejo</title>
+    <sub-title lang="es">Descubrimientos poderosos</sub-title>
+  </programme>
+  <programme start="20261116224000 -0600" stop="20261116233000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Maravillas Siniestras</title>
+    <sub-title lang="es">Armas siniestras de espionaje</sub-title>
+  </programme>
+  <programme start="20261116233000 -0600" stop="20261117002500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Peregrino</title>
+    <sub-title lang="es">Brasil rituales religiosos y paganos</sub-title>
+  </programme>
+  <programme start="20261117002500 -0600" stop="20261117011000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Maravillas Siniestras</title>
+    <sub-title lang="es">Deportes sangrientos</sub-title>
+  </programme>
+  <programme start="20261117011000 -0600" stop="20261117015500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Alienígenas ancestrales</title>
+    <sub-title lang="es">Alienígenas entre nosotros</sub-title>
+  </programme>
+  <programme start="20261117015500 -0600" stop="20261117024500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Peregrino</title>
+    <sub-title lang="es">Qatar el fútbol como religión</sub-title>
+  </programme>
+  <programme start="20261117024500 -0600" stop="20261117033500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Peregrino</title>
+    <sub-title lang="es">Ucrania las heridas de la guerra</sub-title>
+  </programme>
+  <programme start="20261117033500 -0600" stop="20261117041500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Buena comida</sub-title>
+  </programme>
+  <programme start="20261117041500 -0600" stop="20261117050000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Precio de la Historia</title>
+    <sub-title lang="es">Todo, de empeños a locuras</sub-title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261117050000 -0600" stop="20261117052500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Precio de la Historia</title>
+    <sub-title lang="es">La biblia del 1500</sub-title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261117052500 -0600" stop="20261117061000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El Precio de la Historia</title>
+    <sub-title lang="es">Negocios Por Interes</sub-title>
+    <desc lang="es">En la ciudad de Las Vegas, la tienda de empeño “Gold &amp; Silver Pawn Shop”, una empresa familiar que trabaja las 24 horas del día es operada por Richard, Rick y Corey Harrison. En el negocio se puede observar como aparecen de la nada objetos que han formado parte de la historia y que hoy en día tienen un precio histórico.</desc>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261117061000 -0600" stop="20261117070000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Transacciones locas</sub-title>
+  </programme>
+  <programme start="20261117070000 -0600" stop="20261117080000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Restauraciones Secretas</title>
+    <sub-title lang="es">Bueno como oro</sub-title>
+  </programme>
+  <programme start="20261117080000 -0600" stop="20261117090000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Grandes escapes</title>
+    <sub-title lang="es">El vuelo del asesino</sub-title>
+  </programme>
+  <programme start="20261117090000 -0600" stop="20261117095000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El efecto Nostradamus</title>
+    <sub-title lang="es">Plan de Batalla del Armageddon</sub-title>
+  </programme>
+  <programme start="20261117095000 -0600" stop="20261117104000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Proyecto imposible</title>
+    <sub-title lang="es">Construir lo imposible</sub-title>
+  </programme>
+  <programme start="20261117104000 -0600" stop="20261117121500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">El escape de Hitler</title>
+  </programme>
+  <programme start="20261117121500 -0600" stop="20261117130500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Segunda Guerra Mundial con Tom Hanks</title>
+    <sub-title lang="es">Batalla por los cielos</sub-title>
+  </programme>
+  <programme start="20261117130500 -0600" stop="20261117135500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+    <sub-title lang="es">Pasatiempos inusuales</sub-title>
+  </programme>
+  <programme start="20261117135500 -0600" stop="20261117144500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Inexplicable Misterios del universo con William Shatner</title>
+    <sub-title lang="es">Lunas extranjeras</sub-title>
+  </programme>
+  <programme start="20261117144500 -0600" stop="20261117154000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Archivos alienígenas reabiertos</title>
+    <sub-title lang="es">Temporada baja de avistamientos</sub-title>
+  </programme>
+  <programme start="20261117154000 -0600" stop="20261117163000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
+    <sub-title lang="es">La búsqueda del Kraken</sub-title>
+  </programme>
+  <programme start="20261117163000 -0600" stop="20261117172000 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Misterios inexplorados con danny trejo</title>
+    <sub-title lang="es">Gigantes de metal</sub-title>
+  </programme>
+  <programme start="20261117172000 -0600" stop="20261117181500 -0600" channel="Canal.History.(Costa.Rica).cr">
+    <title lang="es">Cosas extrañas de la historia</title>
+    <sub-title lang="es">La computadora ancestral la paloma y la nanotecnología romana</sub-title>
+  </programme>
+  <programme start="20261116001200 -0600" stop="20261116010000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Mordida de serpiente</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  <programme start="20261116010000 -0600" stop="20261116014800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Savage Builds</title>
+    <sub-title lang="es">Building Iron Man</sub-title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261116014800 -0600" stop="20261116023600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">The Explosion Show</title>
+    <sub-title lang="es">Blowing Up Hollywood</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20261116023600 -0600" stop="20261116032400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261116032400 -0600" stop="20261116041200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Torre de alto riesgo</sub-title>
+    <episode-num system="onscreen">S6 E10</episode-num>
+  </programme>
+  <programme start="20261116041200 -0600" stop="20261116050000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">La zona de la muerte</sub-title>
+  </programme>
+  <programme start="20261116050000 -0600" stop="20261116054800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Expedición X</title>
+    <sub-title lang="es">El fenómeno del hombre polilla</sub-title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261116054800 -0600" stop="20261116063600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Torre de alto riesgo</sub-title>
+    <episode-num system="onscreen">S6 E10</episode-num>
+  </programme>
+  <programme start="20261116063600 -0600" stop="20261116072400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">Maravillas Místicas</sub-title>
+  </programme>
+  <programme start="20261116072400 -0600" stop="20261116081200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Momias al descubierto</title>
+    <sub-title lang="es">La fortuna perdida de la momia pirata</sub-title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261116081200 -0600" stop="20261116090000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Great American Eclipse</title>
+  </programme>
+  <programme start="20261116090000 -0600" stop="20261116094800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261116094800 -0600" stop="20261116103600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Botes de Carrera</sub-title>
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20261116103600 -0600" stop="20261116112400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">Maravillas Místicas</sub-title>
+  </programme>
+  <programme start="20261116112400 -0600" stop="20261116121200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Planeta Energia</title>
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme start="20261116121200 -0600" stop="20261116130000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">La China por dentro</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261116130000 -0600" stop="20261116134800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Arrested Development</sub-title>
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20261116134800 -0600" stop="20261116143600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Expedición X</title>
+    <sub-title lang="es">Terror en la isla de las Muñecas</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261116143600 -0600" stop="20261116152400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Estadio de Grandes Ligas</sub-title>
+    <episode-num system="onscreen">S6 E14</episode-num>
+  </programme>
+  <programme start="20261116152400 -0600" stop="20261116161200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Mysteries at the Museum</title>
+    <sub-title lang="es">Green Goddess, Terror On Tuesday and The Real Great Escape</sub-title>
+    <episode-num system="onscreen">S17 E9</episode-num>
+  </programme>
+  <programme start="20261116161200 -0600" stop="20261116170000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Savage Builds</title>
+    <sub-title lang="es">Wheel of Death</sub-title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261116170000 -0600" stop="20261116174800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Planeta Energia</title>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20261116174800 -0600" stop="20261116183600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Astronautas de la antigüedad</sub-title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20261116183600 -0600" stop="20261116192400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Great American Eclipse</title>
+  </programme>
+  <programme start="20261116192400 -0600" stop="20261116201200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Botes de Carrera</sub-title>
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20261116201200 -0600" stop="20261116210000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261116210000 -0600" stop="20261116214800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">Maravillas Místicas</sub-title>
+  </programme>
+  <programme start="20261116214800 -0600" stop="20261116223600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">La fiebre del oro</title>
+    <sub-title lang="es">Que no quede oro detrás</sub-title>
+    <episode-num system="onscreen">S10 E4</episode-num>
+  </programme>
+  <programme start="20261116223600 -0600" stop="20261116232400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Productores de armas</title>
+    <sub-title lang="es">Como en los años 20</sub-title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20261116232400 -0600" stop="20261117001200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Leyendas perdidas con Megan Fox</title>
+    <sub-title lang="es">La civilización perdida de América</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261117001200 -0600" stop="20261117010000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Brillo en el cielo</sub-title>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20261117010000 -0600" stop="20261117014800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Savage Builds</title>
+    <sub-title lang="es">Wheel of Death</sub-title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261117014800 -0600" stop="20261117023600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Great American Eclipse</title>
+  </programme>
+  <programme start="20261117023600 -0600" stop="20261117032400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261117032400 -0600" stop="20261117041200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Botes de Carrera</sub-title>
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20261117041200 -0600" stop="20261117050000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">Maravillas Místicas</sub-title>
+  </programme>
+  <programme start="20261117050000 -0600" stop="20261117054800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Expedición X</title>
+    <sub-title lang="es">La selva de Camboya</sub-title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261117054800 -0600" stop="20261117063600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Botes de Carrera</sub-title>
+    <episode-num system="onscreen">S6 E11</episode-num>
+  </programme>
+  <programme start="20261117063600 -0600" stop="20261117072400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">El Lado Oscuro</sub-title>
+  </programme>
+  <programme start="20261117072400 -0600" stop="20261117081200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Momias al descubierto</title>
+    <sub-title lang="es">El misterio de las fosas mayas</sub-title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261117081200 -0600" stop="20261117090000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Mordida de serpiente</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  <programme start="20261117090000 -0600" stop="20261117094800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261117094800 -0600" stop="20261117103600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Estadio de Grandes Ligas</sub-title>
+    <episode-num system="onscreen">S6 E14</episode-num>
+  </programme>
+  <programme start="20261117103600 -0600" stop="20261117112400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">El Lado Oscuro</sub-title>
+  </programme>
+  <programme start="20261117112400 -0600" stop="20261117121200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Houdini's Last Secrets</title>
+    <sub-title lang="es">The Torture Escape</sub-title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261117121200 -0600" stop="20261117130000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">La China por dentro</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261117130000 -0600" stop="20261117134800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Pasa el jugo</sub-title>
+    <episode-num system="onscreen">S7 E11</episode-num>
+  </programme>
+  <programme start="20261117134800 -0600" stop="20261117143600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Expedición X</title>
+    <sub-title lang="es">El fenómeno del hombre polilla</sub-title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261117143600 -0600" stop="20261117152400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Navío de guerra</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  <programme start="20261117152400 -0600" stop="20261117161200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Mysteries at the Museum</title>
+    <sub-title lang="es">Hitler Diaries, Hobby Horse and Parting the Red Sea</sub-title>
+    <episode-num system="onscreen">S17 E3</episode-num>
+  </programme>
+  <programme start="20261117161200 -0600" stop="20261117170000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Savage Builds</title>
+    <sub-title lang="es">La Flota de Mad Max</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261117170000 -0600" stop="20261117174800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Planeta Energia</title>
+    <episode-num system="onscreen">S1 E15</episode-num>
+  </programme>
+  <programme start="20261117174800 -0600" stop="20261117183600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Los padres fundadores</sub-title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20261117183600 -0600" stop="20261117192400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Mordida de serpiente</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  <programme start="20261117192400 -0600" stop="20261117201200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261117201200 -0600" stop="20261117210000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Estadio de Grandes Ligas</sub-title>
+    <episode-num system="onscreen">S6 E14</episode-num>
+  </programme>
+  <programme start="20261117210000 -0600" stop="20261117214800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">El Lado Oscuro</sub-title>
+  </programme>
+  <programme start="20261117214800 -0600" stop="20261117223600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">La fiebre del oro</title>
+    <sub-title lang="es">Se necesita más espacio</sub-title>
+    <episode-num system="onscreen">S10 E5</episode-num>
+  </programme>
+  <programme start="20261117223600 -0600" stop="20261117232400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Productores de armas</title>
+    <sub-title lang="es">Rifle Reptil</sub-title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20261117232400 -0600" stop="20261118001200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ancient Unexplained Files</title>
+    <sub-title lang="es">Secrets of Skull Grave</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261118001200 -0600" stop="20261118010000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Lightning Strikes</sub-title>
+    <episode-num system="onscreen">S7 E3</episode-num>
+  </programme>
+  <programme start="20261118010000 -0600" stop="20261118014800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Savage Builds</title>
+    <sub-title lang="es">La Flota de Mad Max</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261118014800 -0600" stop="20261118023600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Mordida de serpiente</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  <programme start="20261118023600 -0600" stop="20261118032400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261118032400 -0600" stop="20261118041200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Estadio de Grandes Ligas</sub-title>
+    <episode-num system="onscreen">S6 E14</episode-num>
+  </programme>
+  <programme start="20261118041200 -0600" stop="20261118050000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">El Lado Oscuro</sub-title>
+  </programme>
+  <programme start="20261118050000 -0600" stop="20261118054800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Expedición X</title>
+    <sub-title lang="es">Misterio en Mammoth Cave</sub-title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261118054800 -0600" stop="20261118063600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Estadio de Grandes Ligas</sub-title>
+    <episode-num system="onscreen">S6 E14</episode-num>
+  </programme>
+  <programme start="20261118063600 -0600" stop="20261118072400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">Adivinación</sub-title>
+  </programme>
+  <programme start="20261118072400 -0600" stop="20261118081200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Momias al descubierto</title>
+    <sub-title lang="es">La momia del asesino de Lincoln</sub-title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261118081200 -0600" stop="20261118090000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Brillo en el cielo</sub-title>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20261118090000 -0600" stop="20261118094800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261118094800 -0600" stop="20261118103600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ancient Unexplained Files</title>
+    <sub-title lang="es">Secrets of Skull Grave</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261118103600 -0600" stop="20261118112400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">Adivinación</sub-title>
+  </programme>
+  <programme start="20261118112400 -0600" stop="20261118121200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Houdini's Last Secrets</title>
+    <sub-title lang="es">To Catch a Bullet</sub-title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261118121200 -0600" stop="20261118130000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Houdini's Last Secrets</title>
+    <sub-title lang="es">The Torture Escape</sub-title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261118130000 -0600" stop="20261118134800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Curse of the Blown Cover</sub-title>
+  </programme>
+  <programme start="20261118134800 -0600" stop="20261118143600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Expedición X</title>
+    <sub-title lang="es">La selva de Camboya</sub-title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261118143600 -0600" stop="20261118152400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Túnel en California</sub-title>
+    <episode-num system="onscreen">S6 E6</episode-num>
+  </programme>
+  <programme start="20261118152400 -0600" stop="20261118161200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Mysteries at the Museum</title>
+    <sub-title lang="es">Operation Toothpaste, Case Of The Kates and White River Monster</sub-title>
+    <episode-num system="onscreen">S17 E10</episode-num>
+  </programme>
+  <programme start="20261118161200 -0600" stop="20261118170000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Savage Builds</title>
+    <sub-title lang="es">Forging Excalibur</sub-title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261118170000 -0600" stop="20261118174800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Planeta Energia</title>
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme start="20261118174800 -0600" stop="20261118183600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Cultos Mortales</sub-title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20261118183600 -0600" stop="20261118192400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Brillo en el cielo</sub-title>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20261118192400 -0600" stop="20261118201200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ancient Unexplained Files</title>
+    <sub-title lang="es">Secrets of Skull Grave</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261118201200 -0600" stop="20261118210000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261118210000 -0600" stop="20261118214800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">Adivinación</sub-title>
+  </programme>
+  <programme start="20261118214800 -0600" stop="20261118223600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">La fiebre del oro</title>
+    <sub-title lang="es">El monstruo rojo</sub-title>
+    <episode-num system="onscreen">S10 E6</episode-num>
+  </programme>
+  <programme start="20261118223600 -0600" stop="20261118232400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Productores de armas</title>
+    <sub-title lang="es">Winchester de Competencia</sub-title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20261118232400 -0600" stop="20261119001200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ancient Unexplained Files</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261119001200 -0600" stop="20261119010000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Pony Express</sub-title>
+    <episode-num system="onscreen">S7 E5</episode-num>
+  </programme>
+  <programme start="20261119010000 -0600" stop="20261119014800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Savage Builds</title>
+    <sub-title lang="es">Forging Excalibur</sub-title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261119014800 -0600" stop="20261119023600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Brillo en el cielo</sub-title>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20261119023600 -0600" stop="20261119032400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261119032400 -0600" stop="20261119041200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ancient Unexplained Files</title>
+    <sub-title lang="es">Secrets of Skull Grave</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261119041200 -0600" stop="20261119050000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ojo Crítico</title>
+    <sub-title lang="es">Adivinación</sub-title>
+  </programme>
+  <programme start="20261119050000 -0600" stop="20261119054800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Expedición X</title>
+    <sub-title lang="es">Encuentros con OVNIs</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20261119054800 -0600" stop="20261119063600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Navío de guerra</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  <programme start="20261119063600 -0600" stop="20261119072400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Navío de guerra</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  <programme start="20261119072400 -0600" stop="20261119081200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Momias al descubierto</title>
+    <sub-title lang="es">En busca de la momia de Moisés</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20261119081200 -0600" stop="20261119090000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Lightning Strikes</sub-title>
+    <episode-num system="onscreen">S7 E3</episode-num>
+  </programme>
+  <programme start="20261119090000 -0600" stop="20261119094800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261119094800 -0600" stop="20261119103600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ancient Unexplained Files</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261119103600 -0600" stop="20261119112400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Great American Eclipse</title>
+  </programme>
+  <programme start="20261119112400 -0600" stop="20261119121200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Houdini's Last Secrets</title>
+    <sub-title lang="es">Siberian Prison Conspiracy</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20261119121200 -0600" stop="20261119130000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Houdini's Last Secrets</title>
+    <sub-title lang="es">To Catch a Bullet</sub-title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20261119130000 -0600" stop="20261119134800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Highway to Hell</sub-title>
+    <episode-num system="onscreen">S7 E13</episode-num>
+  </programme>
+  <programme start="20261119134800 -0600" stop="20261119143600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Expedición X</title>
+    <sub-title lang="es">Misterio en Mammoth Cave</sub-title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261119143600 -0600" stop="20261119152400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Megaconstrucciones</title>
+    <sub-title lang="es">Campo de entrenamiento</sub-title>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  <programme start="20261119152400 -0600" stop="20261119161200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Mysteries at the Museum</title>
+    <sub-title lang="es">Sergeant Bill Goat Hero, Gilded Grudge and Osage Investigation</sub-title>
+    <episode-num system="onscreen">S17 E11</episode-num>
+  </programme>
+  <programme start="20261119161200 -0600" stop="20261119170000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Savage Builds</title>
+    <sub-title lang="es">Nitro Explode-aganza</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20261119170000 -0600" stop="20261119174800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Planeta Energia</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261119174800 -0600" stop="20261119183600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Soldados de laboratorio</sub-title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20261119183600 -0600" stop="20261119192400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Moonshiners</title>
+    <sub-title lang="es">Lightning Strikes</sub-title>
+    <episode-num system="onscreen">S7 E3</episode-num>
+  </programme>
+  <programme start="20261119192400 -0600" stop="20261119201200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ancient Unexplained Files</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20261119201200 -0600" stop="20261119210000 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Códigos y Conspiraciones</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20261119210000 -0600" stop="20261119214800 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Great American Eclipse</title>
+  </programme>
+  <programme start="20261119214800 -0600" stop="20261119223600 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">La fiebre del oro</title>
+    <sub-title lang="es">La veta madre de la montaña</sub-title>
+    <episode-num system="onscreen">S10 E7</episode-num>
+  </programme>
+  <programme start="20261119223600 -0600" stop="20261119232400 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Productores de armas</title>
+    <sub-title lang="es">Cañón Doble</sub-title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20261119232400 -0600" stop="20261120001200 -0600" channel="Canal.Discovery.Science.(Latinoamérica).cr">
+    <title lang="es">Ancient Unexplained Files</title>
+    <sub-title lang="es">Mystery on Easter Island</sub-title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261116001200 -0600" stop="20261116010000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">La peligrosa ruta del café</title>
+    <sub-title lang="es">Etiopía</sub-title>
+  </programme>
+  <programme start="20261116010000 -0600" stop="20261116014800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">El ferrocarril de Alaska</title>
+    <sub-title lang="es">Un rescate en el hielo</sub-title>
+  </programme>
+  <programme start="20261116014800 -0600" stop="20261116023600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Oro salvaje</title>
+    <sub-title lang="es">Medidas desesperadas</sub-title>
+  </programme>
+  <programme start="20261116023600 -0600" stop="20261116032400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20261116032400 -0600" stop="20261116041200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Gigantes de la industria americana</title>
+    <sub-title lang="es">Vanderbilt contra Drew</sub-title>
+  </programme>
+  <programme start="20261116041200 -0600" stop="20261116050000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Televangelista escandaloso, discurso soñado, invasión británica</sub-title>
+  </programme>
+  <programme start="20261116050000 -0600" stop="20261116054800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">La peligrosa ruta del café</title>
+    <sub-title lang="es">Etiopía</sub-title>
+  </programme>
+  <programme start="20261116054800 -0600" stop="20261116063600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">El ferrocarril de Alaska</title>
+    <sub-title lang="es">Un rescate en el hielo</sub-title>
+  </programme>
+  <programme start="20261116063600 -0600" stop="20261116072400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Oro salvaje</title>
+    <sub-title lang="es">Medidas desesperadas</sub-title>
+  </programme>
+  <programme start="20261116072400 -0600" stop="20261116081200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20261116081200 -0600" stop="20261116090000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Gigantes de la industria americana</title>
+    <sub-title lang="es">Vanderbilt contra Drew</sub-title>
+  </programme>
+  <programme start="20261116090000 -0600" stop="20261116094800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Televangelista escandaloso, discurso soñado, invasión británica</sub-title>
+  </programme>
+  <programme start="20261116094800 -0600" stop="20261116103600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Hank Williams, los soldados y el hombre de hielo</sub-title>
+  </programme>
+  <programme start="20261116103600 -0600" stop="20261116112400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">El espía que salvó a Washington, el monstruo del huevo, Hatfields y McCoys</sub-title>
+  </programme>
+  <programme start="20261116112400 -0600" stop="20261116121200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios del castillo</title>
+    <sub-title lang="es">La fuga, el milagro de Anne Greene, el último centavo de Hemingway</sub-title>
+  </programme>
+  <programme start="20261116121200 -0600" stop="20261116130000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Estación Helter Skelter</sub-title>
+  </programme>
+  <programme start="20261116130000 -0600" stop="20261116134800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">El ferrocarril de Alaska</title>
+    <sub-title lang="es">Tren del infierno</sub-title>
+  </programme>
+  <programme start="20261116134800 -0600" stop="20261116143600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">La peligrosa ruta del café</title>
+    <sub-title lang="es">Papúa Nueva Guinea</sub-title>
+  </programme>
+  <programme start="20261116143600 -0600" stop="20261116152400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Clandestinos el maestro destilador</title>
+    <sub-title lang="es">La hermana difícil de la absenta</sub-title>
+  </programme>
+  <programme start="20261116152400 -0600" stop="20261116161200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Historias Animales</title>
+  </programme>
+  <programme start="20261116161200 -0600" stop="20261116170000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Tu basura, mi fortuna negocio redondo</title>
+    <sub-title lang="es">Restauracion</sub-title>
+  </programme>
+  <programme start="20261116170000 -0600" stop="20261116174800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Trabajo sucio</title>
+    <sub-title lang="es">Granjero de orina de venado y necropsia</sub-title>
+  </programme>
+  <programme start="20261116174800 -0600" stop="20261116181200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Línea de producción</title>
+    <sub-title lang="es">Terex: Camión de basura</sub-title>
+  </programme>
+  <programme start="20261116181200 -0600" stop="20261116183600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Línea de producción</title>
+    <sub-title lang="es">Forgemasters Steel</sub-title>
+  </programme>
+  <programme start="20261116183600 -0600" stop="20261116192400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Operación Vuelo</title>
+  </programme>
+  <programme start="20261116192400 -0600" stop="20261116201200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Mala Sangre</sub-title>
+  </programme>
+  <programme start="20261116201200 -0600" stop="20261116210000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Capitán conflicto</sub-title>
+  </programme>
+  <programme start="20261116210000 -0600" stop="20261116214800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Proyecto Maersk</title>
+    <sub-title lang="es">Viaje inaugural</sub-title>
+  </programme>
+  <programme start="20261116214800 -0600" stop="20261116223600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Supercargas</title>
+    <sub-title lang="es">Icy Roads in Austria</sub-title>
+  </programme>
+  <programme start="20261116223600 -0600" stop="20261116232400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Expedición a lo desconocido</title>
+    <sub-title lang="es">Descubrir el secreto</sub-title>
+  </programme>
+  <programme start="20261116232400 -0600" stop="20261117001200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Expedición a lo desconocido</title>
+    <sub-title lang="es">La búsqueda de nuestros antiguos antepasados</sub-title>
+  </programme>
+  <programme start="20261117001200 -0600" stop="20261117010000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Miracle on the Hudson for the Love of Lady Liberty</sub-title>
+  </programme>
+  <programme start="20261117010000 -0600" stop="20261117014800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Boston Marathon Cheat Beast of Bodmin and the Nake</sub-title>
+  </programme>
+  <programme start="20261117014800 -0600" stop="20261117023600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Estallido de vampiros, traidor americano, retiro corporativo</sub-title>
+  </programme>
+  <programme start="20261117023600 -0600" stop="20261117032400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios del castillo</title>
+    <sub-title lang="es">Martin Luther, brujas de Belvoir, reina secreta</sub-title>
+  </programme>
+  <programme start="20261117032400 -0600" stop="20261117041200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Apagón</sub-title>
+  </programme>
+  <programme start="20261117041200 -0600" stop="20261117050000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Mala Sangre</sub-title>
+  </programme>
+  <programme start="20261117050000 -0600" stop="20261117054800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Miracle on the Hudson for the Love of Lady Liberty</sub-title>
+  </programme>
+  <programme start="20261117054800 -0600" stop="20261117063600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Boston Marathon Cheat Beast of Bodmin and the Nake</sub-title>
+  </programme>
+  <programme start="20261117063600 -0600" stop="20261117072400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Estallido de vampiros, traidor americano, retiro corporativo</sub-title>
+  </programme>
+  <programme start="20261117072400 -0600" stop="20261117081200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios del castillo</title>
+    <sub-title lang="es">Martin Luther, brujas de Belvoir, reina secreta</sub-title>
+  </programme>
+  <programme start="20261117081200 -0600" stop="20261117090000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Apagón</sub-title>
+  </programme>
+  <programme start="20261117090000 -0600" stop="20261117094800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Mala Sangre</sub-title>
+  </programme>
+  <programme start="20261117094800 -0600" stop="20261117103600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">La peligrosa ruta del café</title>
+    <sub-title lang="es">Etiopía</sub-title>
+  </programme>
+  <programme start="20261117103600 -0600" stop="20261117112400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">El ferrocarril de Alaska</title>
+    <sub-title lang="es">Un rescate en el hielo</sub-title>
+  </programme>
+  <programme start="20261117112400 -0600" stop="20261117121200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Oro salvaje</title>
+    <sub-title lang="es">Medidas desesperadas</sub-title>
+  </programme>
+  <programme start="20261117121200 -0600" stop="20261117130000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20261117130000 -0600" stop="20261117134800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Gigantes de la industria americana</title>
+    <sub-title lang="es">Vanderbilt contra Drew</sub-title>
+  </programme>
+  <programme start="20261117134800 -0600" stop="20261117143600 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Televangelista escandaloso, discurso soñado, invasión británica</sub-title>
+  </programme>
+  <programme start="20261117143600 -0600" stop="20261117152400 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Hank Williams, los soldados y el hombre de hielo</sub-title>
+  </programme>
+  <programme start="20261117152400 -0600" stop="20261117161200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Historias Animales</title>
+  </programme>
+  <programme start="20261117161200 -0600" stop="20261117170000 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Misterios del castillo</title>
+    <sub-title lang="es">La fuga, el milagro de Anne Greene, el último centavo de Hemingway</sub-title>
+  </programme>
+  <programme start="20261117170000 -0600" stop="20261117174800 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Estación Helter Skelter</sub-title>
+  </programme>
+  <programme start="20261117174800 -0600" stop="20261117181200 -0600" channel="Canal.Discovery.Theater.(Latinoamérica).cr">
+    <title lang="es">Sangre Apalache</title>
+    <sub-title lang="es">La búsqueda del tesoro</sub-title>
+  </programme>
+  <programme start="20261116004900 -0600" stop="20261116014300 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los rapanui</sub-title>
+  </programme>
+  <programme start="20261116014300 -0600" stop="20261116031800 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">11 de septiembre teorías de conspiración</title>
+  </programme>
+  <programme start="20261116031800 -0600" stop="20261116041200 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los Minoicos</sub-title>
+  </programme>
+  <programme start="20261116041200 -0600" stop="20261116043600 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Boys toys</title>
+  </programme>
+  <programme start="20261116043600 -0600" stop="20261116050000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Boys toys</title>
+  </programme>
+  <programme start="20261116050000 -0600" stop="20261116060000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los Jemer los reyes de Angkor Wat</sub-title>
+  </programme>
+  <programme start="20261116060000 -0600" stop="20261116070000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los Aztecas</sub-title>
+  </programme>
+  <programme start="20261116070000 -0600" stop="20261116084000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">11 de septiembre teorías de conspiración</title>
+  </programme>
+  <programme start="20261116084000 -0600" stop="20261116094000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los Minoicos</sub-title>
+  </programme>
+  <programme start="20261116094000 -0600" stop="20261116104000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los rapanui</sub-title>
+  </programme>
+  <programme start="20261116104000 -0600" stop="20261116114000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los Aztecas</sub-title>
+  </programme>
+  <programme start="20261116114000 -0600" stop="20261116124000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los moche</sub-title>
+  </programme>
+  <programme start="20261116124000 -0600" stop="20261116134000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los vikingos de Groenlandia</sub-title>
+  </programme>
+  <programme start="20261116134000 -0600" stop="20261116144000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los Jemer los reyes de Angkor Wat</sub-title>
+  </programme>
+  <programme start="20261116144000 -0600" stop="20261116154000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Apocalipsis ancestrales</title>
+    <sub-title lang="es">Los Minoicos</sub-title>
+  </programme>
+  <programme start="20261116154000 -0600" stop="20261116160500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Una breve historia de...</title>
+    <sub-title lang="es">Los juegos de la vida</sub-title>
+  </programme>
+  <programme start="20261116160500 -0600" stop="20261116163000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Una breve historia de...</title>
+    <sub-title lang="es">Más allá del juego</sub-title>
+  </programme>
+  <programme start="20261116163000 -0600" stop="20261116172000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Maravillas modernas el mundo de las máquinas</title>
+    <sub-title lang="es">Transporte</sub-title>
+  </programme>
+  <programme start="20261116172000 -0600" stop="20261116181000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Construyendo un Imperio</title>
+    <sub-title lang="es">Los Persas</sub-title>
+  </programme>
+  <programme start="20261116181000 -0600" stop="20261116190000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Inventos legendarios</title>
+    <sub-title lang="es">Los mejores monumentos de la antigüedad</sub-title>
+  </programme>
+  <programme start="20261116190000 -0600" stop="20261116195500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">Paris - Segunda parte</sub-title>
+  </programme>
+  <programme start="20261116195500 -0600" stop="20261116210000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">Sicilia conquistada - Parte 2</sub-title>
+  </programme>
+  <programme start="20261116210000 -0600" stop="20261116215000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Coliseo</title>
+    <sub-title lang="es">El constructor</sub-title>
+  </programme>
+  <programme start="20261116215000 -0600" stop="20261116224000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Genios Ancestrales</title>
+    <sub-title lang="es">Momentos monstruosos</sub-title>
+  </programme>
+  <programme start="20261116224000 -0600" stop="20261116233500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">Paris - Segunda parte</sub-title>
+  </programme>
+  <programme start="20261116233500 -0600" stop="20261117004000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">Sicilia conquistada - Parte 2</sub-title>
+  </programme>
+  <programme start="20261117004000 -0600" stop="20261117013000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Inventos legendarios</title>
+    <sub-title lang="es">Los mejores monumentos de la antigüedad</sub-title>
+  </programme>
+  <programme start="20261117013000 -0600" stop="20261117015500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Una breve historia de...</title>
+    <sub-title lang="es">Los juegos de la vida</sub-title>
+  </programme>
+  <programme start="20261117015500 -0600" stop="20261117022000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Una breve historia de...</title>
+    <sub-title lang="es">Más allá del juego</sub-title>
+  </programme>
+  <programme start="20261117022000 -0600" stop="20261117031000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Maravillas modernas el mundo de las máquinas</title>
+    <sub-title lang="es">Transporte</sub-title>
+  </programme>
+  <programme start="20261117031000 -0600" stop="20261117040000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Construyendo un Imperio</title>
+    <sub-title lang="es">Los Persas</sub-title>
+  </programme>
+  <programme start="20261117040000 -0600" stop="20261117043000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Boys toys</title>
+    <sub-title lang="es">Super Sport Seduction</sub-title>
+  </programme>
+  <programme start="20261117043000 -0600" stop="20261117050000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Boys toys</title>
+    <sub-title lang="es">Hoosier Daddy</sub-title>
+  </programme>
+  <programme start="20261117050000 -0600" stop="20261117055000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Genios Ancestrales</title>
+    <sub-title lang="es">Momentos monstruosos</sub-title>
+  </programme>
+  <programme start="20261117055000 -0600" stop="20261117064500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">Paris - Segunda parte</sub-title>
+  </programme>
+  <programme start="20261117064500 -0600" stop="20261117071000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Una breve historia de...</title>
+    <sub-title lang="es">Los juegos de la vida</sub-title>
+  </programme>
+  <programme start="20261117071000 -0600" stop="20261117073500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Una breve historia de...</title>
+    <sub-title lang="es">Más allá del juego</sub-title>
+  </programme>
+  <programme start="20261117073500 -0600" stop="20261117082500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Maravillas modernas el mundo de las máquinas</title>
+    <sub-title lang="es">Transporte</sub-title>
+  </programme>
+  <programme start="20261117082500 -0600" stop="20261117091500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Construyendo un Imperio</title>
+    <sub-title lang="es">Los Persas</sub-title>
+  </programme>
+  <programme start="20261117091500 -0600" stop="20261117100500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Inventos legendarios</title>
+    <sub-title lang="es">Los mejores monumentos de la antigüedad</sub-title>
+  </programme>
+  <programme start="20261117100500 -0600" stop="20261117111000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Constructores de imperios</title>
+    <sub-title lang="es">Sicilia conquistada - Parte 2</sub-title>
+  </programme>
+  <programme start="20261117111000 -0600" stop="20261117120000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Coliseo</title>
+    <sub-title lang="es">El constructor</sub-title>
+  </programme>
+  <programme start="20261117120000 -0600" stop="20261117125000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Genios Ancestrales</title>
+    <sub-title lang="es">Momentos monstruosos</sub-title>
+  </programme>
+  <programme start="20261117125000 -0600" stop="20261117134500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Maravillas modernas el mundo de las máquinas</title>
+    <sub-title lang="es">Transporte</sub-title>
+  </programme>
+  <programme start="20261117134500 -0600" stop="20261117144000 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Construyendo un Imperio</title>
+    <sub-title lang="es">Los Persas</sub-title>
+  </programme>
+  <programme start="20261117144000 -0600" stop="20261117161500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">101 objetos que cambiaron al mundo</title>
+  </programme>
+  <programme start="20261117161500 -0600" stop="20261117171500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Cazadores de dictadores</title>
+    <sub-title lang="es">Adolf Hitler</sub-title>
+  </programme>
+  <programme start="20261117171500 -0600" stop="20261117180500 -0600" channel="Canal.History.2.(Costa.Rica).cr">
+    <title lang="es">Los últimos días de los nazis</title>
+    <sub-title lang="es">Oscuro comienzo</sub-title>
+  </programme>
+</tv>
