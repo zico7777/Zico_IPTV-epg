@@ -67,13 +67,13 @@ http://playtvch.lat:2082/Frankyvarela/91682929262/6348
 http://playtvch.lat:2082/Frankyvarela/91682929262/2693
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/VWVmLY7Z/hbo-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO
-http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCH_o_4agM4fBpqdYGyuu7S6/ts
+http://go.iptvhn.net:25461/7243/72432023/1286
 
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cr" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/LDRL3cZN/hbo-2-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO 2
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/2643.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.Plus.cr" tvg-name="HBO +" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO +
-http://latinostream.xyz:80/live/live/USm9Dmft32/AwfRDr5VeB/769439.m3u8
+http://go.iptvhn.net:25461/7243/72432023/1289
 
 #EXTINF:-1 tvg-id="Canal.HBO.Pop.cr" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO POP
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/30416.m3u8
@@ -112,7 +112,7 @@ http://mallorca.plus:80/live/Rafa2409berri/yBHxTaMwCT/46141.m3u8
 http://mallorca.plus:80/live/Rafa2409berri/yBHxTaMwCT/46139.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Universal.TV.(Costa.Rica).cr" tvg-name="UNIVERSAL TV" tvg-logo="https://i.ibb.co/rKn3yzw1/Universal-TV-logo.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL TV
-http://redworld.pro:8880/marcos6@72639/81266785849/414494
+http://go.iptvhn.net:25461/7243/72432023/1297
 
 #EXTINF:-1 tvg-id="Universal Premier" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://i.ibb.co/S4F6tDcj/universal-premiere-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL PREMIER
 http://redworld.pro:8880/marcos6@72639/81266785849/414525
@@ -121,10 +121,13 @@ http://redworld.pro:8880/marcos6@72639/81266785849/414525
 http://mallorca.plus:80/live/Rafa2409berri/yBHxTaMwCT/90078.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/pBfZ1jBR/universal-studios-pictures-4518.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STUDIO UNIVERSAL
-http://mallorca.plus:80/live/Rafa2409berri/yBHxTaMwCT/46218.m3u8
+http://go.iptvhn.net:25461/7243/72432023/1295
 
 #EXTINF:-1 tvg-id="Canal.Lifetime.(México).mx" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",LIFETIME
-http://mallorca.plus:80/live/Rafa2409berri/yBHxTaMwCT/113865.m3u8
+http://go.iptvhn.net:25461/7243/72432023/1272
+
+#EXTINF:-1 tvg-id="Multipremier" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",MULTIPREMIER
+http://go.iptvhn.net:25461/7243/72432023/1299
 
 #EXTINF:-1 tvg-id="Panico.cr" tvg-name="PANICO" tvg-logo="https://i.ibb.co/M5ZLQp3Y/Paniconvv.webp" group-title="Peliculas y Series" tvg-group="Peliculas y Series",PANICO
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769430.m3u8
