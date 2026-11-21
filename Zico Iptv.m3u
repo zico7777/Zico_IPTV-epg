@@ -37,7 +37,7 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1036027.m3u8
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769794.m3u8
 
 #EXTINF:-1 tvg-id="Canal.History.(Costa.Rica).cr" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/fYvphYRW/History-2021.webp" group-title="Culturales" tvg-group="Culturales",HISTORY CHANNEL
-http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318617
+http://rabbittv.online:2095/live/GuiovanniBenavides/ksqn5wcJwQ/313126.m3u8
 
 #EXTINF:-1 tvg-id="Canal.History.2.(Costa.Rica).cr" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/pvwr6D6C/H2more2history.webp" group-title="Culturales" tvg-group="Culturales",HISTORY 2
 http://redworld.pro:8880/marcos6@72639/81266785849/318619
@@ -50,6 +50,12 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1035881.m3u8
 
 #EXTINF:-1 tvg-id="Canal.A&amp;E.(Costa.Rica).cr" tvg-name="A&E" tvg-logo="https://i.ibb.co/9kKWYBY7/AE-Logo-500x281.png" group-title="Entretenimiento" tvg-group="Entretenimiento",A&E
 http://redworld.pro:8880/marcos6@72639/81266785849/414453
+
+#EXTINF:-1 tvg-id="Adult Swin" tvg-name="ADULT SWIN" tvg-logo="https://puntozrb.lat/LOGOS/adultswimmas.png" group-title="Entretenimiento" tvg-group="Entretenimiento",ADULT SWIN
+http://rabbittv.online:2095/live/GuiovanniBenavides/ksqn5wcJwQ/216112.m3u8
+
+#EXTINF:-1 tvg-id="Bitme" tvg-name="BITME" tvg-logo="https://puntozrb.lat/LOGOS/bitmenew.png" group-title="Entretenimiento" tvg-group="Entretenimiento",BITME
+http://rabbittv.online:2095/live/GuiovanniBenavides/ksqn5wcJwQ/529.m3u8
 
 #EXTINF:-1 tvg-id="Film&Arts" tvg-name="FILM & ARTS" tvg-logo="https://i.ibb.co/MDZ40zQz/Film-Arts.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",FILM & ARTS
 http://latinostream.xyz:80/play/live/USm9Dmft32/AwfRDr5VeB/1036276.m3u8
@@ -73,7 +79,7 @@ http://go.iptvhn.net:25461/7243/72432023/1286
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/2643.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.Plus.cr" tvg-name="HBO +" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO +
-http://go.iptvhn.net:25461/7243/72432023/1289
+http://rabbittv.online:2095/live/GuiovanniBenavides/ksqn5wcJwQ/268287.m3u8
 
 #EXTINF:-1 tvg-id="Canal.HBO.Pop.cr" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO POP
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/30416.m3u8
@@ -124,7 +130,7 @@ http://mallorca.plus:80/live/Rafa2409berri/yBHxTaMwCT/90078.m3u8
 http://go.iptvhn.net:25461/7243/72432023/1295
 
 #EXTINF:-1 tvg-id="Canal.Lifetime.(México).mx" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",LIFETIME
-http://go.iptvhn.net:25461/7243/72432023/1272
+http://rabbittv.online:2095/live/GuiovanniBenavides/ksqn5wcJwQ/327475.m3u8
 
 #EXTINF:-1 tvg-id="Multipremier" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",MULTIPREMIER
 http://go.iptvhn.net:25461/7243/72432023/1299
