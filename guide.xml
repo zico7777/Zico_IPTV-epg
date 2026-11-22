@@ -98,7 +98,7 @@
     <display-name>EL GOURMET</display-name>
     <icon src="https://i.ibb.co/gF9szFdc/Elgourmet-23.jpg" />
   </channel>
-  <channel id="HBO">
+  <channel id="Canal.HBO.(Argentina).ar">
     <display-name>HBO</display-name>
     <icon src="https://i.ibb.co/VWVmLY7Z/hbo-768.png" />
   </channel>
@@ -141,11 +141,11 @@
     <display-name>GOLDEN</display-name>
     <icon src="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" />
   </channel>
-  <channel id="Golden +">
-    <display-name>GOLDEN +</display-name>
+  <channel id="Canal.Golden.Plus.mx">
+    <display-name>GOLDEN PLUS</display-name>
     <icon src="https://i.ibb.co/rRyY0kRq/Golden-Plus-LA-2020.jpg" />
   </channel>
-  <channel id="Golden Premier">
+  <channel id="Canal.Golden.Premier.mx">
     <display-name>GOLDEN PREMIER</display-name>
     <icon src="https://i.ibb.co/DD1B56Lb/Golden-Premier.jpg" />
   </channel>
@@ -173,9 +173,8 @@
     <display-name>LIFETIME</display-name>
     <icon src="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" />
   </channel>
-  <channel id="Multipremier">
+  <channel id="Canal.Multipremier.cl">
     <display-name>MULTIPREMIER</display-name>
-    <icon src="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" />
   </channel>
   <channel id="Panico.cr">
     <display-name>PANICO</display-name>
@@ -346,6 +345,819 @@
     <display-name>LIGA DE CAMPEONES 2 M</display-name>
     <icon src="http://imgfz.com/i/Y1ltIru.jpeg" />
   </channel>
+  <programme start="20261121013800 -0600" stop="20261121033800 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20261121033800 -0600" stop="20261121060000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Corazones de hierro</title>
+  </programme>
+  <programme start="20261121060000 -0600" stop="20261121080800 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Pasante de moda</title>
+  </programme>
+  <programme start="20261121080800 -0600" stop="20261121104700 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <desc lang="es">Sinopsis no disponible.</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <actor>Gal Gadot</actor>
+      <actor>Chris Pine</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Pedro Pascal</actor>
+      <actor>Robin Wright</actor>
+      <actor>Connie Nielsen</actor>
+      <producer>Charles Roven</producer>
+      <producer>Deborah Snyder</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mujer_maravilla_1984.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121104700 -0600" stop="20261121122000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">¡Súper agente Hitpig!</title>
+  </programme>
+  <programme start="20261121122000 -0600" stop="20261121140200 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Karate Kid: Leyendas</title>
+    <desc lang="es">En Karate Kid: Leyendas, tras una tragedia familiar, el prodigio del kun fu Li Fong (Ben Wang) es desarraigado de su hogar en Pekín y obligado a mudarse a Nueva York con su madre. Li lucha por superar su pasado mientras intenta integrarse con sus nuevos compañeros de clase, y aunque no quiere pelear, los problemas parecen acecharlo por todas partes. Cuando un nuevo amigo necesita su ayuda, Li participa en una competición de karate, pero sus habilidades por sí solas no son suficientes. Su profesor de kung fu, el Sr. Han (Jackie Chan), recluta al Karate Kid original, Daniel LaRusso (Ralph Macchio), y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno para el duelo definitivo de artes marciales.</desc>
+    <credits>
+      <director>Jonathan Entwistle</director>
+      <actor>Jackie Chan</actor>
+      <actor>Ralph Macchio</actor>
+      <actor>Ben Wang</actor>
+      <actor>Joshua Jackson</actor>
+      <actor>Sadie Stanley</actor>
+      <actor>Ming-Na Wen</actor>
+      <actor>Aramis Knight</actor>
+      <actor>Shaunette Renée Wilson</actor>
+      <producer>Karen Rosenfelt</producer>
+      <composer>Dominic Lewis</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/karate_kid_leyendas.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121140200 -0600" stop="20261121155500 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Beekeeper: Sentencia de Muerte</title>
+    <desc lang="es">En Beekeeper: Sentencia de muerte, la brutal campaña de venganza de un hombre adquiere un interés nacional después de que se revelara que es un ex agente de una organización poderosa y clandestina conocida como "Beekeepers".</desc>
+    <credits>
+      <director>David Ayer</director>
+      <actor>Jason Statham</actor>
+      <actor>Emmy Raver-Lampman</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Bobby Naderi</actor>
+      <actor>Minnie Driver</actor>
+      <actor>Phylicia Rashad</actor>
+      <actor>Jeremy Irons</actor>
+      <producer>Bill Block</producer>
+      <producer>David Ayer</producer>
+      <composer>Dave Sardy</composer>
+      <composer>Jared Michael Fry</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/beekeeper_sentencia_de_muerte.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121155500 -0600" stop="20261121174400 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">No te sueltes</title>
+  </programme>
+  <programme start="20261121174400 -0600" stop="20261121194600 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Godzilla y Kong: El Nuevo Imperio</title>
+    <desc lang="es">¡La batalla épica continua! La película cinematografía Monsterverse de Legendary Pictures continúa el explosivo enfrentamiento de "Godzilla vs. Kong" con una aventura completamente nueva que enfrenta al todopoderoso Kong y al temible Godzilla contra una colosal amenaza no descubierta escondida dentro de nuestro mundo, desafiando su propia existencia – y la nuestra. "Godzilla x Kong: El Nuevo Imperio" profundiza en las historias de estos Titanes y sus orígenes, así como en los misterios de la Isla Calavera y más allá, mientras desenmascara la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.</desc>
+    <credits>
+      <director>Adam Wingard</director>
+      <actor>Rebecca Hall</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Kaylee Hottle</actor>
+      <actor>Alex Ferns</actor>
+      <actor>Fala Chen</actor>
+      <actor>Rachel House</actor>
+      <producer>Thomas Tull</producer>
+      <producer>Jon Jashni</producer>
+      <composer>Tom Holkenborg</composer>
+      <composer>Antonio Di Iorio</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla_y_kong_el_nuevo_imperio.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121194600 -0600" stop="20261121220000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+    <desc lang="es">En un mítico mundo Vikingo donde un joven adolescente aspira a seguir la tradición de la tribu de convertirse en mata dragones. Cuando finalmente captura su primer dragón, y su oportunidad de ser por fin aceptado por su tribu, descubre que ya no desea matar a los dragones si no que ahora prefiere ser amigo de ellos.</desc>
+    <credits>
+      <director>Chris Sanders</director>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Craig Ferguson</actor>
+      <actor>America Ferrera</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <producer>Bonnie Arnold</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121220000 -0600" stop="20261121234400 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Super Mario Galaxy: la película</title>
+  </programme>
+  <programme start="20261121234400 -0600" stop="20261122014200 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Destino Final: Lazos de Sangre</title>
+    <desc lang="es">Atormentada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie (Kaitlyn Santa Juana) regresa a casa para buscar a la única persona que podría romper el ciclo y salvar a su familia de la espantosa muerte que inevitablemente les espera a todos.</desc>
+    <credits>
+      <director>Zach Lipovsky</director>
+      <director>Adam Stein</director>
+      <actor>Kaitlyn Santa Juana</actor>
+      <actor>Teo Briones</actor>
+      <actor>Richard Harmon</actor>
+      <actor>Owen Patrick Joyner</actor>
+      <actor>Anna Lore</actor>
+      <actor>Gabrielle Rose</actor>
+      <actor>Brec Bassinger</actor>
+      <actor>Rya Kihlstedt</actor>
+      <producer>Craig Perry</producer>
+      <producer>Sheila Hanahan Taylor</producer>
+      <composer>Tim Wynn</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/destino_final_lazos_de_sangre.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261122014200 -0600" stop="20261122033000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Mama</title>
+  </programme>
+  <programme start="20261122033000 -0600" stop="20261122060000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Diamante de sangre</title>
+  </programme>
+  <programme start="20261122060000 -0600" stop="20261122080500 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">300</title>
+  </programme>
+  <programme start="20261122080500 -0600" stop="20261122101400 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Red Social</title>
+    <desc lang="es">Nombre que recibe la película "The Social Network" en Latinoamérica, que cuenta la historia de Facebook desde sus comienzos y cómo fue que Mark Zuckerberg se vuelve multimillonario.</desc>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/red_social.jpg" />
+  </programme>
+  <programme start="20261122101400 -0600" stop="20261122125900 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Harry Potter y el Cáliz de Fuego</title>
+    <desc lang="es">Cuando el nombre de Harry Potter (Daniel Radcliffe) emerge del Cáliz de Fuego, se convierte en un competidor en una dura batalla por la gloria entre tres escuelas mágicas – El Torneo de los Tres Magos. Pero dado que Harry nunca presentó su nombre para el Torneo, ¿quién lo hizo? Ahora Harry debe enfrentarse a un dragón mortal, feroces demonios de agua y un laberinto encantado solo para encontrarse a sí mismo en la cruel compresión de Aquel Que no Debe Ser Nombrado.</desc>
+    <credits>
+      <director>Mike Newell</director>
+      <actor>Eric Sykes</actor>
+      <actor>Timothy Spall</actor>
+      <actor>David Tennant</actor>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Mark Williams</actor>
+      <actor>James Phelps</actor>
+      <producer>David Heyman</producer>
+      <composer>Patrick Doyle</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/harry_potter_y_el_caliz_de_fuego.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261122125900 -0600" stop="20261122145100 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El gato con botas: El último deseo</title>
+  </programme>
+  <programme start="20261122145100 -0600" stop="20261122165400 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Barbie</title>
+  </programme>
+  <programme start="20261122165400 -0600" stop="20261122191800 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
+    <desc lang="es">Un joven Peter Parker (Tom Holland) comienza a navegar con su nueva identidad como el super héroe Spider-Man. Emocionado por su experiencia con Los Vengadores, Peter regresa a casa, donde vive con su tía May (Marisa Tomei), bajo la atenta mirada de su nuevo mentor Tony Stark (Robert Downey Jr.). Peter intenta volver de nuevo a su rutina diaria – distraído por los pensamientos de probar ser más que el vecino amistoso, el Hombre Araña – pero cuando el Buitre (Michael Keaton) emerge como un nuevo villano, todo lo que a Peter le importa será amenazado.</desc>
+    <credits>
+      <director>Jon Watts</director>
+      <actor>Tom Holland</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Donald Glover</actor>
+      <actor>Zendaya</actor>
+      <actor>Jacob Batalon</actor>
+      <actor>Tony Revolori</actor>
+      <actor>Laura Harrier</actor>
+      <actor>Tyne Daly</actor>
+      <producer>Kevin Feige</producer>
+      <producer>Amy Pascal</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_de_regreso_a_casa.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261122191800 -0600" stop="20261122210700 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El Final de la Calle Oak</title>
+    <desc lang="es">Después de que un misterioso fenómeno cósmico arranque la Calle Oak de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.</desc>
+    <credits>
+      <director>David Robert Mitchell</director>
+      <actor>Anne Hathaway</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Maisy Stella</actor>
+      <actor>Christian Convery</actor>
+      <actor>Jordan Alexa Davis</actor>
+      <actor>P. J. Byrne</actor>
+      <actor>Chris Coy</actor>
+      <producer>J. J. Abrams</producer>
+      <producer>Hannah Minghella</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2026</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_final_de_la_calle_oak.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261122210700 -0600" stop="20261122221000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">The Gilded Age</title>
+    <desc lang="es">La Edad Dorada estadounidense fue un período de inmensos cambios económicos, de gran conflicto entre las viejas costumbres y los nuevos sistemas, y de enormes fortunas ganadas y perdidas. En el contexto de esta transformación, "La Edad Dorada" de HBO comienza en 1882 con la joven Marian Brook (Louisa Jacobson) que se muda de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus viejas tías adineradas Agnes van Rhijn (Christine Baranski) y Ada Brook (Cynthia Nixon).Acompañada por Peggy Scott (Denée Benton), una aspirante a escritora que busca un nuevo comienzo, Marian sin darse cuenta se ve envuelta en una guerra social entre una de sus tías, una descendiente del antiguo grupo de dinero, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George (Morgan Spector) y Bertha Russel (Carrie Coon). Expuesta a un mundo al borde de la era moderna, ¿seguirá Marian las reglas establecidas por la sociedad o forjará su propio camino?</desc>
+    <credits>
+      <director>Michael Engler</director>
+      <director>Salli Richardson</director>
+      <actor>Christine Baranski</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Morgan Spector</actor>
+      <actor>Denée Benton</actor>
+      <actor>Louisa Jacobson</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Blake Ritson</actor>
+      <writer>Julian Fellowes</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_edad_dorada.jpg" />
+    <rating system="MX">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261122221000 -0600" stop="20261122230000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">City of God: The Fight Rages On</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20261122230000 -0600" stop="20261122233500 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Oobah: Scams for a Better Tomorrow</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20261122233500 -0600" stop="20261123003500 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">The Gilded Age</title>
+    <desc lang="es">La Edad Dorada estadounidense fue un período de inmensos cambios económicos, de gran conflicto entre las viejas costumbres y los nuevos sistemas, y de enormes fortunas ganadas y perdidas. En el contexto de esta transformación, "La Edad Dorada" de HBO comienza en 1882 con la joven Marian Brook (Louisa Jacobson) que se muda de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus viejas tías adineradas Agnes van Rhijn (Christine Baranski) y Ada Brook (Cynthia Nixon).Acompañada por Peggy Scott (Denée Benton), una aspirante a escritora que busca un nuevo comienzo, Marian sin darse cuenta se ve envuelta en una guerra social entre una de sus tías, una descendiente del antiguo grupo de dinero, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George (Morgan Spector) y Bertha Russel (Carrie Coon). Expuesta a un mundo al borde de la era moderna, ¿seguirá Marian las reglas establecidas por la sociedad o forjará su propio camino?</desc>
+    <credits>
+      <director>Michael Engler</director>
+      <director>Salli Richardson</director>
+      <actor>Christine Baranski</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Morgan Spector</actor>
+      <actor>Denée Benton</actor>
+      <actor>Louisa Jacobson</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Blake Ritson</actor>
+      <writer>Julian Fellowes</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_edad_dorada.jpg" />
+    <rating system="MX">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123003500 -0600" stop="20261123025700 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El conjuro 4: Los ultimos ritos</title>
+  </programme>
+  <programme start="20261123025700 -0600" stop="20261123044100 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">La noche del demonio: Capítulo 3</title>
+  </programme>
+  <programme start="20261123044100 -0600" stop="20261123060000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Marc Maron: ¡Pánico!</title>
+  </programme>
+  <programme start="20261123060000 -0600" stop="20261123064500 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Al otro lado de la línea de ayuda</title>
+  </programme>
+  <programme start="20261123064500 -0600" stop="20261123085100 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Cómo saber si es amor</title>
+  </programme>
+  <programme start="20261123085100 -0600" stop="20261123104200 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Life: Vida Inteligente</title>
+    <desc lang="es">Un equipo de científicos a bordo de la estación espacial internacional cuya misión de descubrimiento se convierte en uno de los miedos primario cuando ellos encuentran una forma de vida que evoluciona rápidamente que causó la extinción de la vida en Marte, y ahora amenaza a toda la tripulación de la nave y toda la vida en la tierra. Ahora su deber será eliminarla e impedir que llegue a la tierra.</desc>
+    <credits>
+      <director>Daniel Espinosa</director>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Hiroyuki Sanada</actor>
+      <actor>Ariyon Bakare</actor>
+      <actor>Olga Dihovichnaya</actor>
+      <producer>David Ellison</producer>
+      <producer>Dana Goldberg</producer>
+      <composer>Jon Ekstrand</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/life_vida_inteligente.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123104200 -0600" stop="20261123122000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">The Pout-Pout Fish</title>
+  </programme>
+  <programme start="20261123122000 -0600" stop="20261123142000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Mother Mary</title>
+  </programme>
+  <programme start="20261123142000 -0600" stop="20261123152000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">War</title>
+    <sub-title lang="es">Socios</sub-title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20261123152000 -0600" stop="20261123170800 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Tierras perdidas</title>
+  </programme>
+  <programme start="20261123170800 -0600" stop="20261123192400 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">La Hora de la Desaparición</title>
+    <desc lang="es">Cuando todos los niños de la misma clase, menos uno, desaparecen misteriosamente la misma noche, exactamente a la misma hora, una comunidad se pregunta quién o qué está detrás de su desaparición.</desc>
+    <credits>
+      <director>Zach Cregger</director>
+      <actor>Josh Broli</actor>
+      <actor>Julia Garner</actor>
+      <actor>Alden Ehrenreich</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Cary Christopher</actor>
+      <actor>Benedict Wong</actor>
+      <actor>Amy Madigan</actor>
+      <actor>June Diane Raphael</actor>
+      <producer>Roy Lee</producer>
+      <producer>Zach Cregger</producer>
+      <composer>Ryan Holladay</composer>
+      <composer>Hays Holladay</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_hora_de_la_desaparicion.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123192400 -0600" stop="20261123195800 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Una historia de Derry</title>
+  </programme>
+  <programme start="20261123195800 -0600" stop="20261123220000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Godzilla y Kong: El Nuevo Imperio</title>
+    <desc lang="es">¡La batalla épica continua! La película cinematografía Monsterverse de Legendary Pictures continúa el explosivo enfrentamiento de "Godzilla vs. Kong" con una aventura completamente nueva que enfrenta al todopoderoso Kong y al temible Godzilla contra una colosal amenaza no descubierta escondida dentro de nuestro mundo, desafiando su propia existencia – y la nuestra. "Godzilla x Kong: El Nuevo Imperio" profundiza en las historias de estos Titanes y sus orígenes, así como en los misterios de la Isla Calavera y más allá, mientras desenmascara la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.</desc>
+    <credits>
+      <director>Adam Wingard</director>
+      <actor>Rebecca Hall</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Kaylee Hottle</actor>
+      <actor>Alex Ferns</actor>
+      <actor>Fala Chen</actor>
+      <actor>Rachel House</actor>
+      <producer>Thomas Tull</producer>
+      <producer>Jon Jashni</producer>
+      <composer>Tom Holkenborg</composer>
+      <composer>Antonio Di Iorio</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla_y_kong_el_nuevo_imperio.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123220000 -0600" stop="20261124000200 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Exterminio: La Evolución</title>
+    <desc lang="es">Exterminio: La Evolución, una nueva y aterradora historia de terror de autor ambientada en el mundo creado por Exterminio. Han pasado casi tres décadas desde que el virus de la rabia escapó de un laboratorio de armas biológicas, y ahora, aún en una cuarentena impuesta despiadadamente, algunos han encontrado la manera de sobrevivir entre los infectados. Uno de estos supervivientes vive en una pequeña isla conectada al continente por una única carretera fuertemente defendida. Cuando uno de ellos abandona la isla en una misión hacia el corazón oscuro del continente, descubre secretos, maravillas y horrores que han mutado no solo a los infectados, sino también a otros supervivientes.</desc>
+    <credits>
+      <director>Danny Boyle</director>
+      <actor>Jodie Comer</actor>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Jack O'Connell</actor>
+      <actor>Alfie Williams</actor>
+      <actor>Erin Kellyman</actor>
+      <actor>Edvin Ryding</actor>
+      <actor>Chi Lewis-Parry</actor>
+      <producer>Danny Boyle</producer>
+      <producer>Alex Garland</producer>
+      <composer>Hildur Guðnadóttir</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/exterminio_la_evolucion.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124000200 -0600" stop="20261124015800 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Exterminio: El Templo de Huesos</title>
+    <desc lang="es">Ampliando el mundo creado por Danny Boyle y Alex Garland en 28 años después, pero dándole un giro radical, Nia DaCosta dirige Exterminio: El Templo de Huesos. En esta continuación de la épica historia, el Dr. Kelson (Ralph Fiennes) se ve envuelto en una impactante nueva relación – con consecuencias que podrían cambiar el mundo tal como lo conocen – y el encuentro de Spike (Alfie Williams) con Jimmy Cristal (Jack O'Connell) se convierte en una pesadilla de la que no puede escapar. En el mundo del Templo de los Huesos, los infectados ya no representan la mayor amenaza para la supervivencia – la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.</desc>
+    <credits>
+      <director>Nia DaCosta</director>
+      <actor>Ralph Fiennes</actor>
+      <actor>Jack O'Connell</actor>
+      <actor>Alfie Williams</actor>
+      <actor>Erin Kellyman</actor>
+      <actor>Chi Lewis-Parry</actor>
+      <actor>Emma Laird</actor>
+      <actor>Maura Bird</actor>
+      <actor>Ghazi Al Ruffai</actor>
+      <producer>Andrew Macdonald</producer>
+      <producer>Peter Rice</producer>
+      <composer>Hildur Guðnadóttir</composer>
+    </credits>
+    <date>2026</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/exterminio_el_templo_de_huesos.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124015800 -0600" stop="20261124034900 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">La noche del demonio: Capítulo 2</title>
+  </programme>
+  <programme start="20261124034900 -0600" stop="20261124060000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El dragón rojo</title>
+  </programme>
+  <programme start="20261124060000 -0600" stop="20261124082200 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Corazones de hierro</title>
+  </programme>
+  <programme start="20261124082200 -0600" stop="20261124100700 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Super Mario Galaxy: la película</title>
+  </programme>
+  <programme start="20261124100700 -0600" stop="20261124110600 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">War</title>
+    <sub-title lang="es">Socios</sub-title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20261124110600 -0600" stop="20261124132700 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">It (Eso)</title>
+  </programme>
+  <programme start="20261124132700 -0600" stop="20261124160200 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Tenet</title>
+    <desc lang="es">Armado con una sola palabra – Tenet – y luchando por la supervivencia del mundo entero, el protagonista viaja a través de un mundo crepuscular de espionaje internacional en una misión que se desarrollará en algo más allá del tiempo real. No es un viaje en el tiempo. Inversión.</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>John David Washington</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Dimple Kapadia</actor>
+      <actor>Michael Caine</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Clémence Poésy</actor>
+      <producer>Emma Thomas</producer>
+      <producer>Christopher Nolan</producer>
+      <composer>Ludwig Göransson</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/tenet.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124160200 -0600" stop="20261124180000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Evil Dead Burn</title>
+  </programme>
+  <programme start="20261124180000 -0600" stop="20261124201500 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Blue Beetle</title>
+    <desc lang="es">Jaime Reyes (Xolo Maridueña), recién graduado de la universidad, regresa a casa lleno de aspiraciones para su futuro, sólo para descubrir que su hogar no es está como lo había dejado. En su búsqueda por encontrar su propósito en el mundo, el destino interviene cuando Jaime se encuentra inesperadamente en posesión de una antigua reliquia de biotecnología alienígena: el Escarabajo. Cuando el escarabajo elige de repente a Jaime como huésped simbiótico, le otorga una increíble armadura capaz de poderes extraordinarios e impredecibles, cambiando para siempre su destino al convertirse en el superhéroe BLUE BEETLE.</desc>
+    <credits>
+      <director>Ángel Manuel Soto</director>
+      <actor>Xolo Maridueña</actor>
+      <actor>Adriana Barraza</actor>
+      <actor>Damián Alcázar</actor>
+      <actor>Elpidia Carrillo</actor>
+      <actor>Bruna Marquezine</actor>
+      <actor>Raoul Max Trujillo</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>George López</actor>
+      <producer>John Rickard</producer>
+      <producer>Zev Foreman</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/blue_beetle.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124201500 -0600" stop="20261124220000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Super Mario Galaxy: la película</title>
+  </programme>
+  <programme start="20261124220000 -0600" stop="20261125002300 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Wicked: Por siempre</title>
+  </programme>
+  <programme start="20261125002300 -0600" stop="20261125021400 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">La Noche del Demonio: Están Entre Nosotros</title>
+    <desc lang="es">La Noche del Demonio: Están Entre Nosotros, Gemma (Amelia Eve), una joven madre que cría a su hija en la casa donde creció y descubre que puede viajar al Más Allá, el reino purgatorial de las almas perdidas en el corazón del universo de Insidious. Cuando algo maligno la persigue, Gemma descubre una habilidad que lo cambia todo: no solo puede entrar al Más Allá, sino que también puede traer de vuelta al mundo real a quienes viven allí. Una vez que los demonios se dan cuenta de su poder, nuestro mundo se convierte en su patio de recreo.</desc>
+    <credits>
+      <director>Jacob Chase</director>
+      <actor>Amelia Eve</actor>
+      <actor>Brandon Perea</actor>
+      <actor>Maisie Richardson-Sellers</actor>
+      <actor>Lin Shaye</actor>
+      <actor>Sam Spruell</actor>
+      <actor>Island Austin</actor>
+      <actor>Laura Gordon</actor>
+      <producer>Jason Blum</producer>
+      <producer>Oren Peli</producer>
+      <composer>Joseph Bishara</composer>
+    </credits>
+    <date>2026</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_noche_del_demonio_estan_entre_nosotros.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261125021400 -0600" stop="20261125040700 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Quiero matar a mi jefe 2</title>
+  </programme>
+  <programme start="20261125040700 -0600" stop="20261125060000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">10.000 A.C.</title>
+  </programme>
+  <programme start="20261125060000 -0600" stop="20261125080000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Sombras tenebrosas</title>
+  </programme>
+  <programme start="20261125080000 -0600" stop="20261125094300 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Karate Kid: Leyendas</title>
+    <desc lang="es">En Karate Kid: Leyendas, tras una tragedia familiar, el prodigio del kun fu Li Fong (Ben Wang) es desarraigado de su hogar en Pekín y obligado a mudarse a Nueva York con su madre. Li lucha por superar su pasado mientras intenta integrarse con sus nuevos compañeros de clase, y aunque no quiere pelear, los problemas parecen acecharlo por todas partes. Cuando un nuevo amigo necesita su ayuda, Li participa en una competición de karate, pero sus habilidades por sí solas no son suficientes. Su profesor de kung fu, el Sr. Han (Jackie Chan), recluta al Karate Kid original, Daniel LaRusso (Ralph Macchio), y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno para el duelo definitivo de artes marciales.</desc>
+    <credits>
+      <director>Jonathan Entwistle</director>
+      <actor>Jackie Chan</actor>
+      <actor>Ralph Macchio</actor>
+      <actor>Ben Wang</actor>
+      <actor>Joshua Jackson</actor>
+      <actor>Sadie Stanley</actor>
+      <actor>Ming-Na Wen</actor>
+      <actor>Aramis Knight</actor>
+      <actor>Shaunette Renée Wilson</actor>
+      <producer>Karen Rosenfelt</producer>
+      <composer>Dominic Lewis</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/karate_kid_leyendas.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261125094300 -0600" stop="20261125115600 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Jurassic World: Mundo Jurásico</title>
+  </programme>
+  <programme start="20261125115600 -0600" stop="20261125144100 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Harry Potter y el Cáliz de Fuego</title>
+    <desc lang="es">Cuando el nombre de Harry Potter (Daniel Radcliffe) emerge del Cáliz de Fuego, se convierte en un competidor en una dura batalla por la gloria entre tres escuelas mágicas – El Torneo de los Tres Magos. Pero dado que Harry nunca presentó su nombre para el Torneo, ¿quién lo hizo? Ahora Harry debe enfrentarse a un dragón mortal, feroces demonios de agua y un laberinto encantado solo para encontrarse a sí mismo en la cruel compresión de Aquel Que no Debe Ser Nombrado.</desc>
+    <credits>
+      <director>Mike Newell</director>
+      <actor>Eric Sykes</actor>
+      <actor>Timothy Spall</actor>
+      <actor>David Tennant</actor>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Mark Williams</actor>
+      <actor>James Phelps</actor>
+      <producer>David Heyman</producer>
+      <composer>Patrick Doyle</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/harry_potter_y_el_caliz_de_fuego.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261125144100 -0600" stop="20261125154100 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">The Gilded Age</title>
+    <desc lang="es">La Edad Dorada estadounidense fue un período de inmensos cambios económicos, de gran conflicto entre las viejas costumbres y los nuevos sistemas, y de enormes fortunas ganadas y perdidas. En el contexto de esta transformación, "La Edad Dorada" de HBO comienza en 1882 con la joven Marian Brook (Louisa Jacobson) que se muda de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus viejas tías adineradas Agnes van Rhijn (Christine Baranski) y Ada Brook (Cynthia Nixon).Acompañada por Peggy Scott (Denée Benton), una aspirante a escritora que busca un nuevo comienzo, Marian sin darse cuenta se ve envuelta en una guerra social entre una de sus tías, una descendiente del antiguo grupo de dinero, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George (Morgan Spector) y Bertha Russel (Carrie Coon). Expuesta a un mundo al borde de la era moderna, ¿seguirá Marian las reglas establecidas por la sociedad o forjará su propio camino?</desc>
+    <credits>
+      <director>Michael Engler</director>
+      <director>Salli Richardson</director>
+      <actor>Christine Baranski</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Morgan Spector</actor>
+      <actor>Denée Benton</actor>
+      <actor>Louisa Jacobson</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Blake Ritson</actor>
+      <writer>Julian Fellowes</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_edad_dorada.jpg" />
+    <rating system="MX">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261125154100 -0600" stop="20261125180700 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">PECADORES</title>
+  </programme>
+  <programme start="20261125180700 -0600" stop="20261125201000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Teléfono Negro 2</title>
+    <desc lang="es">El Raptor busca vengarse de Finn (Mason Thames) desde el más allá amenazando a su hermana menor, Gwen (Madeleine McGraw).Mientras Finn, ahora de 17 años, lucha por la vida tras su cautiverio, Gwen, de 15 años, comienza a recibir llamadas en sueños desde el teléfono negro y a tener visiones inquietantes de tres chicos acosados en un campamento de invierno conocido como Lago Alpino.Decidida a resolver el misterio y poner fin al tormento que sufren ella y su hermano, Gwen convence a Finn de visitar el campamento durante una tormenta invernal. Allí, descubre una desgarradora intersección entre El Raptor y la historia de su propia familia. Juntos, ella y Finn deberán enfrentarse a un asesino que se ha vuelto más poderoso en la muerte y más significativo para ellos de lo que ninguno de los dos podría imaginar.</desc>
+    <credits>
+      <director>Scott Derrickson</director>
+      <actor>Mason Thames</actor>
+      <actor>Madeleine McGraw</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Demián Bichir</actor>
+      <actor>Jeremy Davies</actor>
+      <actor>Miguel Mora</actor>
+      <actor>Arianna Rivas</actor>
+      <actor>Anna Lore</actor>
+      <producer>Jason Blum</producer>
+      <producer>Scott Derrickson</producer>
+      <composer>Atticus Derrickson</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/telefono_negro_2.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261125201000 -0600" stop="20261125220000 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20261125220000 -0600" stop="20261125234600 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20261125234600 -0600" stop="20261126013500 -0600" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">No te sueltes</title>
+  </programme>
   <programme start="20261121012000 -0600" stop="20261121025500 -0600" channel="Canal.Lifetime.(México).mx">
     <title lang="es">Temporada de amor</title>
   </programme>
@@ -841,6 +1653,752 @@
     <star-rating system="MX">
       <value>6.0</value>
     </star-rating>
+  </programme>
+  <programme start="20261121011600 -0600" stop="20261121033200 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">12 Años Esclavo</title>
+  </programme>
+  <programme start="20261121033200 -0600" stop="20261121054800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">El Hombre del Norte</title>
+    <desc lang="es">Del visionario director Robert Eggers llega El Hombre del Norte, una epopeya llena de acción que sigue a un joven príncipe vikingo en búsqueda para vengar el asesinato de su padre.</desc>
+    <credits>
+      <director>Robert Eggers</director>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Claes Bang</actor>
+      <actor>Anya Taylor-Joy</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Björk</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Kate Dickie</actor>
+      <producer>Mark Huffam</producer>
+      <producer>Lars Knudsen</producer>
+      <composer>Robin Carolan</composer>
+      <composer>Sebastian Gainsborough</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Historia</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_hombre_del_norte.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121054800 -0600" stop="20261121072900 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Recuperando a mi Ex</title>
+    <desc lang="es">Francisco (Andrés Almeida) es un actor inmaduro y egoísta atrapado por el personaje que interpretó hace años en la televisión. Actualmente se encuentra desempleado. Cuando su ex esposa Laura (Adriana Louvier) le cuenta que está comprometida y que piensa volver a casarse nuevamente e irse a vivir al extranjero con su hija Alicia (Mia Rubín), Francisco manipula a las personas que están siempre cerca de él para que lo ayuden a elaborar un plan para detener la boda y así poder recuperar a su familia, pero antes debe enfrentarse a su oscuro pasado y aprender que puede madurar sin ser un superhéroe.</desc>
+    <credits>
+      <director>Gabriel Guzmán</director>
+      <actor>Andrés Almeida</actor>
+      <actor>Adriana Louvier</actor>
+      <actor>Sofía Niño de Rivera</actor>
+      <actor>Ricardo O'Farril</actor>
+      <actor>Mia Rubín Legarreta</actor>
+      <actor>Jan Cornet</actor>
+      <actor>Anabel Ferreira</actor>
+      <actor>Emilio Guerrero</actor>
+      <composer>Rodrigo Montfort</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/recuperando_a_mi_ex.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121072900 -0600" stop="20261121092600 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Chef a domicilio</title>
+  </programme>
+  <programme start="20261121092600 -0600" stop="20261121110100 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Siempre a tu lado</title>
+  </programme>
+  <programme start="20261121110100 -0600" stop="20261121124600 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Cantinflas</title>
+  </programme>
+  <programme start="20261121124600 -0600" stop="20261121141600 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Guerra de novias</title>
+  </programme>
+  <programme start="20261121141600 -0600" stop="20261121155300 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Un golpe brillante</title>
+  </programme>
+  <programme start="20261121155300 -0600" stop="20261121173300 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Un holograma para el rey</title>
+  </programme>
+  <programme start="20261121173300 -0600" stop="20261121195400 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">El club de la pelea</title>
+  </programme>
+  <programme start="20261121195400 -0600" stop="20261121220000 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Infidelidad</title>
+  </programme>
+  <programme start="20261121220000 -0600" stop="20261121233000 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Un Nuevo Camino</title>
+    <desc lang="es">Una joven autista huye de su cuidadora para ir y entregar su guion de Star Trek de 500 páginas a un concurso de escritura en Hollywood. En una aventura llena de risas y lágrimas, Wendy (Dakota Fanning), sigue el espíritu guía del Sr. Spock en su viaje hacia lo desconocido. "Está ahí para que conquistemos, no para temer".</desc>
+    <credits>
+      <director>Ben Lewin</director>
+      <actor>Dakota Fanning</actor>
+      <actor>Toni Collette</actor>
+      <actor>Alice Eve</actor>
+      <actor>River Alexander</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Marla Gibbs</actor>
+      <actor>Michael Stahl-David</actor>
+      <actor>Jessica Rothe</actor>
+      <producer>Lara Alameddine</producer>
+      <producer>Daniel Dubiecki</producer>
+      <composer>Heitor Pereira</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_nuevo_camino.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121233000 -0600" stop="20261122005900 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Cómo impedir una boda</title>
+  </programme>
+  <programme start="20261122005900 -0600" stop="20261122023400 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Educando a mamá</title>
+  </programme>
+  <programme start="20261122023400 -0600" stop="20261122044400 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Jobs El hombre</title>
+  </programme>
+  <programme start="20261122044400 -0600" stop="20261122064800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Reglas de compromiso</title>
+  </programme>
+  <programme start="20261122064800 -0600" stop="20261122083800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Audi vs. Lancia</title>
+  </programme>
+  <programme start="20261122083800 -0600" stop="20261122101100 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Una gran aventura</title>
+  </programme>
+  <programme start="20261122101100 -0600" stop="20261122121400 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Detective Chinatown 2</title>
+  </programme>
+  <programme start="20261122121400 -0600" stop="20261122135200 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Asesinos Anónimos</title>
+    <desc lang="es">Las tensiones aumentan en Killers Anonymous, un grupo de apoyo para asesinos, mientras los miembros del grupo intentan desentrañar el misterio detrás del intento de asesinato de un senador estadounidense del cual uno de ellos es responsable y que tiene en alerta máxima a las autoridades policiales de la ciudad. Pero las cosas no son como parecen, y cuando se descubren nuevas verdades, surgen alianzas secretas y traiciones a medida que las sesiones explotan en violencia y caos, ¡obligando a los asesinos a matar o ser asesinados!</desc>
+    <credits>
+      <director>Martin Owen</director>
+      <actor>Gary Oldman</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Tommy Flanagan</actor>
+      <actor>Rhyon Nicole Brown</actor>
+      <actor>MyAnna Buring</actor>
+      <actor>Michael Socha</actor>
+      <actor>Tim McInnerny</actor>
+      <actor>Sam Hazeldine</actor>
+      <producer>Kirsty Bell</producer>
+      <producer>Matt Williams</producer>
+      <composer>Roger Goula</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/asesinos_anonimos.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261122135200 -0600" stop="20261122161300 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Noé</title>
+    <desc lang="es">En un día como ningún otro, Noé (Russell Crowe) es elegido por el creador de su mundo para llevar a cabo una misión de rescatar a los inocentes y las especies de animales antes de la llegada del diluvio que hará una limpieza total del mundo.</desc>
+    <credits>
+      <director>Darren Aronofsky</director>
+      <actor>Russell Crowe</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Ray Winstone</actor>
+      <actor>Emma Watson</actor>
+      <actor>Anthony Hopkins</actor>
+      <producer>Scott Franklin</producer>
+      <producer>Darren Aronofsky</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/noe.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261122161300 -0600" stop="20261122181400 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Riddick, el amo de la</title>
+  </programme>
+  <programme start="20261122181400 -0600" stop="20261122201800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Reglas de compromiso</title>
+  </programme>
+  <programme start="20261122201800 -0600" stop="20261122220000 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Día de redención</title>
+  </programme>
+  <programme start="20261122220000 -0600" stop="20261122234800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Un día perfecto</title>
+  </programme>
+  <programme start="20261122234800 -0600" stop="20261123012600 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Ni tuyo, ni mía</title>
+  </programme>
+  <programme start="20261123012600 -0600" stop="20261123031600 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Cásese Quien Pueda</title>
+    <desc lang="es">Ana Paula (Martha Higareda) y Daniela (Miriam Higareda) son dos hermanas que tienen metas completamente distintas: una casarse, la otra buscar una carrera; y de cómo la vida las lleva a intercambiar sus sueños y acabar en el lugar menos esperado.</desc>
+    <credits>
+      <director>Marco Polo Constandse</director>
+      <actor>Martha Higareda</actor>
+      <actor>Luis Gerardo Méndez</actor>
+      <actor>Michel Brown</actor>
+      <producer>Martha Higareda</producer>
+      <producer>Alejandra Cárdenas</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/casese_quien_pueda.jpg" />
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123031600 -0600" stop="20261123050200 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Los días que no estuve</title>
+  </programme>
+  <programme start="20261123050200 -0600" stop="20261123065200 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Querido John</title>
+  </programme>
+  <programme start="20261123065200 -0600" stop="20261123082200 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Después de ti</title>
+  </programme>
+  <programme start="20261123082200 -0600" stop="20261123100400 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">¿Qué voy a hacer con mi marido?</title>
+  </programme>
+  <programme start="20261123100400 -0600" stop="20261123121800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Milagro en la celda 7</title>
+  </programme>
+  <programme start="20261123121800 -0600" stop="20261123140700 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Prometo volver</title>
+  </programme>
+  <programme start="20261123140700 -0600" stop="20261123161200 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Máxima traición</title>
+  </programme>
+  <programme start="20261123161200 -0600" stop="20261123175100 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Elektra</title>
+  </programme>
+  <programme start="20261123175100 -0600" stop="20261123193700 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Daredevil: El hombre sin miedo</title>
+  </programme>
+  <programme start="20261123193700 -0600" stop="20261123211000 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">El Muñeco Diabólico</title>
+  </programme>
+  <programme start="20261123211000 -0600" stop="20261123220000 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Archivo muerto</title>
+  </programme>
+  <programme start="20261123220000 -0600" stop="20261123225300 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Archivo muerto</title>
+  </programme>
+  <programme start="20261123225300 -0600" stop="20261124000600 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Vacaciones familiares</title>
+  </programme>
+  <programme start="20261124000600 -0600" stop="20261124012900 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">La niña de la mina</title>
+  </programme>
+  <programme start="20261124012900 -0600" stop="20261124034300 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Milagro en la celda 7</title>
+  </programme>
+  <programme start="20261124034300 -0600" stop="20261124052300 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Loco Por Ella</title>
+    <desc lang="es">Kassie Larson (Jennifer Aniston) y Wally Mars (Jason Bateman) ambos se consideran el uno al otro su mejor amigo. Siendo desafortunada en el amor, Kassie ha decidido tener un hijo por medio de inseminación artificial y se lo comenta a Wally pero para sorpresa de él, Kassie ya tiene designado al donador. Incapaz de decirle a Kassie que él la ama y que él debería de ser el donador del esperma, continua como si él estuviera de acuerdo con la decisión que su mejor amiga ha tomado.Un día antes de hacerse la inseminación, Kassie hace una fiesta en la que Wally se pasa de bebidas y espía la muestra de esperma que será utilizado el día siguiente. Con las intenciones de darle un mejor futuro a su hijo, Kassie se muda de la ciudad y no es hasta siete años más tarde que Kassie decide regresar a Nueva York para que su hijo Sebastián conozca a su padre biológico y tengan una mejor relación ambos. Para sorpresa de todos, Wally y Sebastián van descubriendo que tienen muchas cosas en común y a lo mejor el padre biológico no es el que se esperaba.</desc>
+    <credits>
+      <director>Josh Gordon</director>
+      <director>Will Speck</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Jeff Goldblum</actor>
+      <producer>Jennifer Aniston</producer>
+      <producer>Nathan Kahane</producer>
+      <composer>Alex Wurman</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/loco_por_ella.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124052300 -0600" stop="20261124064700 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Escuela para seductores</title>
+  </programme>
+  <programme start="20261124064700 -0600" stop="20261124081900 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Ballistic</title>
+  </programme>
+  <programme start="20261124081900 -0600" stop="20261124095800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Fuego contra fuego</title>
+  </programme>
+  <programme start="20261124095800 -0600" stop="20261124115900 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Hotel Mumbai: El Atentado</title>
+    <desc lang="es">Una apasionante historia sobre humanidad y heroísmo, cuenta vívidamente el calvario de 2008 al Taj Hotel por un grupo de terroristas en Mumbai, india. Entre el personal del hotel se encuentran el renombrado chef Hemant Oberoi (Anupam Kher) y un camarero Arjun (Dev Patel), quienes eligen arriesgar sus vidas para proteger a los huéspedes. Mientras la situación avanza, una pareja desesperada se ve obligada a hacer sacrificios impensables para proteger a su hijo recién nacido.</desc>
+    <credits>
+      <director>Anthony Maras</director>
+      <actor>Dev Patel</actor>
+      <actor>Armie Hammer</actor>
+      <actor>Nazanin Boniadi</actor>
+      <actor>Anupam Kher</actor>
+      <actor>Jason Isaacs</actor>
+      <producer>Basil Iwanyk</producer>
+      <producer>Gary Hamilton</producer>
+      <composer>Volker Bertelmann</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Historia</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hotel_mumbai_el_atentado.jpg" />
+    <country lang="es">Australia</country>
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124115900 -0600" stop="20261124135400 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Charlie: Un perro especial</title>
+  </programme>
+  <programme start="20261124135400 -0600" stop="20261124152800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">En el nombre del rey 2</title>
+  </programme>
+  <programme start="20261124152800 -0600" stop="20261124165200 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">En el nombre del rey 3</title>
+  </programme>
+  <programme start="20261124165200 -0600" stop="20261124183900 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Sin Límites</title>
+    <desc lang="es">Cuando un escritor que toma el riesgo de consumir una droga experimental que hace que él sea capaz de utilizar el 100 por ciento de su cerebro. Este hombre evoluciona en una versión perfecta de sí mismo, forzando a los hombres más corruptos que él en asesinos. El escritor sin trabajo Eddie Morra (Bradley Cooper) y cuya novia Lindy (Abbie Cornish) lo abandona por no verle futuro alguno. Todo esto se desvanece cuando un día, su ex hermanastro le da una muestra gratis de NZT – una droga nueva y misteriosa. Ahora tras probar el NZT, Eddie puede leer, escuchar, ver y analizar todo a la vez en un pequeño instante que hacen que nazca un nuevo Eddie, un hombre súper exitoso que llama la atención del gurú de los negocios Carl Van Loon (Robert De Niro), quien ve en él una máquina de hacer millones. Pero no todo será fácil para Eddie ya que deberá enfrentar los efectos contrarios que esta droga ocasionan.</desc>
+    <credits>
+      <director>Neil Burger</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Abbie Cornish</actor>
+      <actor>Robert De Niro</actor>
+      <producer>Leslie Dixon</producer>
+      <producer>Ryan Kavanaugh</producer>
+      <composer>Paul Leonard-Morgan</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Misterio</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/sin_limites.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124183900 -0600" stop="20261124210700 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Hombre en llamas</title>
+  </programme>
+  <programme start="20261124210700 -0600" stop="20261124220000 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Archivo muerto</title>
+  </programme>
+  <programme start="20261124220000 -0600" stop="20261124225100 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Archivo muerto</title>
+  </programme>
+  <programme start="20261124225100 -0600" stop="20261125002800 -0600" channel="Canal.Golden.Premier.mx">
+    <title lang="es">Primeras veces Vol. 3</title>
+  </programme>
+  <programme start="20261121015800 -0600" stop="20261121032800 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El mesero</title>
+  </programme>
+  <programme start="20261121032800 -0600" stop="20261121044900 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Déjame estar contigo</title>
+  </programme>
+  <programme start="20261121044900 -0600" stop="20261121061300 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Escuela para seductores</title>
+  </programme>
+  <programme start="20261121061300 -0600" stop="20261121081300 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Los ilusionistas 2</title>
+  </programme>
+  <programme start="20261121081300 -0600" stop="20261121102300 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Juego De Espias</title>
+  </programme>
+  <programme start="20261121102300 -0600" stop="20261121120700 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">¿Quieres ser mi… hijo?</title>
+    <desc lang="es">¿Quieres ser mi… hijo? Cuenta la historia de Lucia "Lu" (Ludwika Paleta), una mujer conformista de unos 40 años que un día descubre que su novio, con el que llevaba 15 años de relación, la engaña. Estancada, desconsolada y sin trabajo, Lu decide regresar a su apartamento de soltera para empezar de cero, sólo para descubrir que su nuevo vecino es Javier (Juanpa Zurita), un guapo mujeriego de 23 años que siempre está de fiesta y no la deja descansar. Para conseguir el trabajo que siempre quiso, Lu decide mentir en su entrevista de trabajo; dice ser una mujer de familia y que tiene un hijo de 19 años. Por si fuera poco, en la última prueba para ser contratada, Lu deberá pasar un fin de semana con los ejecutivos de la empresa y sus familias en Valle de Bravo. Desesperada, Lu le ofrece un trato a Javi: él se debe hacer pasar por su hijo y a cambio ella le permitirá salir de fiesta todo lo que quiera sin llamar a la policía. Lo que ninguno de los dos sabe es que, en ese fin de semana entre tantas mentiras, surgirá entre ellos un romance inesperado, que les hará cuestionarse qué es lo que realmente quieren en la vida.</desc>
+    <credits>
+      <director>Ihtzi Hurtado</director>
+      <actor>Ludwika Paleta</actor>
+      <actor>Juanpa Zurita</actor>
+      <actor>Hernán Mendoza</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Agustín Arana</actor>
+      <actor>Karla Rico</actor>
+      <actor>Yuriria del Valle</actor>
+      <actor>Roberta de La Portilla</actor>
+      <producer>Mauricio Argüelles</producer>
+      <producer>Miriam Luciow</producer>
+      <composer>Juan Carlos Enríquez</composer>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/quieres_ser_mi_hijo.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121120700 -0600" stop="20261121140100 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El Precio del Mañana</title>
+    <desc lang="es">En un futuro donde el tiempo es literalmente dinero y la vejez se detiene a los 25, la única forma de mantenerse con vida es ganar, robar o heredar más tiempo. Pero cuando un pobre de clase obrera, Will Salas (Justin Timberlake) es acusado injustamente de asesinato, el junto con la ayuda de una bella chica (Amanda Seyfried) deberán encontrar la manera de acabar con el corrupto sistema antes que sus relojes se detengan.</desc>
+    <credits>
+      <director>Andrew Niccol</director>
+      <actor>Amanda Seyfried</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Alex Pettyfer</actor>
+      <actor>Cillian Murphy</actor>
+      <actor>Olivia Wilde</actor>
+      <producer>Andrew Niccol</producer>
+      <producer>Marc Abraham</producer>
+      <composer>Craig Armstrong</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_precio_del_manana.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261121140100 -0600" stop="20261121155200 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Vértigo</title>
+  </programme>
+  <programme start="20261121155200 -0600" stop="20261121174800 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Los caballeros</title>
+  </programme>
+  <programme start="20261121174800 -0600" stop="20261121200000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Jobs: El hombre que revolucionó al mundo</title>
+  </programme>
+  <programme start="20261121200000 -0600" stop="20261121213600 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Amenaza en el espacio</title>
+  </programme>
+  <programme start="20261121213600 -0600" stop="20261121230900 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">La muchacha de la limpieza</title>
+  </programme>
+  <programme start="20261121230900 -0600" stop="20261122003300 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Pie grande</title>
+  </programme>
+  <programme start="20261122003300 -0600" stop="20261122031100 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Intriga</title>
+  </programme>
+  <programme start="20261122031100 -0600" stop="20261122051100 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Los ilusionistas 2</title>
+  </programme>
+  <programme start="20261122051100 -0600" stop="20261122064400 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El Patriota</title>
+  </programme>
+  <programme start="20261122064400 -0600" stop="20261122085500 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Juego De Espias</title>
+  </programme>
+  <programme start="20261122085500 -0600" stop="20261122104600 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Vértigo</title>
+  </programme>
+  <programme start="20261122104600 -0600" stop="20261122124200 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Los caballeros</title>
+  </programme>
+  <programme start="20261122124200 -0600" stop="20261122141800 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Siempre a tu lado, Hachiko</title>
+  </programme>
+  <programme start="20261122141800 -0600" stop="20261122163000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Jobs: El hombre que revolucionó al mundo</title>
+  </programme>
+  <programme start="20261122163000 -0600" stop="20261122182400 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El Precio del Mañana</title>
+    <desc lang="es">En un futuro donde el tiempo es literalmente dinero y la vejez se detiene a los 25, la única forma de mantenerse con vida es ganar, robar o heredar más tiempo. Pero cuando un pobre de clase obrera, Will Salas (Justin Timberlake) es acusado injustamente de asesinato, el junto con la ayuda de una bella chica (Amanda Seyfried) deberán encontrar la manera de acabar con el corrupto sistema antes que sus relojes se detengan.</desc>
+    <credits>
+      <director>Andrew Niccol</director>
+      <actor>Amanda Seyfried</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Alex Pettyfer</actor>
+      <actor>Cillian Murphy</actor>
+      <actor>Olivia Wilde</actor>
+      <producer>Andrew Niccol</producer>
+      <producer>Marc Abraham</producer>
+      <composer>Craig Armstrong</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_precio_del_manana.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261122182400 -0600" stop="20261122200000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Amenaza en el espacio</title>
+  </programme>
+  <programme start="20261122200000 -0600" stop="20261122213900 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El Vengador Fantasma 2</title>
+  </programme>
+  <programme start="20261122213900 -0600" stop="20261123000600 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Encontré al diablo</title>
+  </programme>
+  <programme start="20261123000600 -0600" stop="20261123014300 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Mi muerte</title>
+  </programme>
+  <programme start="20261123014300 -0600" stop="20261123032300 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Desierto de oro</title>
+  </programme>
+  <programme start="20261123032300 -0600" stop="20261123050100 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Solo amigos</title>
+  </programme>
+  <programme start="20261123050100 -0600" stop="20261123063400 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El Patriota</title>
+  </programme>
+  <programme start="20261123063400 -0600" stop="20261123081000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">07:19 La hora del temblor</title>
+  </programme>
+  <programme start="20261123081000 -0600" stop="20261123102000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Tres ladrones y un bebé</title>
+  </programme>
+  <programme start="20261123102000 -0600" stop="20261123115600 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Educando a mamá</title>
+  </programme>
+  <programme start="20261123115600 -0600" stop="20261123133600 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">¡Qué despadre!</title>
+  </programme>
+  <programme start="20261123133600 -0600" stop="20261123145700 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Déjame estar contigo</title>
+  </programme>
+  <programme start="20261123145700 -0600" stop="20261123164000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El Roomie</title>
+    <desc lang="es">Vivi (Fiona Palomo) es una joven escritora que se ve obligada a buscar un roomie para pagar la hipoteca de su departamento. Lo que ella no sospecha es que Ro (José Eduardo Derbez), el supuesto compañero perfecto que encontró, tiene un peculiar estilo de vida: nunca pagar renta. A pesar de que Vivi descubre a Ro, decide abrirle las puertas de su casa y de su vida porque sus artimañas la llevan a reencontrarse como escritora y tanto ella como su roomie van a descubrir su real valor.</desc>
+    <credits>
+      <director>Pedro Pablo Ibarra</director>
+      <actor>José Eduardo Derbez</actor>
+      <actor>Fiona Palomo</actor>
+      <actor>Herlanlly Rodríguez</actor>
+      <actor>Irving López</actor>
+      <actor>Giuseppe Gamba</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Naia Pindas Sandoval</actor>
+      <actor>Leticia Calderón</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_roomie.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123164000 -0600" stop="20261123182100 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Loco Por Ella</title>
+    <desc lang="es">Kassie Larson (Jennifer Aniston) y Wally Mars (Jason Bateman) ambos se consideran el uno al otro su mejor amigo. Siendo desafortunada en el amor, Kassie ha decidido tener un hijo por medio de inseminación artificial y se lo comenta a Wally pero para sorpresa de él, Kassie ya tiene designado al donador. Incapaz de decirle a Kassie que él la ama y que él debería de ser el donador del esperma, continua como si él estuviera de acuerdo con la decisión que su mejor amiga ha tomado.Un día antes de hacerse la inseminación, Kassie hace una fiesta en la que Wally se pasa de bebidas y espía la muestra de esperma que será utilizado el día siguiente. Con las intenciones de darle un mejor futuro a su hijo, Kassie se muda de la ciudad y no es hasta siete años más tarde que Kassie decide regresar a Nueva York para que su hijo Sebastián conozca a su padre biológico y tengan una mejor relación ambos. Para sorpresa de todos, Wally y Sebastián van descubriendo que tienen muchas cosas en común y a lo mejor el padre biológico no es el que se esperaba.</desc>
+    <credits>
+      <director>Josh Gordon</director>
+      <director>Will Speck</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Jeff Goldblum</actor>
+      <producer>Jennifer Aniston</producer>
+      <producer>Nathan Kahane</producer>
+      <composer>Alex Wurman</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/loco_por_ella.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123182100 -0600" stop="20261123200000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Ni tuyo, ni mía</title>
+  </programme>
+  <programme start="20261123200000 -0600" stop="20261123215200 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Cásese Quien Pueda</title>
+    <desc lang="es">Ana Paula (Martha Higareda) y Daniela (Miriam Higareda) son dos hermanas que tienen metas completamente distintas: una casarse, la otra buscar una carrera; y de cómo la vida las lleva a intercambiar sus sueños y acabar en el lugar menos esperado.</desc>
+    <credits>
+      <director>Marco Polo Constandse</director>
+      <actor>Martha Higareda</actor>
+      <actor>Luis Gerardo Méndez</actor>
+      <actor>Michel Brown</actor>
+      <producer>Martha Higareda</producer>
+      <producer>Alejandra Cárdenas</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/casese_quien_pueda.jpg" />
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123215200 -0600" stop="20261123233700 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Me estás matando, Susana</title>
+  </programme>
+  <programme start="20261123233700 -0600" stop="20261124011600 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Jugaremos en el Bosque</title>
+    <desc lang="es">La esperanza de un nuevo comienzo se convierte en una pesadilla cuando Javier (Mauricio Isaac) y Mariana (Lucía Uribe) se mudan a una antigua hacienda familiar, donde una maldición transformará su esperanza en terror.</desc>
+    <credits>
+      <director>Alejandra Cárdenas</director>
+      <director>Guillermo Granillo</director>
+      <actor>Lucía Gómez-Robledo</actor>
+      <actor>Alejandro Cuétara</actor>
+      <actor>Arturo Ripstein</actor>
+      <actor>Julieta Egurrola</actor>
+      <actor>Lucía Uribe</actor>
+      <actor>Carolina Torres</actor>
+      <actor>Juan Ríos Cantú</actor>
+      <actor>Mercedes Olea</actor>
+      <producer>Felicitas Arce</producer>
+      <producer>Alejandra Cárdenas</producer>
+      <composer>Rogelio Sosa</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jugaremos_en_el_bosque.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124011600 -0600" stop="20261124025200 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El que Busca Encuentra</title>
+    <desc lang="es">Marcos (Claudio Lafarga) y Esperanzas (Ana Brenda Contreras), dos niños perdidos en estadio Azteca durante un partido de futbol, mientras los policías buscan a sus padres, ellos tienen una pequeña plática de amor de niños y a tan temprana edad se enamoran. Después de 20 años – en los que no se han vuelto a ver – la vida los ha hecho pasar por caminos distintos, pero el recuerdo de ese amor infantil es tan intenso que deciden buscarse mutuamente, pero por un terrible error se separan una vez más, por lo que tendrán que luchar si realmente quieren estar nuevamente juntos.</desc>
+    <credits>
+      <director>Pedro Pablo Ibarra</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Claudio Lafarga</actor>
+      <actor>Esmeralda Pimentel</actor>
+      <actor>Martín Altomaro</actor>
+      <actor>Marianna Burelli</actor>
+      <actor>Erik Hayser</actor>
+      <actor>Mía Rubín Legarreta</actor>
+      <composer>Rodrigo Dávila</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Romance</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_que_busca_encuentra.jpg" />
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124025200 -0600" stop="20261124050200 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Tres ladrones y un bebé</title>
+  </programme>
+  <programme start="20261124050200 -0600" stop="20261124064700 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Borrego: Sal del camino</title>
+  </programme>
+  <programme start="20261124064700 -0600" stop="20261124081700 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">El mesero</title>
+  </programme>
+  <programme start="20261124081700 -0600" stop="20261124091500 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Home Office: Un especial de Mirreyes contra Godínez</title>
+  </programme>
+  <programme start="20261124091500 -0600" stop="20261124105300 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">La boda de Jenny</title>
+  </programme>
+  <programme start="20261124105300 -0600" stop="20261124130300 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Juego De Espias</title>
+  </programme>
+  <programme start="20261124130300 -0600" stop="20261124143900 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Educando a mamá</title>
+  </programme>
+  <programme start="20261124143900 -0600" stop="20261124163000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Una Pequeña Confusión</title>
+    <desc lang="es">En esta comedia llena de eventos, dos parejas que buscan tener hijos recurren a la inseminación artificial como último recurso. La ciencia no falla y la prueba da positivo, pero los humanos si: "Una pequeña confusión" (nada pequeña) provoca que la doctora intercambie accidentalmente las muestras de esperma. Ahora… cada futura mamá lleva el bebé de un completo extraño. Este ligero cambio de planes trastoca las vidas de Lola (Ana de la Reguera) y Cuauh (Cristo Fernández), una pareja progresista de clase media con espíritu libre, y de Iñigo (Juanpa Zurita) y Majo (Vico Escorcia), un dúo joven y conservador que vive en una burbuja de privilegio. Con dos bebés en camino y mucho que explicar, ambas parejas enfrentan nueve meses de una montaña rusa emocional, confrontando sus nuevas realidades, sus vidas y visiones para la crianza, los estándares sociales y el amor, que son drásticamente diferentes. Pero, lo más importante, ¿podrán dejar de lado sus diferencias para priorizar el bienestar de sus futuros hijos?</desc>
+    <credits>
+      <director>Ariel Winograd</director>
+      <actor>Ana de la Reguera</actor>
+      <actor>Juanpa Zurita</actor>
+      <actor>Vico Escorcia</actor>
+      <actor>Cristo Fernández</actor>
+      <actor>Diana Bovio</actor>
+      <actor>Stephanie Salas</actor>
+      <actor>María Sandoval</actor>
+      <actor>Alejandro Cuétara</actor>
+      <producer>Jorge Aragón</producer>
+      <producer>Guadalupe Sosa</producer>
+      <composer>Sergei Grosny</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_pequena_confusion.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124163000 -0600" stop="20261124181700 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Salvando al soldado pérez</title>
+  </programme>
+  <programme start="20261124181700 -0600" stop="20261124200000 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Loco por ti</title>
+  </programme>
+  <programme start="20261124200000 -0600" stop="20261124214500 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Me estás matando, Susana</title>
+  </programme>
+  <programme start="20261124214500 -0600" stop="20261124233400 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">KM31: Kilómetro 31</title>
+  </programme>
+  <programme start="20261124233400 -0600" stop="20261125014400 -0600" channel="Canal.Golden.Plus.mx">
+    <title lang="es">Juego De Espias</title>
   </programme>
   <programme start="20261121023100 -0600" stop="20261121041200 -0600" channel="Canal.Star.Channel.(México).mx">
     <title lang="es">Melinda y Melinda</title>
@@ -18648,6 +20206,283 @@
     <title lang="es">Los imperdibles CDMX</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
+  <programme start="20261121004500 -0600" stop="20261121020500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Nuestros días de universidad</title>
+  </programme>
+  <programme start="20261121020500 -0600" stop="20261121041500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">La lucha de un guerrero</title>
+  </programme>
+  <programme start="20261121041500 -0600" stop="20261121060000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Yo soy Zlatan</title>
+  </programme>
+  <programme start="20261121060000 -0600" stop="20261121081500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Sin culpa</title>
+  </programme>
+  <programme start="20261121081500 -0600" stop="20261121100500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Mi vecino Adolf</title>
+  </programme>
+  <programme start="20261121100500 -0600" stop="20261121115000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">El genio diabólico</title>
+  </programme>
+  <programme start="20261121115000 -0600" stop="20261121133000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Avalancha de amor</title>
+  </programme>
+  <programme start="20261121133000 -0600" stop="20261121155000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Sin culpa</title>
+  </programme>
+  <programme start="20261121155000 -0600" stop="20261121173500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Mi vecino Adolf</title>
+  </programme>
+  <programme start="20261121173500 -0600" stop="20261121192000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">El genio diabólico</title>
+  </programme>
+  <programme start="20261121192000 -0600" stop="20261121210000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Avalancha de amor</title>
+  </programme>
+  <programme start="20261121210000 -0600" stop="20261121231500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Amigos por siempre</title>
+  </programme>
+  <programme start="20261121231500 -0600" stop="20261122012000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Virginia</title>
+  </programme>
+  <programme start="20261122012000 -0600" stop="20261122023500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Magia sexual</title>
+  </programme>
+  <programme start="20261122023500 -0600" stop="20261122041000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Avalancha de amor</title>
+  </programme>
+  <programme start="20261122041000 -0600" stop="20261122060000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Mi vecino Adolf</title>
+  </programme>
+  <programme start="20261122060000 -0600" stop="20261122074000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">El 4° mosquetero</title>
+  </programme>
+  <programme start="20261122074000 -0600" stop="20261122091000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Kraken en el cielo</title>
+  </programme>
+  <programme start="20261122091000 -0600" stop="20261122105000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Juego Perfecto</title>
+  </programme>
+  <programme start="20261122105000 -0600" stop="20261122124000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Vivir Entre Fuegos</title>
+  </programme>
+  <programme start="20261122124000 -0600" stop="20261122142000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">El 4° mosquetero</title>
+  </programme>
+  <programme start="20261122142000 -0600" stop="20261122154500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Kraken en el cielo</title>
+  </programme>
+  <programme start="20261122154500 -0600" stop="20261122173000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Juego Perfecto</title>
+  </programme>
+  <programme start="20261122173000 -0600" stop="20261122192000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Vivir Entre Fuegos</title>
+  </programme>
+  <programme start="20261122192000 -0600" stop="20261122210000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">El 4° mosquetero</title>
+  </programme>
+  <programme start="20261122210000 -0600" stop="20261122231000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Judy</title>
+  </programme>
+  <programme start="20261122231000 -0600" stop="20261123012000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Judy</title>
+  </programme>
+  <programme start="20261123012000 -0600" stop="20261123023500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Lee mis labios</title>
+  </programme>
+  <programme start="20261123023500 -0600" stop="20261123041000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Juego Perfecto</title>
+  </programme>
+  <programme start="20261123041000 -0600" stop="20261123060000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Vivir Entre Fuegos</title>
+  </programme>
+  <programme start="20261123060000 -0600" stop="20261123074000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Excluidos</title>
+  </programme>
+  <programme start="20261123074000 -0600" stop="20261123095500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Un camino de fe</title>
+  </programme>
+  <programme start="20261123095500 -0600" stop="20261123114500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Camino a la Libertad</title>
+    <desc lang="es">Tras la invasión de Polonia por los alemanes, un grupo de hombres logra escapar de los campos de concentración de la Unión Soviética localizados en Siberia para comenzar su viaje que los llevará hacia su libertad en la India.</desc>
+    <credits>
+      <director>Peter Weir</director>
+      <actor>Jim Sturgess</actor>
+      <actor>Ed Harris</actor>
+      <actor>Saoirse Ronan</actor>
+      <actor>Colin Farrell</actor>
+      <producer>Peter Weir</producer>
+      <producer>Joni Levin</producer>
+      <composer>Burkhard Dallwitz</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Historia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/camino_a_la_libertad.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123114500 -0600" stop="20261123133000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Yo soy Zlatan</title>
+  </programme>
+  <programme start="20261123133000 -0600" stop="20261123151000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Excluidos</title>
+  </programme>
+  <programme start="20261123151000 -0600" stop="20261123172500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Un camino de fe</title>
+  </programme>
+  <programme start="20261123172500 -0600" stop="20261123191500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Camino a la Libertad</title>
+    <desc lang="es">Tras la invasión de Polonia por los alemanes, un grupo de hombres logra escapar de los campos de concentración de la Unión Soviética localizados en Siberia para comenzar su viaje que los llevará hacia su libertad en la India.</desc>
+    <credits>
+      <director>Peter Weir</director>
+      <actor>Jim Sturgess</actor>
+      <actor>Ed Harris</actor>
+      <actor>Saoirse Ronan</actor>
+      <actor>Colin Farrell</actor>
+      <producer>Peter Weir</producer>
+      <producer>Joni Levin</producer>
+      <composer>Burkhard Dallwitz</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Historia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/camino_a_la_libertad.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123191500 -0600" stop="20261123210000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Yo soy Zlatan</title>
+  </programme>
+  <programme start="20261123210000 -0600" stop="20261123232500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">The Mauritanian</title>
+    <desc lang="es">Inspirada en la verdadera historia de la lucha de Mohamedou Ould Slahi (Tahar Rahim) por la libertad después de haber sido detenido y encarcelado sin cargos por el gobierno de los Estados Unidos durante años. Solo y asustado Slahi encuentra aliados en la abogada defensora Nancy Hollander (Jodie Foster) y su socia Teri Duncan (Shailene Woodley), quienes luchan contra el gobierno de Estados Unidos en una pelea por la justicia que pone a prueba su compromiso con la ley y su cliente en cada giro. Su controvertida defensa, junto con la evidencia descubierta por un formidable fiscal militar, el teniente coronel Stuart Couch (Benedict Cumberbatch), descubre verdades impactantes y, en última instancia, demuestra que el espíritu humano no puede ser encerrado.</desc>
+    <credits>
+      <director>Kevin Macdonald</director>
+      <actor>Jodie Foster</actor>
+      <actor>Tahar Rahim</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <producer>Adam Ackland</producer>
+      <producer>Michael Bronner</producer>
+      <composer>Tom Hodge</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_mauritanian.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261123232500 -0600" stop="20261124011000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">En Busca de Venganza</title>
+  </programme>
+  <programme start="20261124011000 -0600" stop="20261124030500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Familia política</title>
+  </programme>
+  <programme start="20261124030500 -0600" stop="20261124033500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">A través de mi vida</title>
+  </programme>
+  <programme start="20261124033500 -0600" stop="20261124040500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">A través de mi vida</title>
+  </programme>
+  <programme start="20261124040500 -0600" stop="20261124060000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Yo soy Zlatan</title>
+  </programme>
+  <programme start="20261124060000 -0600" stop="20261124075000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">El milagro de Tyson</title>
+  </programme>
+  <programme start="20261124075000 -0600" stop="20261124092500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">La leyenda del Caballero Negro</title>
+  </programme>
+  <programme start="20261124092500 -0600" stop="20261124111500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Camino a la Libertad</title>
+    <desc lang="es">Tras la invasión de Polonia por los alemanes, un grupo de hombres logra escapar de los campos de concentración de la Unión Soviética localizados en Siberia para comenzar su viaje que los llevará hacia su libertad en la India.</desc>
+    <credits>
+      <director>Peter Weir</director>
+      <actor>Jim Sturgess</actor>
+      <actor>Ed Harris</actor>
+      <actor>Saoirse Ronan</actor>
+      <actor>Colin Farrell</actor>
+      <producer>Peter Weir</producer>
+      <producer>Joni Levin</producer>
+      <composer>Burkhard Dallwitz</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Historia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/camino_a_la_libertad.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124111500 -0600" stop="20261124133000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Sin culpa</title>
+  </programme>
+  <programme start="20261124133000 -0600" stop="20261124152000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">El milagro de Tyson</title>
+  </programme>
+  <programme start="20261124152000 -0600" stop="20261124165500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">La leyenda del Caballero Negro</title>
+  </programme>
+  <programme start="20261124165500 -0600" stop="20261124184500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Camino a la Libertad</title>
+    <desc lang="es">Tras la invasión de Polonia por los alemanes, un grupo de hombres logra escapar de los campos de concentración de la Unión Soviética localizados en Siberia para comenzar su viaje que los llevará hacia su libertad en la India.</desc>
+    <credits>
+      <director>Peter Weir</director>
+      <actor>Jim Sturgess</actor>
+      <actor>Ed Harris</actor>
+      <actor>Saoirse Ronan</actor>
+      <actor>Colin Farrell</actor>
+      <producer>Peter Weir</producer>
+      <producer>Joni Levin</producer>
+      <composer>Burkhard Dallwitz</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Historia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/camino_a_la_libertad.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20261124184500 -0600" stop="20261124210000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Sin culpa</title>
+  </programme>
+  <programme start="20261124210000 -0600" stop="20261124224500 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">Si tuviera 30</title>
+  </programme>
+  <programme start="20261124224500 -0600" stop="20261125004000 -0600" channel="Canal.Multipremier.cl">
+    <title lang="es">The Tribes of Palos Verdes</title>
+  </programme>
   <programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="CNN HD.us">
     <title>State of the Union With Jake Tapper and Dana Bash</title>
     <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
@@ -21703,6 +23538,22 @@
     <title>Basket-ball : Euroligue masculine</title>
     <desc>Besiktas v Paris BasketballA suivre des matchs de la prestigieuse EuroLigue de basket-ball, officiellement appelée EuroLeague.</desc>
   </programme>
+  <programme start="20261124190000 +0000" stop="20261124191500 +0000" channel="beINSPORTS1.fr">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20261124191500 +0000" stop="20261124193000 +0000" channel="beINSPORTS1.fr">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20261124193000 +0000" stop="20261124194500 +0000" channel="beINSPORTS1.fr">
+    <title>Basket-ball : avant-match</title>
+    <desc>Basket-ball : avant-match.</desc>
+  </programme>
+  <programme start="20261124194500 +0000" stop="20261124214500 +0000" channel="beINSPORTS1.fr">
+    <title>Basket-ball : Euroligue masculine</title>
+    <desc>ASVEL Lyon-Villeurbanne v Olimpia MilanL'ASVEL de Tony Parker reçoit l'une des plus mauvaises équipes de ce début de saison de l'Euroligue, l'Olimpia Milan. Les noirs et blancs fondent beaucoup d'espoirs sur l'expérimenté Patty Mills pour les aider à battre un adversaire qui arrive en France avec l'espoir de se relancer.</desc>
+  </programme>
   <programme start="20261121081500 +0000" stop="20261121083000 +0000" channel="beINSPORTS2.fr">
     <title>Ça se passe sur beIN SPORTS</title>
     <desc>Ça se passe sur beIN SPORTS.</desc>
@@ -21978,6 +23829,18 @@
   <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="beINSPORTS2.fr">
     <title>Made in England</title>
     <desc>Made in England.</desc>
+  </programme>
+  <programme start="20261124173000 +0000" stop="20261124193000 +0000" channel="beINSPORTS2.fr">
+    <title>Football : Süper Lig</title>
+    <desc>Galatasaray v SamsunsporRetransmission d'un match du championnat de Turquie de football, appelé Süper Lig.</desc>
+  </programme>
+  <programme start="20261124193000 +0000" stop="20261124203000 +0000" channel="beINSPORTS2.fr">
+    <title>A point</title>
+    <desc>Psychologue du sport, Cécile Traverse-Furlan a publié "Jean-Marc Furlan : le don d'une vie" pour alerter sur la maladie de son époux et les séquelles des commotions dans le sport.</desc>
+  </programme>
+  <programme start="20261124203000 +0000" stop="20261124223000 +0000" channel="beINSPORTS2.fr">
+    <title>Football : Bundesliga</title>
+    <desc>Bayern Munich v CologneLe 20 novembre 2026, le Bayern recevra Cologne à l'Allianz Arena. Avec Harry Kane, déjà auteur de quatre buts en championnat et Michael Olise, meilleur créateur de l'équipe avec 25 occasions créées, les Bavarois disposent d'armes offensives majeures. Cologne pourra compter sur Saïd El Mala, capable de faire la différence en contre.</desc>
   </programme>
   <programme start="20261122090000 +0000" stop="20261122110000 +0000" channel="Espn.ar">
     <title>Fútbol CONMEBOL Copa Sudamericana : Atlético Mineiro vs. Boca Juniors</title>
