@@ -75,7 +75,7 @@ http://playtvch.lat:2082/Frankyvarela/91682929262/6348
 #EXTINF:-1 tvg-id="Canal.Elgourmet.(Costa.Rica).cr" tvg-name="EL GOURMET" tvg-logo="https://i.ibb.co/gF9szFdc/Elgourmet-23.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",EL GOURMET
 http://playtvch.lat:2082/Frankyvarela/91682929262/2693
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/VWVmLY7Z/hbo-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO
+#EXTINF:-1 tvg-id="Canal.HBO.(Argentina).ar" tvg-name="HBO" tvg-logo="https://i.ibb.co/VWVmLY7Z/hbo-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO
 http://go.iptvhn.net:25461/7243/72432023/1286
 
 #EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cr" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/LDRL3cZN/hbo-2-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO 2
@@ -93,7 +93,7 @@ http://go.iptvhn.net:25461/7243/72432023/1287
 #EXTINF:-1 tvg-id="Canal.USA.Network.(Costa.Rica).cr" tvg-name="USA SERIES" tvg-logo="https://i.ibb.co/M5hycnLT/usa-network-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",USA SERIES
 http://playtvch.lat:2082/Frankyvarela/91682929262/30628
 
-#EXTINF:-1 tvg-id="DHE" tvg-logo="https://i.ibb.co/wF23Ls4M/canal-dhe-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DHE
+#EXTINF:-1 tvg-id="Canal.DHE.cl" tvg-logo="https://i.ibb.co/wF23Ls4M/canal-dhe-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DHE
 http://rabbittv.online:2095/live/GuiovanniBenavides/ksqn5wcJwQ/268275.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Cinecanal.(México).mx" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
@@ -111,10 +111,10 @@ http://go.iptvhn.net:25461:2082/7243/72432023/834
 #EXTINF:-1 tvg-id="Canal.Golden.(Costa.Rica).cr" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN
 http://go.iptvhn.net:25461/7243/72432023/3423
 
-#EXTINF:-1 tvg-id="Golden +" tvg-name="GOLDEN +" tvg-logo="https://i.ibb.co/rRyY0kRq/Golden-Plus-LA-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN +
-http://redworld.pro:8880/marcos6@72639/81266785849/414516
+#EXTINF:-1 tvg-id="Canal.Golden.Plus.mx" tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/rRyY0kRq/Golden-Plus-LA-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN PLUS
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769436.m3u8
 
-#EXTINF:-1 tvg-id="Golden Premier" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/DD1B56Lb/Golden-Premier.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN PREMIER
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/DD1B56Lb/Golden-Premier.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN PREMIER
 http://go.iptvhn.net:25461/7243/72432023/2735
 
 #EXTINF:-1 tvg-id="Canal.Golden.Edge.cr" tvg-name="GOLDEN EDGE" tvg-logo="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN EDGE
@@ -135,7 +135,7 @@ http://go.iptvhn.net:25461/7243/72432023/1295
 #EXTINF:-1 tvg-id="Canal.Lifetime.(México).mx" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",LIFETIME
 http://rabbittv.online:2095/live/GuiovanniBenavides/ksqn5wcJwQ/327475.m3u8
 
-#EXTINF:-1 tvg-id="Multipremier" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",MULTIPREMIER
+#EXTINF:-1 tvg-id="Canal.Multipremier.cl" tvg-name="MULTIPREMIER" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",MULTIPREMIER
 http://go.iptvhn.net:25461/7243/72432023/1299
 
 #EXTINF:-1 tvg-id="Panico.cr" tvg-name="PANICO" tvg-logo="https://i.ibb.co/M5ZLQp3Y/Paniconvv.webp" group-title="Peliculas y Series" tvg-group="Peliculas y Series",PANICO
