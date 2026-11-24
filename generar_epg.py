@@ -9,14 +9,12 @@ from xml.etree import ElementTree as ET
 M3U_FILE = "Zico Iptv.m3u"
 OUTPUT_FILE = "guide.xml"
 EPGSHARE_BASE = "https://epgshare01.online/epgshare01/epg_ripper_{code}1.xml.gz"
-PAISES_EPGSHARE = ["AR", "MX", "CR", "CL", "CO", "DIRECTVSPORTS"]
+PAISES_EPGSHARE = ["AR", "MX", "CR", "CL", "CO", "DIRECTVSPORTS", "PT"]
 OPEN_EPG_URLS = [
     "https://www.open-epg.com/files/unitedstates11.xml.gz",
     "https://www.open-epg.com/files/spain.xml.gz",
     "https://www.open-epg.com/files/unitedkingdom.xml.gz",
-    "https://www.open-epg.com/files/portugal.xml.gz",
     "https://www.open-epg.com/files/france.xml",
-    "https://www.open-epg.com/files/brazil.xml.gz",
     "https://www.open-epg.com/files/argentina.xml.gz"
 ]
 
