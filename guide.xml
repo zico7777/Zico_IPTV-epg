@@ -277,11 +277,11 @@
     <display-name>TELEMUNDO</display-name>
     <icon src="http://imgfz.com/i/NfWETI6.jpeg" />
   </channel>
-  <channel id="SPORT TV1 HD.pt">
+  <channel id="SPORT.TV1.HD.pt">
     <display-name>SPORT TV 1</display-name>
     <icon src="http://imgfz.com/i/rOj1ACN.png" />
   </channel>
-  <channel id="SPORT TV2 HD.pt">
+  <channel id="SPORT.TV2.HD.pt">
     <display-name>SPORT TV 2</display-name>
     <icon src="http://imgfz.com/i/j7A4QEl.png" />
   </channel>
@@ -24882,6 +24882,1101 @@
   </programme>
   <programme start="20261126220000 -0500" stop="20261127000000 -0500" channel="DSPORTS.2.HD.dtvsp">
     <title lang="en">Uruguay vs. Canadá</title>
+  </programme>
+  <programme start="20261123012800 +0000" stop="20261123012900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123012900 +0000" stop="20261123033000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça De Portugal - Torreense x Benfica</title>
+    <desc lang="pt">Assiste ao jogo da Taça de Portugal entre SCU Torreense x SL Benfica.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8084ab766b3749f88a140a170bc736bf&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123035900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">UEFA Champions League Magazine</title>
+    <desc lang="pt">Transmissão do programa – UEFA Champions League Magazine.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F70d726b2b5014bdfb2afc674f52cd80d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123035900 +0000" stop="20261123042900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Resumos Da Jornada - Futebol</title>
+    <desc lang="pt">Transmissão de programa - Liga Italiana Resumos.</desc>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff444c55394314f588465a4fe20e9a2b4&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123042900 +0000" stop="20261123043900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Liga Francesa 2025/2026 - Golos</title>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcd05a97c4ec04419a64a5e5bf5c03e1a&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123043900 +0000" stop="20261123064000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça De Portugal - Estrela da Amadora x Portimonense</title>
+    <desc lang="pt">Assiste ao jogo da Taça de Portugal entre Estrela da Amadora x Portimonense.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3bb8cd1ac22041cc9d46934edac7dc42&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123064000 +0000" stop="20261123083400 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Ligue 1 - Marselha x Le Mans</title>
+    <desc lang="pt">Assiste ao jogo da Ligue 1 entre Marselha x Le Mans.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc8f363b9098b4f6f8653ec78f73b8ac6&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123083400 +0000" stop="20261123102900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Atalanta x Inter Milão</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre Atalanta x Inter de Milão.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F13317e5d21594abeac35c1b14a381fc6&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123102900 +0000" stop="20261123104400 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Liga Francesa 2025/2026 - Golos</title>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcd05a97c4ec04419a64a5e5bf5c03e1a&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123104400 +0000" stop="20261123111300 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Resumos Da Jornada - Futebol</title>
+    <desc lang="pt">Transmissão de programa - Liga Italiana Resumos.</desc>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc8545dc8ddc546fcbf31d2b542808014&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123111300 +0000" stop="20261123111400 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123111400 +0000" stop="20261123114500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">UEFA Champions League Magazine</title>
+    <desc lang="pt">Transmissão do programa – UEFA Champions League Magazine.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F70d726b2b5014bdfb2afc674f52cd80d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123114500 +0000" stop="20261123133900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Milan x Frosinone</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre AC Milan x Frosinone.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc21b966fa2b74521b2c8fd69e3ed961c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123133900 +0000" stop="20261123153800 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça De Portugal - Torreense x Benfica</title>
+    <desc lang="pt">Assiste ao jogo da Taça de Portugal entre SCU Torreense x SL Benfica.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8084ab766b3749f88a140a170bc736bf&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123153800 +0000" stop="20261123173800 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça De Portugal - Estrela da Amadora x Portimonense</title>
+    <desc lang="pt">Assiste ao jogo da Taça de Portugal entre Estrela da Amadora x Portimonense.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3bb8cd1ac22041cc9d46934edac7dc42&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123173800 +0000" stop="20261123193800 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça De Portugal - Vitória Guimarães x Braga</title>
+    <desc lang="pt">Assiste ao jogo da Taça de Portugal entre Vitória SC x SC Braga.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fd687c09ae1c94e1ab6d02b8c4fc94501&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123193800 +0000" stop="20261123193900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123193900 +0000" stop="20261123214300 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Monza x Fiorentina (Direto)</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre Monza x Fiorentina.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8ae0c5c7c8c540c9bc5c519a4745b097&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123214300 +0000" stop="20261123221000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">UEFA Champions League Magazine</title>
+    <desc lang="pt">Transmissão do programa – UEFA Champions League Magazine.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F70d726b2b5014bdfb2afc674f52cd80d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123221000 +0000" stop="20261123223800 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Liga Francesa - Magazine</title>
+    <desc lang="pt">Magazine com os melhores momentos da Liga Francesa.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc1a581ec1f0c44b392bce0fa487fd024&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123223800 +0000" stop="20261123230700 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Resumos Da Jornada - Futebol</title>
+    <desc lang="pt">Transmissão de programa - Liga Italiana Resumos.</desc>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff444c55394314f588465a4fe20e9a2b4&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123230700 +0000" stop="20261123233300 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça Sul-Americana - Highlights</title>
+    <desc lang="pt">Magazine dedicado aos destaques da Taça Sul-Americana.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1c3777ccb54341af9fe5e1680adc1e41&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123233300 +0000" stop="20261124002800 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">UEFA Europa League &amp; Conference League Magazine</title>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe8c58ac05f2f4b368b1f7a13e2ba57f5&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124002800 +0000" stop="20261124030000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">NBA - Indiana Pacers x Oklahoma City Thunder (Direto)</title>
+    <desc lang="pt">Assiste ao jogo da NBA entre Indiana Pacers x Oklahoma City Thunder.</desc>
+    <date>2026</date>
+    <category lang="pt">Basquetebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff217da6b38c74c78a708e404472fe41b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124030100 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124030100 +0000" stop="20261124050000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Football: Süper Lig - Galatasaray x Samsunspor</title>
+    <desc lang="pt">Assiste ao jogo da Liga Turca entre Galatasaray x Samsunspor.</desc>
+    <date>2026</date>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4a81ef2637b44aa4a8eb2f43ecab0234&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124070000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Nápoles x Torino</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre Nápoles x Torino.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc7efe71aec1643588c2df8b74757bd42&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124090000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Como x Cagliari</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre Como x Cagliari.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F51bcaa316e3c46d0b28bd3d80b190bc7&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124091500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Liga-te A Fundação - Liga Portugal - Futebol - Magazine (Magazine)</title>
+    <sub-title lang="pt">Magazine (Magazine)</sub-title>
+    <desc lang="pt">Transmissão do Liga-te À Fundação - Liga Portugal.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8f2de9dec4d3452eb241fbc1846bb45c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124091500 +0000" stop="20261124094500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Resumos Da Jornada - Futebol</title>
+    <desc lang="pt">Transmissão de programa - Liga Italiana Resumos.</desc>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff444c55394314f588465a4fe20e9a2b4&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124094500 +0000" stop="20261124101400 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Liga Francesa - Magazine</title>
+    <desc lang="pt">Magazine com os melhores momentos da Liga Francesa.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc1a581ec1f0c44b392bce0fa487fd024&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124101400 +0000" stop="20261124101500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124101500 +0000" stop="20261124120900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Serie A - Monza x Fiorentina</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre Monza x Fiorentina.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F2a179c74687d462fa2326891bb469e57&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124120900 +0000" stop="20261124141500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça De Portugal - FC Porto x Paredes</title>
+    <desc lang="pt">Assiste ao jogo da Taça de Portugal entre FC Porto x USC Paredes.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fb2f04e8c80884f0e83642e0969cf9377&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124141500 +0000" stop="20261124162300 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça De Portugal - Sporting Clube de Portugal x União da Serra</title>
+    <desc lang="pt">Assiste ao jogo da Taça de Portugal entre Sporting CP x União da Serra.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe11b7f49141e4136be1ad00b681bcff9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124162300 +0000" stop="20261124165500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">UEFA Champions League Magazine</title>
+    <desc lang="pt">Transmissão do programa – UEFA Champions League Magazine.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F24a9bdfcb4db49498ce8fc026e6a789a&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124165500 +0000" stop="20261124175200 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">UEFA Europa League &amp; Conference League Magazine</title>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F614a8679bfe24d3995b0f00caa0b9d5d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124175200 +0000" stop="20261124195400 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Ligue 1 - Nice x Paris Saint-Germain</title>
+    <desc lang="pt">Assiste ao jogo da Ligue 1 entre Nice x Paris Saint-Germain.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F2008a34a62b741fd88730adb98e5bf40&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124195400 +0000" stop="20261124220000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">EFL Championship - Wolverhampton x Derby County (Direto)</title>
+    <desc lang="pt">Assiste ao jogo da EFL Championship entre Wolverhampton x Derby County.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4a81ef2637b44aa4a8eb2f43ecab0234&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124221500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Liga-te A Fundação - Liga Portugal - Futebol - Magazine (Magazine)</title>
+    <sub-title lang="pt">Magazine (Magazine)</sub-title>
+    <desc lang="pt">Transmissão do Liga-te À Fundação - Liga Portugal.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8f2de9dec4d3452eb241fbc1846bb45c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124221500 +0000" stop="20261125001300 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Primeira Liga da Escócia - Rangers x Aberdeen</title>
+    <desc lang="pt">Espaço dedicado à transmissão da Liga Escocesa.</desc>
+    <date>2026</date>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4a81ef2637b44aa4a8eb2f43ecab0234&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125001300 +0000" stop="20261125004500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Taça Sul-Americana - Highlights</title>
+    <desc lang="pt">Magazine dedicado aos destaques da Taça Sul-Americana.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1c3777ccb54341af9fe5e1680adc1e41&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125004500 +0000" stop="20261125005900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Liga-te A Fundação - Liga Portugal - Futebol - Magazine (Magazine)</title>
+    <sub-title lang="pt">Magazine (Magazine)</sub-title>
+    <desc lang="pt">Transmissão do Liga-te À Fundação - Liga Portugal.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8f2de9dec4d3452eb241fbc1846bb45c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125005900 +0000" stop="20261125033000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">NBA - Boston Celtics x Washington Wizards (Direto)</title>
+    <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
+    <date>2026</date>
+    <category lang="pt">Basquetebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6df64029cac64af9b8b24eb774a9a68a&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125033000 +0000" stop="20261125052900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Ligue 1 - Lille x Lyon</title>
+    <desc lang="pt">Assiste ao jogo da Ligue 1 entre Lille x Lyon.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fb4430759dc5e49dab9bc1f0048cdd1e0&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125052900 +0000" stop="20261125053000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125053000 +0000" stop="20261125073000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">EFL Championship - Wolverhampton x Derby County</title>
+    <desc lang="pt">Assiste ao jogo da EFL Championship entre Wolverhampton x Derby County.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fd03305f0fcf644e48dd82e1a57b1fb34&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125073000 +0000" stop="20261125073100 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125073100 +0000" stop="20261125121400 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125121400 +0000" stop="20261125121500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125121500 +0000" stop="20261125165800 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125165800 +0000" stop="20261125165900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125165900 +0000" stop="20261125214200 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125214200 +0000" stop="20261125214300 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125214300 +0000" stop="20261126022600 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126022600 +0000" stop="20261126022700 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126022700 +0000" stop="20261126071000 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126071000 +0000" stop="20261126071100 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126071100 +0000" stop="20261126115400 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126115400 +0000" stop="20261126115500 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126115500 +0000" stop="20261126163800 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126163800 +0000" stop="20261126163900 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126163900 +0000" stop="20261126212200 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126212200 +0000" stop="20261126212300 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126212300 +0000" stop="20261127020600 +0000" channel="SPORT.TV1.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcf14fc675d5746a3b6272fa7f62f8205&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123013000 +0000" stop="20261123040000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">NBA - Golden State Warriors x Boston Celtics (Direto)</title>
+    <desc lang="pt">Assiste ao jogo da NBA entre Golden State Warriors x Boston Celtics.</desc>
+    <date>2026</date>
+    <category lang="pt">Basquetebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8d029233946e41cea25373f3d7d1887d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123053100 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Sail GP - Emirates Dubai Sail Grand Prix - Dia 2</title>
+    <desc lang="pt">Corridas intensas, locais globais icônicos, equipes e atletas de elite, recordes de velocidade. SailGP é a corrida mais emocionante na água.</desc>
+    <date>2026</date>
+    <category lang="pt">Vela</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3ae153c3213940e8b1796dcd01f3fcbd&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123053100 +0000" stop="20261123073000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Voleibol - Campeonato Nacional 2026-2027 - Castelo Maia GC x SL Benfica</title>
+    <desc lang="pt">Assiste ao jogo do Campeonato Nacional de Voleibol A2 entre Castelo Maia GC x SL Benfica.</desc>
+    <date>2026</date>
+    <category lang="pt">Voleibol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F58cd4abd91cd4c4d9f314cfbe3bc9478&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123073000 +0000" stop="20261123080000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">MotoGP Highlights</title>
+    <date>2026</date>
+    <category lang="pt">Motociclismo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Faa4408f2f4834f95a7f16e30d65f65f3&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123082700 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Premier Padel - Resumo 2026</title>
+    <date>2026</date>
+    <category lang="pt">Padel</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fd5276efa41464375bf7a659a6f302e3c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123082700 +0000" stop="20261123104600 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">NBA - Miami Heat x Oklahoma City Thunder</title>
+    <sub-title lang="pt">Miami Heat vs Oklahoma City Thunder</sub-title>
+    <desc lang="pt">Assiste ao jogo da NBA entre Miami Heat x Oklahoma City Thunder.</desc>
+    <date>2026</date>
+    <category lang="pt">Basquetebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa04ce822ba5e41b99658682dbe2e83b8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123104600 +0000" stop="20261123130500 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">NBA - Golden State Warriors x Boston Celtics</title>
+    <sub-title lang="pt">NBA: Golden State Warriors - Boston Celtics (M)</sub-title>
+    <desc lang="pt">Assiste ao jogo da NBA entre Golden State Warriors x Boston Celtics.</desc>
+    <date>2026</date>
+    <category lang="pt">Basquetebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fd800a645006e4d0fb05ed0ab0860d0ce&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123130500 +0000" stop="20261123145900 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Liga Profesional Argentina - River Plate x Lanus</title>
+    <desc lang="pt">Assiste ao jogo da Liga Profesional Argentina entre River Plate x Lanús.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F158610f1010048b2ae794042fce18043&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123145900 +0000" stop="20261123152900 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Serie A - Resumos Da Jornada - Futebol</title>
+    <desc lang="pt">Transmissão de programa - Liga Italiana Resumos.</desc>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff444c55394314f588465a4fe20e9a2b4&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123152900 +0000" stop="20261123154400 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Liga Francesa 2025/2026 - Golos</title>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcd05a97c4ec04419a64a5e5bf5c03e1a&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123154400 +0000" stop="20261123154500 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3d7e065fea5d40ddb50b6fa1bf1a1314&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123154500 +0000" stop="20261123174000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Football: Süper Lig - Trabzonspor x Eyupspor</title>
+    <desc lang="pt">Assiste ao jogo da Superliga Turca entre Trabzonspor x Eyupspor.</desc>
+    <date>2026</date>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe8215b8c06044bdc9a67877461b5eb8b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123174000 +0000" stop="20261123193900 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Serie A - Juventus x Venezia</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre Juventus x Veneza.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6414a88f73c246ed85ae0c69c83cd8d2&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123193900 +0000" stop="20261123213800 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Ligue 1 - Paris FC x Angers</title>
+    <desc lang="pt">Assiste ao jogo da Ligue 1 entre Paris FC x Angers.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F548b0943185c4a5697a479dde6c5ef14&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123213800 +0000" stop="20261123213900 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3d7e065fea5d40ddb50b6fa1bf1a1314&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123213900 +0000" stop="20261123221000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Taça Sul-Americana - Highlights</title>
+    <desc lang="pt">Magazine dedicado aos destaques da Taça Sul-Americana.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1c3777ccb54341af9fe5e1680adc1e41&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261123221000 +0000" stop="20261124002100 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Copa Sudamericana - Atletico Mineiro x Boca Juniors</title>
+    <sub-title lang="pt">Atletico Mineiro vs Boca Juniors - Final</sub-title>
+    <desc lang="pt">Assiste ao jogo da CONMEBOL Copa Sudamericana entre Atlético Mineiro x Boca Juniors.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F65e80d95856e47429ddcb2b376ad8fe5&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124002100 +0000" stop="20261124022000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Serie A - Monza x Fiorentina</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre Monza x Fiorentina.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F2a179c74687d462fa2326891bb469e57&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124022000 +0000" stop="20261124025000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Liga Francesa - Magazine</title>
+    <desc lang="pt">Magazine com os melhores momentos da Liga Francesa.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F830379f3348c402d9777c86ecb5cc007&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124025000 +0000" stop="20261124032000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Serie A - Resumos Da Jornada - Futebol</title>
+    <desc lang="pt">Transmissão de programa - Liga Italiana Resumos.</desc>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff444c55394314f588465a4fe20e9a2b4&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124032000 +0000" stop="20261124042200 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Moto 3 2026 - Repsol Grand Prix Of Portugal - Corrida</title>
+    <desc lang="pt">Acompanhe as provas na categoria de Moto3.</desc>
+    <date>2026</date>
+    <category lang="pt">Motociclismo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4874c62db155481bb466702f6ae318ea&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124042200 +0000" stop="20261124052500 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Moto 2 - Motociclismo - Repsol Grand Prix Of Portugal - Corrida</title>
+    <desc lang="pt">Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na Moto2.</desc>
+    <date>2026</date>
+    <category lang="pt">Desporto Motorizado</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F9461fd88c3994261ae3ef1c2a4688d55&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124052500 +0000" stop="20261124061800 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Moto Gp 2026 - Repsol Grand Prix Of Portugal - Corrida</title>
+    <desc lang="pt">O MotoGP é a competição máxima do motociclismo e onde estão os melhores pilotos. É a alta velocidade que são dadas todas curvas, o que faz com que cada corrida seja espetacular.</desc>
+    <date>2026</date>
+    <category lang="pt">Motociclismo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fb52be020ad694b8189e976d7011c6244&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124061800 +0000" stop="20261124064000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3d7e065fea5d40ddb50b6fa1bf1a1314&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124064000 +0000" stop="20261124084000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Nations Championship - Rugby - País De Gales x Austrália</title>
+    <date>2026</date>
+    <category lang="pt">Rugby</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4a81ef2637b44aa4a8eb2f43ecab0234&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124084000 +0000" stop="20261124104000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Rugby - Nations Championship 2026 - Escócia x Japão</title>
+    <category lang="pt">Rugby</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F626ab1ae11094fe389139706d183b936&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124104000 +0000" stop="20261124124000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Premier Padel - Padel - Melhor Jogo Do Dia</title>
+    <desc lang="pt">Transmissão do Premier Padel.</desc>
+    <date>2026</date>
+    <category lang="pt">Padel</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4a81ef2637b44aa4a8eb2f43ecab0234&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124124000 +0000" stop="20261124145900 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">NBA - Indiana Pacers x Oklahoma City Thunder</title>
+    <desc lang="pt">Assiste ao jogo da NBA entre Indiana Pacers x Oklahoma City Thunder.</desc>
+    <date>2026</date>
+    <category lang="pt">Basquetebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff217da6b38c74c78a708e404472fe41b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124145900 +0000" stop="20261124165400 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Serie A - Parma Calcio 1913 x Roma</title>
+    <desc lang="pt">Assiste ao jogo da Serie A entre Parma x AS Roma.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fbfef11cf77954cf5ad2eccd75e441bb6&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124165400 +0000" stop="20261124165500 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3d7e065fea5d40ddb50b6fa1bf1a1314&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124165500 +0000" stop="20261124190500 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Copa Sudamericana - Atletico Mineiro x Boca Juniors</title>
+    <sub-title lang="pt">Atletico Mineiro vs Boca Juniors - Final</sub-title>
+    <desc lang="pt">Assiste ao jogo da CONMEBOL Copa Sudamericana entre Atlético Mineiro x Boca Juniors.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F65e80d95856e47429ddcb2b376ad8fe5&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124190500 +0000" stop="20261124193500 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Taça Sul-Americana - Highlights</title>
+    <desc lang="pt">Magazine dedicado aos destaques da Taça Sul-Americana.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1c3777ccb54341af9fe5e1680adc1e41&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124193500 +0000" stop="20261124195400 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Liga-te A Fundação - Liga Portugal - Futebol - Magazine (Magazine)</title>
+    <sub-title lang="pt">Magazine (Magazine)</sub-title>
+    <desc lang="pt">Transmissão do Liga-te À Fundação - Liga Portugal.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8f2de9dec4d3452eb241fbc1846bb45c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124195400 +0000" stop="20261124195500 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Fora de Horas: Sem Transmissão.</desc>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3d7e065fea5d40ddb50b6fa1bf1a1314&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124195500 +0000" stop="20261124215900 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Primeira Liga da Escócia - Rangers x Aberdeen (Direto)</title>
+    <desc lang="pt">Espaço dedicado à transmissão da Liga Escocesa.</desc>
+    <date>2026</date>
+    <category lang="pt">Desporto</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4a81ef2637b44aa4a8eb2f43ecab0234&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124215900 +0000" stop="20261124225900 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">UEFA Europa League &amp; Conference League Magazine</title>
+    <date>2026</date>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0175dab8c1dd4892ba7c3e76bc7dc100&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261124225900 +0000" stop="20261125005900 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">EFL Championship - Wolverhampton x Derby County</title>
+    <desc lang="pt">Assiste ao jogo da EFL Championship entre Wolverhampton x Derby County.</desc>
+    <date>2026</date>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fd03305f0fcf644e48dd82e1a57b1fb34&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125005900 +0000" stop="20261125033800 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">NHL - Edmonton Oilers x Vegas Golden Knights (Direto)</title>
+    <desc lang="pt">A NHL é o principal campeonato de hóquei no gelo do mundo. Grandes equipes americanas e canadenses, também recheadas de estrelas europeias, disputam o concorrido título da Stanley Cup.</desc>
+    <date>2026</date>
+    <category lang="pt">Hóquei no gelo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F49e5a29d053248249abcaf47ac2fcd6e&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125033800 +0000" stop="20261125053300 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Taça Davis - Melhor Jogo Do Dia</title>
+    <date>2026</date>
+    <category lang="pt">Ténis</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1377a917ed184b349714bad626769a95&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125053300 +0000" stop="20261125060100 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Inside Sailing</title>
+    <desc lang="pt">Os principais acontecimentos do mundo da vela e reportagens especiais sobre a prática da modalidade.</desc>
+    <date>2026</date>
+    <category lang="pt">Vela</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fbb171b348a1c4f29bead9f5f4bd88fd8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125060100 +0000" stop="20261125100100 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125100100 +0000" stop="20261125140100 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125140100 +0000" stop="20261125180100 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125180100 +0000" stop="20261125220100 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261125220100 +0000" stop="20261126020100 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126020100 +0000" stop="20261126060000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126060000 +0000" stop="20261126100000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126100000 +0000" stop="20261126140000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126140000 +0000" stop="20261126180000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126180000 +0000" stop="20261126220000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20261126220000 +0000" stop="20261127020000 +0000" channel="SPORT.TV2.HD.pt">
+    <title lang="pt">Pausa na programação</title>
+    <category lang="pt">Variedades</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa4da078a3df7475e92c71af343eacad9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="Telemundo (KTMD) Houston, TX HD.us">
     <title>Hoy día: Celebrando nuestras reinas</title>
