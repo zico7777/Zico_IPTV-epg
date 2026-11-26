@@ -14,8 +14,7 @@ OPEN_EPG_URLS = [
     "https://www.open-epg.com/files/unitedstates11.xml.gz",
     "https://www.open-epg.com/files/spain.xml.gz",
     "https://www.open-epg.com/files/unitedkingdom.xml.gz",
-    "https://www.open-epg.com/files/france.xml",
-    "https://www.open-epg.com/files/argentina.xml.gz"
+    "https://www.open-epg.com/files/france.xml"
 ]
 
 def parse_m3u(path):
